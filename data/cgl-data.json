@@ -5,21 +5,21 @@
       "full_link": "full-test.html",
       "sectional_link": "test.html",
       "subject_link": "full-test.html",
-      "sections": [
-        {"id": "REASONING", "name": "Reasoning", "qs": 25, "time": "15 Min", "marks": 50},
-        {"id": "GK", "name": "General Awareness", "qs": 25, "time": "10 Min", "marks": 50},
-        {"id": "MATHS", "name": "Quantitative Aptitude", "qs": 25, "time": "25 Min", "marks": 50},
-        {"id": "ENGLISH", "name": "English Language", "qs": 25, "time": "12 Min", "marks": 50}
-      ]
+     "sections": [
+  {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 25, "time": "15 Min", "marks": 50},
+  {"id": "GK", "name": "General Awareness", "backendName": "GENERAL AWARENESS", "qs": 25, "time": "10 Min", "marks": 50},
+  {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 25, "time": "25 Min", "marks": 50},
+  {"id": "ENGLISH", "name": "English", "backendName": "ENGLISH", "qs": 25, "time": "12 Min", "marks": 50}
+]
     },
     "tier2": {
       "full_link": "test-t2.html",
       "sectional_link": "test-t2-s.html",
       "subject_link": "full-test.html",
       "sections": [
-        {"id": "SEC1", "name": "Section 1 (Math/Reas)", "qs": 60, "time": "60 Min", "marks": 180},
-        {"id": "SEC2", "name": "Section 2 (Eng/GK)", "qs": 70, "time": "60 Min", "marks": 210},
-        {"id": "SEC3", "name": "Section 3 (Computer)", "qs": 20, "time": "15 Min", "marks": 60}
+        {"id": "SEC1", "name": "Section 1 (Math/Reas)", "backendName": "SECTION 1", "qs": 60, "time": "60 Min", "marks": 180},
+        {"id": "SEC2", "name": "Section 2 (Eng/GK)", "backendName": "SECTION 2", "qs": 70, "time": "60 Min", "marks": 210},
+        {"id": "SEC3", "name": "Section 3 (Computer)", "backendName": "SECTION 3", "qs": 20, "time": "15 Min", "marks": 60}
       ]
     }
   },
