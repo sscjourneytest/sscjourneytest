@@ -65,7 +65,13 @@
           {"id": "CGL-2025-23-SEP-SHIFT-3", "title": "CGL-2025-23-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
           {"id": "CGL-2025-24-SEP-SHIFT-1", "title": "CGL-2025-24-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
           {"id": "CGL-2025-24-SEP-SHIFT-2", "title": "CGL-2025-24-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-24-SEP-SHIFT-3", "title": "CGL-2025-24-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
+          {"id": "CGL-2025-24-SEP-SHIFT-3", "title": "CGL-2025-24-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+          {"id": "CGL-2025-25-SEP-SHIFT-1", "title": "CGL-2025-25-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+          {"id": "CGL-2025-25-SEP-SHIFT-2", "title": "CGL-2025-25-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+          {"id": "CGL-2025-25-SEP-SHIFT-3", "title": "CGL-2025-25-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+          {"id": "CGL-2025-26-SEP-SHIFT-1", "title": "CGL-2025-26-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+          {"id": "CGL-2025-26-SEP-SHIFT-2", "title": "CGL-2025-26-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+          {"id": "CGL-2025-26-SEP-SHIFT-3", "title": "CGL-2025-26-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
         ],
         "subject_wise": [
           {"id": "CGL25-SUB-EXAMPLE", "title": "Algebra Special 01", "type": "paid", "releaseDate": "", "qs": 50, "time": "30 Min", "marks": 100}
