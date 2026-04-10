@@ -1,0 +1,75 @@
+{
+  "examCode": "MTS",
+  "config": {
+    "tier1": {
+      "full_link": "test-t2-q.html",
+      "sectional_link": "test-t2-s.html",
+      "subject_link": "full-test.html",
+      "sections": [
+        {
+          "id": "MATH_REAS",
+          "name": "Math and Reasoning",
+          "backendName": "MATH AND REASONING",
+          "qs": 40,
+          "time": "45 Min",
+          "marks": 120
+        },
+        {
+          "id": "ENG_GK",
+          "name": "English and GK",
+          "backendName": "ENGLISH AND GK",
+          "qs": 50,
+          "time": "45 Min",
+          "marks": 150
+        }
+      ]
+    }
+  },
+  "data": {
+    "tier1": {
+      "2025": {
+        "full_mocks": [
+          {"id": "MTS-2025-04-FEB-SHIFT-3", "title": "MTS MOCK( 04 FEB 2026 SHIFT 3)", "type": "free", "releaseDate": "11-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-05-FEB-SHIFT-1", "title": "MTS MOCK( 05 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "12-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-05-FEB-SHIFT-2", "title": "MTS MOCK( 05 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "12-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-05-FEB-SHIFT-3", "title": "MTS MOCK( 05 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "13-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-06-FEB-SHIFT-1", "title": "MTS MOCK( 06 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "13-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-06-FEB-SHIFT-2", "title": "MTS MOCK( 06 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "14-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-06-FEB-SHIFT-3", "title": "MTS MOCK( 06 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "14-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-09-FEB-SHIFT-1", "title": "MTS MOCK( 09 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "15-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-09-FEB-SHIFT-2", "title": "MTS MOCK( 09 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "15-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-09-FEB-SHIFT-3", "title": "MTS MOCK( 09 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "16-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-10-FEB-SHIFT-1", "title": "MTS MOCK( 10 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "16-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-10-FEB-SHIFT-2", "title": "MTS MOCK( 10 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "17-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-10-FEB-SHIFT-3", "title": "MTS MOCK( 10 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "17-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-11-FEB-SHIFT-1", "title": "MTS MOCK( 11 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "18-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-11-FEB-SHIFT-2", "title": "MTS MOCK( 11 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "18-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-11-FEB-SHIFT-3", "title": "MTS MOCK( 11 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "19-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-12-FEB-SHIFT-1", "title": "MTS MOCK( 12 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "19-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-12-FEB-SHIFT-2", "title": "MTS MOCK( 12 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "20-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-12-FEB-SHIFT-3", "title": "MTS MOCK( 12 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "20-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-13-FEB-SHIFT-1", "title": "MTS MOCK( 13 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "21-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-13-FEB-SHIFT-2", "title": "MTS MOCK( 13 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "21-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-13-FEB-SHIFT-3", "title": "MTS MOCK( 13 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "22-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-16-FEB-SHIFT-1", "title": "MTS MOCK( 16 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "22-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-16-FEB-SHIFT-2", "title": "MTS MOCK( 16 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "23-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-16-FEB-SHIFT-3", "title": "MTS MOCK( 16 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "23-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-17-FEB-SHIFT-1", "title": "MTS MOCK( 17 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "24-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-17-FEB-SHIFT-2", "title": "MTS MOCK( 17 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "24-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-17-FEB-SHIFT-3", "title": "MTS MOCK( 17 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "25-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-18-FEB-SHIFT-1", "title": "MTS MOCK( 18 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "25-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-18-FEB-SHIFT-2", "title": "MTS MOCK( 18 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "26-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-18-FEB-SHIFT-3", "title": "MTS MOCK( 18 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "26-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-19-FEB-SHIFT-1", "title": "MTS MOCK( 19 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "27-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-19-FEB-SHIFT-2", "title": "MTS MOCK( 19 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "27-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-19-FEB-SHIFT-3", "title": "MTS MOCK( 19 FEB 2026 SHIFT 3)", "type": "paid", "releaseDate": "28-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-20-FEB-SHIFT-1", "title": "MTS MOCK( 20 FEB 2026 SHIFT 1)", "type": "paid", "releaseDate": "28-04-2026", "qs": 90, "time": "90 Min", "marks": 270},
+          {"id": "MTS-2025-20-FEB-SHIFT-2", "title": "MTS MOCK( 20 FEB 2026 SHIFT 2)", "type": "paid", "releaseDate": "29-04-2026", "qs": 90, "time": "90 Min", "marks": 270}
+        ],
+        "sectional_wise": [],
+        "subject_wise": []
+      }
+    }
+  }
+}
+
