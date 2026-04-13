@@ -25,7 +25,7 @@
     "tier1": {
       "2025": {
         "full_mocks": [
-          {"id": "CPO-09-DEC-2025-SHIFT-1", "title": "CPO 09-DEC-2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "CPO-09-DEC-2025-SHIFT-1", "title": "CPO 09-DEC-2025 SHIFT 1", "type": "free", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
           {"id": "CPO-09-DEC-2025-SHIFT-2", "title": "CPO 09-DEC-2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
           {"id": "CPO-10-DEC-2025-SHIFT-1", "title": "CPO 10-DEC-2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
           {"id": "CPO-10-DEC-2025-SHIFT-2", "title": "CPO 10-DEC-2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
