@@ -75,7 +75,8 @@
           {"id": "CHSL-2025-29-NOV-SHIFT-2", "title": "CHSL 2025-29-NOV SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
           {"id": "CHSL-2025-29-NOV-SHIFT-3", "title": "CHSL 2025-29-NOV SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
           {"id": "CHSL-2025-30-NOV-SHIFT-1", "title": "CHSL 2025-30-NOV SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CHSL-2025-30-NOV-SHIFT-2", "title": "CHSL 2025-30-NOV SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
+          {"id": "CHSL-2025-30-NOV-SHIFT-2", "title": "CHSL 2025-30-NOV SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+          {"id": "CHSL-2025-30-NOV-SHIFT-3", "title": "CHSL 2025-30-NOV SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
         ],
         "subject_wise": []
       }
