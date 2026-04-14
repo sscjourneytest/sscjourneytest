@@ -7,9 +7,9 @@
       "subject_link": "full-test.html",
       "sections": [
         {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 25, "time": "15 Min", "marks": 50},
-        {"id": "GK", "name": "General Awareness", "backendName": "GENERAL AWARENESS", "qs": 25, "time": "10 Min", "marks": 50},
-        {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 25, "time": "25 Min", "marks": 50},
-        {"id": "ENGLISH", "name": "English", "backendName": "ENGLISH", "qs": 25, "time": "12 Min", "marks": 50}
+        {"id": "GK", "name": "General Awareness", "backendName": "GENERAL AWARENESS", "qs": 25, "time": "15 Min", "marks": 50},
+        {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 25, "time": "15 Min", "marks": 50},
+        {"id": "ENGLISH", "name": "English", "backendName": "ENGLISH", "qs": 25, "time": "15 Min", "marks": 50}
       ]
     },
     "tier2": {
