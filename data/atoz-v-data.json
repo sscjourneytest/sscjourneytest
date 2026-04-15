@@ -11,22 +11,22 @@
     "tier1": {
       "default": {
         "full_mocks": [
-          {
-            "id": "V-01",
-            "title": "A to Z Vocab - Set 01",
-            "type": "free",
-            "qs": 50,
-            "time": "30 Min",
-            "marks": 100
-          },
-          {
-            "id": "V-02",
-            "title": "A to Z Vocab - Set 02",
-            "type": "paid",
-            "qs": 50,
-            "time": "30 Min",
-            "marks": 100
-          }
+          {"id": "imps-atoz-v-A1", "title": "A word Synonyms - 1", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-A2", "title": "A word Synonyms - 2", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-A3", "title": "A word Synonyms - 3", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-A4", "title": "A word Synonyms - 4", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-A5", "title": "A word Synonyms - 5", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-B1", "title": "B word Synonyms - 1", "type": "free", "releaseDate": "17-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-B2", "title": "B word Synonyms - 2", "type": "free", "releaseDate": "17-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-B3", "title": "B word Synonyms - 3", "type": "free", "releaseDate": "17-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-B4", "title": "B word Synonyms - 4", "type": "free", "releaseDate": "17-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-B5", "title": "B word Synonyms - 5", "type": "free", "releaseDate": "17-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-C1", "title": "C word Synonyms - 1", "type": "free", "releaseDate": "18-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-C2", "title": "C word Synonyms - 2", "type": "free", "releaseDate": "18-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-C3", "title": "C word Synonyms - 3", "type": "free", "releaseDate": "18-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-C4", "title": "C word Synonyms - 4", "type": "free", "releaseDate": "18-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+{"id": "imps-atoz-v-C5", "title": "C word Synonyms - 5", "type": "free", "releaseDate": "18-04-2026", "qs": 30, "time": "15 Min", "marks": 30}
+          
         ],
         "subject_wise": []
       }
