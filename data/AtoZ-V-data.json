@@ -1,0 +1,36 @@
+{
+  "examCode": "AtoZ-V",
+  "config": {
+    "tier1": {
+      "full_link": "full-test.html",
+      "subject_link": "full-test.html",
+      "sections": []
+    }
+  },
+  "data": {
+    "tier1": {
+      "default": {
+        "full_mocks": [
+          {
+            "id": "V-01",
+            "title": "A to Z Vocab - Set 01",
+            "type": "free",
+            "qs": 50,
+            "time": "30 Min",
+            "marks": 100
+          },
+          {
+            "id": "V-02",
+            "title": "A to Z Vocab - Set 02",
+            "type": "paid",
+            "qs": 50,
+            "time": "30 Min",
+            "marks": 100
+          }
+        ],
+        "subject_wise": []
+      }
+    }
+  }
+}
+
