@@ -11,7 +11,7 @@
     "tier1": {
       "default": {
         "full_mocks": [
-          {"id": "imps-atoz-v-A1", "title": "A word Synonyms - 1", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-A1", "title": "A word Synonyms - 1", "type": "free", "releaseDate": "15-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
 {"id": "imps-atoz-v-A2", "title": "A word Synonyms - 2", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
 {"id": "imps-atoz-v-A3", "title": "A word Synonyms - 3", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
 {"id": "imps-atoz-v-A4", "title": "A word Synonyms - 4", "type": "free", "releaseDate": "16-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
