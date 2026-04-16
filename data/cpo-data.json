@@ -31,7 +31,8 @@
           {"id": "CPO-10-DEC-2025-SHIFT-2", "title": "CPO 10-DEC-2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
           {"id": "CPO-11-DEC-2025-SHIFT-1", "title": "CPO 11-DEC-2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
           {"id": "CPO-11-DEC-2025-SHIFT-2", "title": "CPO 11-DEC-2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "CPO-12-DEC-2025-SHIFT-1", "title": "CPO 12-DEC-2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200}
+          {"id": "CPO-12-DEC-2025-SHIFT-1", "title": "CPO 12-DEC-2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "CPO-12-DEC-2025-SHIFT-2", "title": "CPO 12-DEC-2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200}
         ],
         "subject_wise": [],
         "sectional": []
