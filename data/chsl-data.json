@@ -84,7 +84,7 @@
     "tier2": {
       "2025": {
         "full_mocks": [
-           {"id": "CHSL-25-T2", "title": "CHSL 2025 MAINS(10 APRIL 2026)", "type": "paid", "releaseDate": "", "qs": 135, "time": "135", "marks": 360},
+           {"id": "CHSL-25-T2", "title": "CHSL 2025 MAINS(10 APRIL 2026)", "type": "paid", "releaseDate": "", "qs": 135, "time": "135", "marks": 405},
         ],
         "subject_wise": []
       }
