@@ -2,7 +2,7 @@
   "examCode": "CGL",
   "config": {
     "tier1": {
-      "full_link": "full-test.html",
+      "full_link": "test.html",
       "sectional_link": "test.html",
       "subject_link": "full-test.html",
      "sections": [
