@@ -2,7 +2,7 @@
   "examCode": "CHSL",
   "config": {
     "tier1": {
-      "full_link": "test.html",
+      "full_link": "test-t2.html",
       "sectional_link": "test.html",
       "subject_link": "full-test.html",
       "sections": [
