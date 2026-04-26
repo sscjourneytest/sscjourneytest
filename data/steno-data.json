@@ -9,7 +9,7 @@
         {
           "id": "REAS",
           "name": "Reasoning",
-          "backendName": "REASONING",
+          "backendName": "Reasoning",
           "qs": 50,
           "time": "30 Min",
           "marks": 50
@@ -17,7 +17,7 @@
         {
           "id": "GK",
           "name": "General Awareness",
-          "backendName": "GENERAL AWARENESS",
+          "backendName": "General Awareness",
           "qs": 50,
           "time": "30 Min",
           "marks": 50
@@ -25,7 +25,7 @@
         {
           "id": "ENG",
           "name": "English",
-          "backendName": "ENGLISH",
+          "backendName": "English",
           "qs": 100,
           "time": "60 Min",
           "marks": 100
