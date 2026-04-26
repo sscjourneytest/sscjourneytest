@@ -1,0 +1,56 @@
+{
+  "examCode": "STENO",
+  "config": {
+    "tier1": {
+      "full_link": "test-t2.html",
+      "sectional_link": "test-t2-s.html",
+      "subject_link": "full-test.html",
+      "sections": [
+        {
+          "id": "REAS",
+          "name": "Reasoning",
+          "backendName": "REASONING",
+          "qs": 50,
+          "time": "30 Min",
+          "marks": 50
+        },
+        {
+          "id": "GK",
+          "name": "General Awareness",
+          "backendName": "GENERAL AWARENESS",
+          "qs": 50,
+          "time": "30 Min",
+          "marks": 50
+        },
+        {
+          "id": "ENG",
+          "name": "English",
+          "backendName": "ENGLISH",
+          "qs": 100,
+          "time": "60 Min",
+          "marks": 100
+        }
+      ]
+    }
+  },
+  "data": {
+    "tier1": {
+      "2025": {
+        "full_mocks": [
+          {"id": "STENO-06-AUG-2025-SHIFT-1", "title": "SSC STENO MOCK (06 AUG 2025 SHIFT 1)", "type": "free", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-06-AUG-2025-SHIFT-2", "title": "SSC STENO MOCK (06 AUG 2025 SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-06-AUG-2025-SHIFT-3", "title": "SSC STENO MOCK (06 AUG 2025 SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-07-AUG-2025-SHIFT-1", "title": "SSC STENO MOCK (07 AUG 2025 SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-07-AUG-2025-SHIFT-2", "title": "SSC STENO MOCK (07 AUG 2025 SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-07-AUG-2025-SHIFT-3", "title": "SSC STENO MOCK (07 AUG 2025 SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-08-AUG-2025-SHIFT-1", "title": "SSC STENO MOCK (08 AUG 2025 SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-08-AUG-2025-SHIFT-2", "title": "SSC STENO MOCK (08 AUG 2025 SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-08-AUG-2025-SHIFT-3", "title": "SSC STENO MOCK (08 AUG 2025 SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200}
+        ],
+        "sectional_wise": [],
+        "subject_wise": []
+      }
+    }
+  }
+}
+
