@@ -32,7 +32,15 @@
 {"id": "imps-atoz-v-E2", "title": "E word Synonyms - 2", "type": "free", "releaseDate": "22-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
 {"id": "imps-atoz-v-E3", "title": "E word Synonyms - 3", "type": "free", "releaseDate": "22-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
 {"id": "imps-atoz-v-E4", "title": "E word Synonyms - 4", "type": "free", "releaseDate": "22-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
-{"id": "imps-atoz-v-E5", "title": "E word Synonyms - 5", "type": "free", "releaseDate": "22-04-2026", "qs": 30, "time": "15 Min", "marks": 30}          
+{"id": "imps-atoz-v-E5", "title": "E word Synonyms - 5", "type": "free", "releaseDate": "22-04-2026", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-F1", "title": "F word Synonyms - 1", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-F2", "title": "F word Synonyms - 2", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-F3", "title": "F word Synonyms - 3", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-F4", "title": "F word Synonyms - 4", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-G1", "title": "G word Synonyms - 1", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-G2", "title": "G word Synonyms - 2", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-G3", "title": "G word Synonyms - 3", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
+  {"id": "imps-atoz-v-G4", "title": "G word Synonyms - 4", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30}      
         ],
         "subject_wise": []
       }
