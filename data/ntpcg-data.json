@@ -29,17 +29,17 @@
           {"id": "NTPCG-25-19-MAR-SHIFT-2", "title": "NTPC G MOCK( 19 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "16-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
           {"id": "NTPCG-25-19-MAR-SHIFT-3", "title": "NTPC G MOCK( 19 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "16-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
           {"id": "NTPCG-25-22-MAR-SHIFT-1", "title": "NTPC G MOCK( 22 MAR 2026 SHIFT 1)", "type": "paid", "releaseDate": "17-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-22-MAR-SHIFT-2", "title": "NTPC G MOCK( 22 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "17-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-22-MAR-SHIFT-3", "title": "NTPC G MOCK( 22 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "18-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-24-MAR-SHIFT-1", "title": "NTPC G MOCK( 24 MAR 2026 SHIFT 1)", "type": "paid", "releaseDate": "18-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-24-MAR-SHIFT-2", "title": "NTPC G MOCK( 24 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "19-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-24-MAR-SHIFT-3", "title": "NTPC G MOCK( 24 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "19-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-25-MAR-SHIFT-1", "title": "NTPC G MOCK( 25 MAR 2026 SHIFT 1)", "type": "paid", "releaseDate": "20-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-25-MAR-SHIFT-2", "title": "NTPC G MOCK( 25 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "20-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-25-MAR-SHIFT-3", "title": "NTPC G MOCK( 25 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "21-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-27-MAR-SHIFT-1", "title": "NTPC G MOCK( 27 MAR 2026 SHIFT 1)", "type": "paid", "releaseDate": "21-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-27-MAR-SHIFT-2", "title": "NTPC G MOCK( 27 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "22-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPCG-25-27-MAR-SHIFT-3", "title": "NTPC G MOCK( 27 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "22-04-2026", "qs": 100, "time": "90 Min", "marks": 100}
+          {"id": "NTPCG-25-22-MAR-SHIFT-2", "title": "NTPC G MOCK( 22 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "27-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-22-MAR-SHIFT-3", "title": "NTPC G MOCK( 22 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "28-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-24-MAR-SHIFT-1", "title": "NTPC G MOCK( 24 MAR 2026 SHIFT 1)", "type": "paid", "releaseDate": "29-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-24-MAR-SHIFT-2", "title": "NTPC G MOCK( 24 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "30-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-24-MAR-SHIFT-3", "title": "NTPC G MOCK( 24 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "01-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-25-MAR-SHIFT-1", "title": "NTPC G MOCK( 25 MAR 2026 SHIFT 1)", "type": "paid", "releaseDate": "02-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-25-MAR-SHIFT-2", "title": "NTPC G MOCK( 25 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "03-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-25-MAR-SHIFT-3", "title": "NTPC G MOCK( 25 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "04-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-27-MAR-SHIFT-1", "title": "NTPC G MOCK( 27 MAR 2026 SHIFT 1)", "type": "paid", "releaseDate": "05-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-27-MAR-SHIFT-2", "title": "NTPC G MOCK( 27 MAR 2026 SHIFT 2)", "type": "paid", "releaseDate": "06-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPCG-25-27-MAR-SHIFT-3", "title": "NTPC G MOCK( 27 MAR 2026 SHIFT 3)", "type": "paid", "releaseDate": "07-05-2026", "qs": 100, "time": "90 Min", "marks": 100}
         ],
         "subject_wise": []
       }
