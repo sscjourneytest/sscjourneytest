@@ -10,97 +10,16 @@
     "2025": {
       "Maths": {
         "PERCENTAGE": [
-  {
-    "id": "SSC-SUB-25-MATH-PERCENT&section=PART-1",
-    "title": "SSC 2025 PERCENTAGE PART-1",
-    "type": "free",
-    "releaseDate": "",
-    "qs": 25,
-    "time": "15 Min",
-    "marks": 50
-  },
-  {
-    "id": "SSC-SUB-25-MATH-PERCENT&section=PART-2",
-    "title": "SSC 2025 PERCENTAGE PART-2",
-    "type": "free",
-    "releaseDate": "",
-    "qs": 25,
-    "time": "15 Min",
-    "marks": 50
-  },
-  {
-    "id": "SSC-SUB-25-MATH-PERCENT&section=PART-3",
-    "title": "SSC 2025 PERCENTAGE PART-3",
-    "type": "free",
-    "releaseDate": "",
-    "qs": 25,
-    "time": "15 Min",
-    "marks": 50
-  },
-  {
-    "id": "SSC-SUB-25-MATH-PERCENT&section=PART-4",
-    "title": "SSC 2025 PERCENTAGE PART-4",
-    "type": "free",
-    "releaseDate": "",
-    "qs": 25,
-    "time": "15 Min",
-    "marks": 50
-  },
-  {
-    "id": "SSC-SUB-25-MATH-PERCENT&section=PART-5",
-    "title": "SSC 2025 PERCENTAGE PART-5",
-    "type": "free",
-    "releaseDate": "",
-    "qs": 25,
-    "time": "15 Min",
-    "marks": 50
-  },
-  {
-    "id": "SSC-SUB-25-MATH-PERCENT&section=PART-6",
-    "title": "SSC 2025 PERCENTAGE PART-6",
-    "type": "free",
-    "releaseDate": "",
-    "qs": 25,
-    "time": "15 Min",
-    "marks": 50
-  }
-        ]
+  {"id":"SSC-SUB-25-MATH-PERCENT-part-1","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-1","title":"SSC 2025 PERCENTAGE PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-PERCENT-part-2","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-2","title":"SSC 2025 PERCENTAGE PART-2","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-PERCENT-part-3","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-3","title":"SSC 2025 PERCENTAGE PART-3","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-PERCENT-part-4","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-4","title":"SSC 2025 PERCENTAGE PART-4","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-PERCENT-part-5","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-5","title":"SSC 2025 PERCENTAGE PART-5","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-PERCENT-part-6","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-6","title":"SSC 2025 PERCENTAGE PART-6","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50}
+]
       },
       "General Awareness": [
-        {
-          "id": "GK24-HIS-01",
-          "title": "Ancient History - Indus Valley",
-          "type": "free",
-          "releaseDate": "01-01-2024",
-          "qs": 20,
-          "time": "10 Min",
-          "marks": 40
-        },
-        {
-          "id": "GK24-POL-01",
-          "title": "Indian Constitution - Articles",
-          "type": "paid",
-          "releaseDate": "05-01-2024",
-          "qs": 25,
-          "time": "15 Min",
-          "marks": 50
-        }
       ]
-    },
-    "2023": {
-      "Reasoning": {
-        "Syllogism": [
-          {
-            "id": "R23-SYL-01",
-            "title": "Syllogism - Basic to Advance",
-            "type": "free",
-            "releaseDate": "15-06-2023",
-            "qs": 15,
-            "time": "15 Min",
-            "marks": 30
-          }
-        ]
-      }
     }
   }
 }
