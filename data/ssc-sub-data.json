@@ -16,7 +16,13 @@
   {"id":"SSC-SUB-25-MATH-PERCENT-part-4","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-4","title":"SSC 2025 PERCENTAGE PART-4","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PERCENT-part-5","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-5","title":"SSC 2025 PERCENTAGE PART-5","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PERCENT-part-6","linkStr":"SSC-SUB-25-MATH-PERCENT&section=PART-6","title":"SSC 2025 PERCENTAGE PART-6","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50}
-]
+],
+        "RATIO": [
+  {"id":"SSC-SUB-25-MATH-RATIO-part-1","linkStr":"SSC-SUB-25-MATH-RATIO&section=PART-1","title":"SSC 2025 RATIO AND PURPORTION PART-1","type":"free","releaseDate":"10-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-RATIO-part-2","linkStr":"SSC-SUB-25-MATH-RATIO&section=PART-2","title":"SSC 2025 RATIO AND PURPORTION PART-2","type":"free","releaseDate":"10-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-RATIO-part-3","linkStr":"SSC-SUB-25-MATH-RATIO&section=PART-3","title":"SSC 2025 RATIO AND PURPORTION PART-3","type":"free","releaseDate":"10-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-RATIO-part-4","linkStr":"SSC-SUB-25-MATH-RATIO&section=PART-4","title":"SSC 2025 RATIO AND PURPORTION PART-4","type":"free","releaseDate":"10-05-2026","qs":25,"time":"15 Min","marks":50}
+        ] 
       },
       "General Awareness": []
     }
