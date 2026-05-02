@@ -52,6 +52,20 @@
           {"id": "imps-atoz-v-G2", "title": "G word Synonyms - 2", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
           {"id": "imps-atoz-v-G3", "title": "G word Synonyms - 3", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30},
           {"id": "imps-atoz-v-G4", "title": "G word Synonyms - 4", "type": "free", "releaseDate": "", "qs": 30, "time": "15 Min", "marks": 30}
+        ],
+        "H-Words": [
+  {"id":"imps-atoz-v-H-part-1","linkStr":"imps-atoz-v-H&section=PART-1","title":"H word Synonyms PART-1","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-H-part-2","linkStr":"imps-atoz-v-H&section=PART-2","title":"H word Synonyms PART-2","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-H-part-3","linkStr":"imps-atoz-v-H&section=PART-3","title":"H word Synonyms PART-3","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-H-part-4","linkStr":"imps-atoz-v-H&section=PART-4","title":"H word Synonyms PART-4","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30}
+        ],
+        "I-Words": [
+  {"id":"imps-atoz-v-I-part-1","linkStr":"imps-atoz-v-I&section=PART-1","title":"I word Synonyms PART-1","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-I-part-2","linkStr":"imps-atoz-v-I&section=PART-2","title":"I word Synonyms PART-2","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-I-part-3","linkStr":"imps-atoz-v-I&section=PART-3","title":"I word Synonyms PART-3","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-I-part-4","linkStr":"imps-atoz-v-I&section=PART-4","title":"I word Synonyms PART-4","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-I-part-5","linkStr":"imps-atoz-v-I&section=PART-5","title":"I word Synonyms PART-5","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-I-part-6","linkStr":"imps-atoz-v-I&section=PART-6","title":"I word Synonyms PART-6","type":"free","releaseDate":"03-05-2026","qs":30,"time":"15 Min","marks":30}
         ]
       }
     }
