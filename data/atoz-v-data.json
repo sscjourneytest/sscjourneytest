@@ -120,7 +120,16 @@
   {"id":"imps-atoz-v-S-part-5","linkStr":"imps-atoz-v-S&section=PART-5","title":"S word Synonyms PART-5","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
   {"id":"imps-atoz-v-S-part-6","linkStr":"imps-atoz-v-S&section=PART-6","title":"S word Synonyms PART-6","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
   {"id":"imps-atoz-v-S-part-7","linkStr":"imps-atoz-v-S&section=PART-7","title":"S word Synonyms PART-7","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30}
-        ]
+        ],
+                "T - Z Words": [
+  {"id":"imps-atoz-v-T-Z-part-1","linkStr":"imps-atoz-v-T-Z&section=PART-1","title":"T - Z Words Synonyms PART-1","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-T-Z-part-2","linkStr":"imps-atoz-v-T-Z&section=PART-2","title":"T - Z Words Synonyms PART-2","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-T-Z-part-3","linkStr":"imps-atoz-v-T-Z&section=PART-3","title":"T - Z Words Synonyms PART-3","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-T-Z-part-4","linkStr":"imps-atoz-v-T-Z&section=PART-4","title":"T - Z Words Synonyms PART-4","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-T-Z-part-5","linkStr":"imps-atoz-v-T-Z&section=PART-5","title":"T - Z Words Synonyms PART-5","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-T-Z-part-6","linkStr":"imps-atoz-v-T-Z&section=PART-6","title":"T - Z Words Synonyms PART-6","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-T-Z-part-7","linkStr":"imps-atoz-v-T-Z&section=PART-7","title":"T - Z Words Synonyms PART-7","type":"free","releaseDate":"11-05-2026","qs":30,"time":"15 Min","marks":30}
+                ]
       }
     }
   }
