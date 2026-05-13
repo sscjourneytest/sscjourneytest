@@ -23,66 +23,101 @@
       ]
     }
   },
-  "data": {
-    "tier1": {
-      "2025": {
-        "full_mocks": [
-          {"id": "CGL-2025-12-SEP-SHIFT-3", "title": "CGL-2025-12-SEP-SHIFT-3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-15-SEP-SHIFT-3", "title": "CGL-2025-15-SEP-SHIFT-3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-18-SEP-SHIFT-3", "title": "CGL-2025-18-SEP-SHIFT-3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},          
-          {"id": "CGL-2025-12-SEP-SHIFT-1", "title": "CGL-2025-12-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-12-SEP-SHIFT-2", "title": "CGL-2025-12-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-13-SEP-SHIFT-1", "title": "CGL-2025-13-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-13-SEP-SHIFT-2", "title": "CGL-2025-13-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-13-SEP-SHIFT-3", "title": "CGL-2025-13-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-14-SEP-SHIFT-1", "title": "CGL-2025-14-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-14-SEP-SHIFT-2", "title": "CGL-2025-14-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-14-SEP-SHIFT-3", "title": "CGL-2025-14-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-15-SEP-SHIFT-1", "title": "CGL-2025-15-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-15-SEP-SHIFT-2", "title": "CGL-2025-15-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-16-SEP-SHIFT-1", "title": "CGL-2025-16-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-16-SEP-SHIFT-2", "title": "CGL-2025-16-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-16-SEP-SHIFT-3", "title": "CGL-2025-16-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-17-SEP-SHIFT-1", "title": "CGL-2025-17-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-17-SEP-SHIFT-2", "title": "CGL-2025-17-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-17-SEP-SHIFT-3", "title": "CGL-2025-17-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-18-SEP-SHIFT-1", "title": "CGL-2025-18-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-18-SEP-SHIFT-2", "title": "CGL-2025-18-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-19-SEP-SHIFT-1", "title": "CGL-2025-19-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-19-SEP-SHIFT-2", "title": "CGL-2025-19-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-19-SEP-SHIFT-3", "title": "CGL-2025-19-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-20-SEP-SHIFT-1", "title": "CGL-2025-20-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-20-SEP-SHIFT-2", "title": "CGL-2025-20-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-20-SEP-SHIFT-3", "title": "CGL-2025-20-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-21-SEP-SHIFT-1", "title": "CGL-2025-21-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-21-SEP-SHIFT-2", "title": "CGL-2025-21-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-21-SEP-SHIFT-3", "title": "CGL-2025-21-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-22-SEP-SHIFT-1", "title": "CGL-2025-22-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-22-SEP-SHIFT-2", "title": "CGL-2025-22-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-22-SEP-SHIFT-3", "title": "CGL-2025-22-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-23-SEP-SHIFT-1", "title": "CGL-2025-23-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-23-SEP-SHIFT-2", "title": "CGL-2025-23-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-23-SEP-SHIFT-3", "title": "CGL-2025-23-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-24-SEP-SHIFT-1", "title": "CGL-2025-24-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-24-SEP-SHIFT-2", "title": "CGL-2025-24-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-24-SEP-SHIFT-3", "title": "CGL-2025-24-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-25-SEP-SHIFT-1", "title": "CGL-2025-25-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-25-SEP-SHIFT-2", "title": "CGL-2025-25-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-25-SEP-SHIFT-3", "title": "CGL-2025-25-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-26-SEP-SHIFT-1", "title": "CGL-2025-26-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-26-SEP-SHIFT-2", "title": "CGL-2025-26-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-          {"id": "CGL-2025-26-SEP-SHIFT-3", "title": "CGL-2025-26-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
-        ],
-        "subject_wise": [
-          {"id": "CGL25-SUB-EXAMPLE", "title": "Algebra Special 01", "type": "paid", "releaseDate": "", "qs": 50, "time": "30 Min", "marks": 100}
-        ]
+    "data": {
+    "PYQ MOCK": {
+      "tier1": {
+        "2025": {
+          "full_mocks": [
+            {"id": "CGL-2025-12-SEP-SHIFT-3", "title": "CGL-2025-12-SEP-SHIFT-3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-15-SEP-SHIFT-3", "title": "CGL-2025-15-SEP-SHIFT-3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-18-SEP-SHIFT-3", "title": "CGL-2025-18-SEP-SHIFT-3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-12-SEP-SHIFT-1", "title": "CGL-2025-12-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-12-SEP-SHIFT-2", "title": "CGL-2025-12-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-13-SEP-SHIFT-1", "title": "CGL-2025-13-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-13-SEP-SHIFT-2", "title": "CGL-2025-13-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-13-SEP-SHIFT-3", "title": "CGL-2025-13-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-14-SEP-SHIFT-1", "title": "CGL-2025-14-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-14-SEP-SHIFT-2", "title": "CGL-2025-14-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-14-SEP-SHIFT-3", "title": "CGL-2025-14-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-15-SEP-SHIFT-1", "title": "CGL-2025-15-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-15-SEP-SHIFT-2", "title": "CGL-2025-15-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-16-SEP-SHIFT-1", "title": "CGL-2025-16-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-16-SEP-SHIFT-2", "title": "CGL-2025-16-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-16-SEP-SHIFT-3", "title": "CGL-2025-16-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-17-SEP-SHIFT-1", "title": "CGL-2025-17-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-17-SEP-SHIFT-2", "title": "CGL-2025-17-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-17-SEP-SHIFT-3", "title": "CGL-2025-17-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-18-SEP-SHIFT-1", "title": "CGL-2025-18-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-18-SEP-SHIFT-2", "title": "CGL-2025-18-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-19-SEP-SHIFT-1", "title": "CGL-2025-19-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-19-SEP-SHIFT-2", "title": "CGL-2025-19-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-19-SEP-SHIFT-3", "title": "CGL-2025-19-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-20-SEP-SHIFT-1", "title": "CGL-2025-20-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-20-SEP-SHIFT-2", "title": "CGL-2025-20-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-20-SEP-SHIFT-3", "title": "CGL-2025-20-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-21-SEP-SHIFT-1", "title": "CGL-2025-21-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-21-SEP-SHIFT-2", "title": "CGL-2025-21-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-21-SEP-SHIFT-3", "title": "CGL-2025-21-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-22-SEP-SHIFT-1", "title": "CGL-2025-22-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-22-SEP-SHIFT-2", "title": "CGL-2025-22-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-22-SEP-SHIFT-3", "title": "CGL-2025-22-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-23-SEP-SHIFT-1", "title": "CGL-2025-23-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-23-SEP-SHIFT-2", "title": "CGL-2025-23-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-23-SEP-SHIFT-3", "title": "CGL-2025-23-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-24-SEP-SHIFT-1", "title": "CGL-2025-24-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-24-SEP-SHIFT-2", "title": "CGL-2025-24-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-24-SEP-SHIFT-3", "title": "CGL-2025-24-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-25-SEP-SHIFT-1", "title": "CGL-2025-25-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-25-SEP-SHIFT-2", "title": "CGL-2025-25-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-25-SEP-SHIFT-3", "title": "CGL-2025-25-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-26-SEP-SHIFT-1", "title": "CGL-2025-26-SEP-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-26-SEP-SHIFT-2", "title": "CGL-2025-26-SEP-SHIFT-2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2025-26-SEP-SHIFT-3", "title": "CGL-2025-26-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
+          ],
+          "subject_wise": [
+            {"id": "CGL25-SUB-EXAMPLE", "title": "Algebra Special 01", "type": "paid", "releaseDate": "", "qs": 50, "time": "30 Min", "marks": 100}
+          ]
+        }
+      },
+      "tier2": {
+        "2025": {
+          "full_mocks": [{"id": "CGL-25-T2", "title": "CGL MAINS 19 JAN 2025", "type": "free", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}],
+          "subject_wise": []
+        }
       }
     },
-    "tier2": {
-      "2025": {
-        "full_mocks": [{"id": "CGL-25-T2", "title": "CGL MAINS 19 JAN 2025", "type": "free", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}],
-        "subject_wise": []
+    "NEW MOCK": {
+      "tier1": {
+        "2026": {
+          "full_mocks": [
+            {"id": "CGL-2026-MOCK-1", "title": "CGL MOCK 1", "type": "free", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-2", "title": "CGL MOCK 2", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-3", "title": "CGL MOCK 3", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-4", "title": "CGL MOCK 4", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-5", "title": "CGL MOCK 5", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-6", "title": "CGL MOCK 6", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-7", "title": "CGL MOCK 7", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-8", "title": "CGL MOCK 8", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-9", "title": "CGL MOCK 9", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-10", "title": "CGL MOCK 10", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-11", "title": "CGL MOCK 11", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-12", "title": "CGL MOCK 12", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-13", "title": "CGL MOCK 13", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-14", "title": "CGL MOCK 14", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-15", "title": "CGL MOCK 15", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-16", "title": "CGL MOCK 16", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-17", "title": "CGL MOCK 17", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-18", "title": "CGL MOCK 18", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-19", "title": "CGL MOCK 19", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-20", "title": "CGL MOCK 20", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-21", "title": "CGL MOCK 21", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-22", "title": "CGL MOCK 22", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-23", "title": "CGL MOCK 23", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-24", "title": "CGL MOCK 24", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-25", "title": "CGL MOCK 25", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "60 Min", "marks": 200}
+          ]
+        }
       }
     }
-  }
-}
+    }
+}          
