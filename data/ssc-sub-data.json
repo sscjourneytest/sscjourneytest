@@ -29,7 +29,16 @@
   {"id":"SSC-SUB-25-MATH-PROFIT-LOSS-part-3","linkStr":"SSC-SUB-25-MATH-PROFIT-LOSS&section=PART-3","title":"SSC 2025 Profit & Loss PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PROFIT-LOSS-part-4","linkStr":"SSC-SUB-25-MATH-PROFIT-LOSS&section=PART-4","title":"SSC 2025 Profit & Loss PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PROFIT-LOSS-part-5","linkStr":"SSC-SUB-25-MATH-PROFIT-LOSS&section=PART-5","title":"SSC 2025 Profit & Loss PART-5","type":"free","releaseDate":"15-05-2026","qs":14,"time":"10 Min","marks":28}
+        ],
+        "DISCOUNT": [
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-part-1","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-1","title":"SSC 2025 Discount PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-part-2","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-2","title":"SSC 2025 Discount PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-part-3","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-3","title":"SSC 2025 Discount PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-part-4","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-4","title":"SSC 2025 Discount PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-part-5","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-5","title":"SSC 2025 Discount PART-5","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-part-6","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-6","title":"SSC 2025 Discount PART-6","type":"free","releaseDate":"15-05-2026","qs":13,"time":"10 Min","marks":26}
         ]
+        
       },
          "Reasoning": {
   "COUNTING OF FIGURES": [
