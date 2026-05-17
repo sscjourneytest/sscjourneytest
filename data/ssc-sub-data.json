@@ -36,8 +36,13 @@
   {"id":"SSC-SUB-25-MATH-DISCOUNT-part-3","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-3","title":"SSC 2025 Discount PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-DISCOUNT-part-4","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-4","title":"SSC 2025 Discount PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-DISCOUNT-part-5","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-5","title":"SSC 2025 Discount PART-5","type":"free","releaseDate":"15-05-2026","qs":38,"time":"25 Min","marks":50}
-        ]
-        
+        ],
+    "SI": [
+  {"id":"SSC-SUB-25-MATH-SI-part-1","linkStr":"SSC-SUB-25-MATH-SI&section=PART-1","title":"SSC 2025 SI PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-SI-part-2","linkStr":"SSC-SUB-25-MATH-SI&section=PART-2","title":"SSC 2025 SI PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-SI-part-3","linkStr":"SSC-SUB-25-MATH-SI&section=PART-3","title":"SSC 2025 SI PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-SI-part-4","linkStr":"SSC-SUB-25-MATH-SI&section=PART-4","title":"SSC 2025 SI PART-4","type":"free","releaseDate":"15-05-2026","qs":35,"time":"22 Min","marks":70}
+    ]
       },
          "Reasoning": {
   "COUNTING OF FIGURES": [
