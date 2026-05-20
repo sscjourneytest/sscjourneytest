@@ -53,7 +53,15 @@
   {"id":"SSC-SUB-25-MATH-PARTNERSHIP-part-2","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP&section=PART-2","title":"SSC 2025 Partnership PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PARTNERSHIP-part-3","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP&section=PART-3","title":"SSC 2025 Partnership PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PARTNERSHIP-part-4","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP&section=PART-4","title":"SSC 2025 Partnership PART-4","type":"free","releaseDate":"15-05-2026","qs":35,"time":"25 Min","marks":70}
-     ]
+     ],
+        "TIME-WORK": [
+  {"id":"SSC-SUB-25-MATH-TIME-WORK-part-1","linkStr":"SSC-SUB-25-MATH-TIME-WORK&section=PART-1","title":"SSC 2025 Time & Work PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TIME-WORK-part-2","linkStr":"SSC-SUB-25-MATH-TIME-WORK&section=PART-2","title":"SSC 2025 Time & Work PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TIME-WORK-part-3","linkStr":"SSC-SUB-25-MATH-TIME-WORK&section=PART-3","title":"SSC 2025 Time & Work PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TIME-WORK-part-4","linkStr":"SSC-SUB-25-MATH-TIME-WORK&section=PART-4","title":"SSC 2025 Time & Work PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TIME-WORK-part-5","linkStr":"SSC-SUB-25-MATH-TIME-WORK&section=PART-5","title":"SSC 2025 Time & Work PART-5","type":"free","releaseDate":"15-05-2026","qs":39,"time":"25 Min","marks":78}
+        ]
+        
         
       },
          "Reasoning": {
