@@ -67,7 +67,16 @@
   {"id":"SSC-SUB-25-MATH-TIME-DISTANCE-part-3","linkStr":"SSC-SUB-25-MATH-TIME-DISTANCE&section=PART-3","title":"SSC 2025 Time & Distance PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TIME-DISTANCE-part-4","linkStr":"SSC-SUB-25-MATH-TIME-DISTANCE&section=PART-4","title":"SSC 2025 Time & Distance PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TIME-DISTANCE-part-5","linkStr":"SSC-SUB-25-MATH-TIME-DISTANCE&section=PART-5","title":"SSC 2025 Time & Distance PART-5","type":"free","releaseDate":"15-05-2026","qs":19,"time":"12 Min","marks":38}
+        ],
+        "AVERAGE": [
+  {"id":"SSC-SUB-25-MATH-AVERAGE-part-1","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-1","title":"SSC 2025 Average PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-AVERAGE-part-2","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-2","title":"SSC 2025 Average PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-AVERAGE-part-3","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-3","title":"SSC 2025 Average PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-AVERAGE-part-4","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-4","title":"SSC 2025 Average PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-AVERAGE-part-5","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-5","title":"SSC 2025 Average PART-5","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-AVERAGE-part-6","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-6","title":"SSC 2025 Average PART-6","type":"free","releaseDate":"15-05-2026","qs":28,"time":"18 Min","marks":56}
         ]
+        
         
       },
          "Reasoning": {
