@@ -101,7 +101,18 @@
   {"id":"SSC-SUB-25-ENG-VOICE-part-6","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-6","title":"SSC 2025 VOICE PART-6","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-VOICE-part-7","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-7","title":"SSC 2025 VOICE PART-7","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-VOICE-part-8","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-8","title":"SSC 2025 VOICE PART-8","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50}
-]
+],
+        "NARRATION": [
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-1","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-1","title":"SSC 2025 NARRATION PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-2","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-2","title":"SSC 2025 NARRATION PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-3","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-3","title":"SSC 2025 NARRATION PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-4","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-4","title":"SSC 2025 NARRATION PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-5","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-5","title":"SSC 2025 NARRATION PART-5","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-6","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-6","title":"SSC 2025 NARRATION PART-6","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-7","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-7","title":"SSC 2025 NARRATION PART-7","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-NARRATION-part-8","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-8","title":"SSC 2025 NARRATION PART-8","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50}
+        ]
+        
     },
       "General Awareness": []
     }
