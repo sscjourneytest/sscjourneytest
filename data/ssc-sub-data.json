@@ -91,7 +91,18 @@
 {"id":"SSC-SUB-25-REAS-COUNTING-F-part-2","linkStr":"SSC-SUB-25-REAS-COUNTING-F&section=PART-2","title":"SSC 2025 COUNTING OF FIGURES PART-2","type":"free","releaseDate":"15-05-2026","qs":26,"time":"25 Min","marks":52}
   ]
       }, 
-      
+      "English": {
+        "VOICE": [
+  {"id":"SSC-SUB-25-ENG-VOICE-part-1","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-1","title":"SSC 2025 VOICE PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-VOICE-part-2","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-2","title":"SSC 2025 VOICE PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-VOICE-part-3","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-3","title":"SSC 2025 VOICE PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-VOICE-part-4","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-4","title":"SSC 2025 VOICE PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-VOICE-part-5","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-5","title":"SSC 2025 VOICE PART-5","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-VOICE-part-6","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-6","title":"SSC 2025 VOICE PART-6","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-VOICE-part-7","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-7","title":"SSC 2025 VOICE PART-7","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-VOICE-part-8","linkStr":"SSC-SUB-25-ENG-VOICE&section=PART-8","title":"SSC 2025 VOICE PART-8","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50}
+]
+      },
       "General Awareness": []
     }
   }
