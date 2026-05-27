@@ -131,19 +131,6 @@
           {"id": "imps-atoz-v-T-Z-part-7", "linkStr": "imps-atoz-v-T-Z&section=PART-7", "title": "T - Z Words Synonyms PART-7", "type": "free", "releaseDate": "11-05-2026", "qs": 30, "time": "15 Min", "marks": 30}
         ]
       },
-      "OWS (A-Z)": {
-        "A-Words": [
-          {"id": "imps-atoz-ows-A1", "title": "A Word OWS - 1", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A2", "title": "A Word OWS - 2", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A3", "title": "A Word OWS - 3", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A4", "title": "A Word OWS - 4", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A5", "title": "A Word OWS - 5", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A6", "title": "A Word OWS - 6", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A7", "title": "A Word OWS - 7", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A8", "title": "A Word OWS - 8", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
-          {"id": "imps-atoz-ows-A9", "title": "A Word OWS - 9", "type": "free", "releaseDate": "27-05-2026", "qs": 13, "time": "07 Min", "marks": 13}
-        ]
-      }
     }
   }
 }
