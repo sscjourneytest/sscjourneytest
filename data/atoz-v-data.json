@@ -132,99 +132,18 @@
         ]
       },
       "OWS (A-Z)": {
-  "A WORD - OWS Words": [
-    {
-      "id":"imps-atoz-v-a-word-ows-part-1",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-1",
-      "title":"A WORD - OWS Words Synonyms PART-1",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-2",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-2",
-      "title":"A WORD - OWS Words Synonyms PART-2",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-3",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-3",
-      "title":"A WORD - OWS Words Synonyms PART-3",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-4",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-4",
-      "title":"A WORD - OWS Words Synonyms PART-4",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-5",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-5",
-      "title":"A WORD - OWS Words Synonyms PART-5",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-6",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-6",
-      "title":"A WORD - OWS Words Synonyms PART-6",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-7",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-7",
-      "title":"A WORD - OWS Words Synonyms PART-7",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-8",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-8",
-      "title":"A WORD - OWS Words Synonyms PART-8",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":30,
-      "time":"15 Min",
-      "marks":30
-    },
-    {
-      "id":"imps-atoz-v-a-word-ows-part-9",
-      "linkStr":"imps-atoz-v-a-word-ows&section=PART-9",
-      "title":"A WORD - OWS Words Synonyms PART-9",
-      "type":"free",
-      "releaseDate":"27-05-2026",
-      "qs":13,
-      "time":"15 Min",
-      "marks":13
-    }
-  ]
-}
+        "A WORD - OWS Words": [
+          {"id": "imps-atoz-v-a-word-ows-part-1", "linkStr": "imps-atoz-v-a-word-ows&section=PART-1", "title": "A WORD - OWS Words Synonyms PART-1", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-2", "linkStr": "imps-atoz-v-a-word-ows&section=PART-2", "title": "A WORD - OWS Words Synonyms PART-2", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-3", "linkStr": "imps-atoz-v-a-word-ows&section=PART-3", "title": "A WORD - OWS Words Synonyms PART-3", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-4", "linkStr": "imps-atoz-v-a-word-ows&section=PART-4", "title": "A WORD - OWS Words Synonyms PART-4", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-5", "linkStr": "imps-atoz-v-a-word-ows&section=PART-5", "title": "A WORD - OWS Words Synonyms PART-5", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-6", "linkStr": "imps-atoz-v-a-word-ows&section=PART-6", "title": "A WORD - OWS Words Synonyms PART-6", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-7", "linkStr": "imps-atoz-v-a-word-ows&section=PART-7", "title": "A WORD - OWS Words Synonyms PART-7", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-8", "linkStr": "imps-atoz-v-a-word-ows&section=PART-8", "title": "A WORD - OWS Words Synonyms PART-8", "type": "free", "releaseDate": "27-05-2026", "qs": 30, "time": "15 Min", "marks": 30},
+          {"id": "imps-atoz-v-a-word-ows-part-9", "linkStr": "imps-atoz-v-a-word-ows&section=PART-9", "title": "A WORD - OWS Words Synonyms PART-9", "type": "free", "releaseDate": "27-05-2026", "qs": 13, "time": "15 Min", "marks": 13}
+        ]
+      }
     }
   }
 }
