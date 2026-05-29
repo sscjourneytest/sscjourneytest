@@ -185,6 +185,23 @@
   {"id":"imps-atoz-v-g-word-ows-part-1","linkStr":"imps-atoz-v-g-word-ows&section=PART-1","title":"G WORD - OWS  PART-1","type":"free","releaseDate":"03-06-2026","qs":30,"time":"15 Min","marks":30},
   {"id":"imps-atoz-v-g-word-ows-part-2","linkStr":"imps-atoz-v-g-word-ows&section=PART-2","title":"G WORD - OWS  PART-2","type":"free","releaseDate":"03-06-2026","qs":30,"time":"15 Min","marks":30},
   {"id":"imps-atoz-v-g-word-ows-part-3","linkStr":"imps-atoz-v-g-word-ows&section=PART-3","title":"G WORD - OWS  PART-3","type":"free","releaseDate":"03-06-2026","qs":15,"time":"15 Min","marks":15}
+],
+"H WORD - OWS": [
+  {"id":"imps-atoz-v-h-word-ows-part-1","linkStr":"imps-atoz-v-h-word-ows&section=PART-1","title":"H WORD - OWS  PART-1","type":"free","releaseDate":"04-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-h-word-ows-part-2","linkStr":"imps-atoz-v-h-word-ows&section=PART-2","title":"H WORD - OWS  PART-2","type":"free","releaseDate":"04-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-h-word-ows-part-3","linkStr":"imps-atoz-v-h-word-ows&section=PART-3","title":"H WORD - OWS  PART-3","type":"free","releaseDate":"04-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-h-word-ows-part-4","linkStr":"imps-atoz-v-h-word-ows&section=PART-4","title":"H WORD - OWS  PART-4","type":"free","releaseDate":"04-06-2026","qs":14,"time":"15 Min","marks":14}
+],
+"I WORD - OWS": [
+  {"id":"imps-atoz-v-i-word-ows-part-1","linkStr":"imps-atoz-v-i-word-ows&section=PART-1","title":"I WORD - OWS  PART-1","type":"free","releaseDate":"05-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-i-word-ows-part-2","linkStr":"imps-atoz-v-i-word-ows&section=PART-2","title":"I WORD - OWS  PART-2","type":"free","releaseDate":"05-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-i-word-ows-part-3","linkStr":"imps-atoz-v-i-word-ows&section=PART-3","title":"I WORD - OWS  PART-3","type":"free","releaseDate":"05-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-i-word-ows-part-4","linkStr":"imps-atoz-v-i-word-ows&section=PART-4","title":"I WORD - OWS  PART-4","type":"free","releaseDate":"05-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-i-word-ows-part-5","linkStr":"imps-atoz-v-i-word-ows&section=PART-5","title":"I WORD - OWS  PART-5","type":"free","releaseDate":"05-06-2026","qs":30,"time":"15 Min","marks":30},
+  {"id":"imps-atoz-v-i-word-ows-part-6","linkStr":"imps-atoz-v-i-word-ows&section=PART-6","title":"I WORD - OWS  PART-6","type":"free","releaseDate":"05-06-2026","qs":11,"time":"15 Min","marks":11}
+],
+"J WORD - OWS": [
+  {"id":"imps-atoz-v-j-word-ows-part-1","linkStr":"imps-atoz-v-j-word-ows&section=PART-1","title":"J WORD - OWS  PART-1","type":"free","releaseDate":"06-06-2026","qs":23,"time":"15 Min","marks":23}
 ]
       }
       
