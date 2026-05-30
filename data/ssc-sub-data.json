@@ -111,7 +111,29 @@
   {"id":"SSC-SUB-25-ENG-NARRATION-part-6","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-6","title":"SSC 2025 NARRATION PART-6","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-NARRATION-part-7","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-7","title":"SSC 2025 NARRATION PART-7","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-NARRATION-part-8","linkStr":"SSC-SUB-25-ENG-NARRATION&section=PART-8","title":"SSC 2025 NARRATION PART-8","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50}
+        ],
+        "PQRS": [
+  {"id":"SSC-SUB-25-ENG-PQRS-part-1","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-1","title":"SSC 2025 PQRS PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-2","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-2","title":"SSC 2025 PQRS PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-3","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-3","title":"SSC 2025 PQRS PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-4","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-4","title":"SSC 2025 PQRS PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-5","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-5","title":"SSC 2025 PQRS PART-5","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-6","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-6","title":"SSC 2025 PQRS PART-6","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-7","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-7","title":"SSC 2025 PQRS PART-7","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-8","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-8","title":"SSC 2025 PQRS PART-8","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-9","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-9","title":"SSC 2025 PQRS PART-9","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-10","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-10","title":"SSC 2025 PQRS PART-10","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-11","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-11","title":"SSC 2025 PQRS PART-11","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-12","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-12","title":"SSC 2025 PQRS PART-12","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-13","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-13","title":"SSC 2025 PQRS PART-13","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-14","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-14","title":"SSC 2025 PQRS PART-14","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-15","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-15","title":"SSC 2025 PQRS PART-15","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-16","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-16","title":"SSC 2025 PQRS PART-16","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-17","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-17","title":"SSC 2025 PQRS PART-17","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-18","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-18","title":"SSC 2025 PQRS PART-18","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
+  {"id":"SSC-SUB-25-ENG-PQRS-part-19","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-19","title":"SSC 2025 PQRS PART-19","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50}
         ]
+        
         
     },
       "General Awareness": []
