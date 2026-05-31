@@ -82,7 +82,67 @@
   {"id":"SSC-SUB-25-MATH-MIX-ALG-part-3","linkStr":"SSC-SUB-25-MATH-MIX-ALG&section=PART-3","title":"SSC 2025 MIXTURE & ALLIGATION PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MIX-ALG-part-4","linkStr":"SSC-SUB-25-MATH-MIX-ALG&section=PART-4","title":"SSC 2025 MIXTURE & ALLIGATION PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MIX-ALG-part-5","linkStr":"SSC-SUB-25-MATH-MIX-ALG&section=PART-5","title":"SSC 2025 MIXTURE & ALLIGATION PART-5","type":"free","releaseDate":"15-05-2026","qs":16,"time":"10 Min","marks":32}
-   ]
+   ],
+          "NUMBER SYSTEM": [
+    {"id":"SSC-SUB-25-MATH-NUMBER-SYS-part-1","linkStr":"SSC-SUB-25-MATH-NUMBER-SYS&section=PART-1","title":"SSC 2025 NUMBER SYSTEM PART-1","type":"paid","releaseDate":"02-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-NUMBER-SYS-part-2","linkStr":"SSC-SUB-25-MATH-NUMBER-SYS&section=PART-2","title":"SSC 2025 NUMBER SYSTEM PART-2","type":"paid","releaseDate":"02-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-NUMBER-SYS-part-3","linkStr":"SSC-SUB-25-MATH-NUMBER-SYS&section=PART-3","title":"SSC 2025 NUMBER SYSTEM PART-3","type":"paid","releaseDate":"02-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-NUMBER-SYS-part-4","linkStr":"SSC-SUB-25-MATH-NUMBER-SYS&section=PART-4","title":"SSC 2025 NUMBER SYSTEM PART-4","type":"paid","releaseDate":"02-06-2026","qs":18,"time":"12 Min","marks":36}
+          ],
+        
+  "LCM_HCF": [
+    {"id":"SSC-SUB-25-MATH-LCM-HCF-part-1","linkStr":"SSC-SUB-25-MATH-LCM-HCF&section=PART-1","title":"SSC 2025 LCM & HCF PART-1","type":"paid","releaseDate":"03-06-2026","qs":27,"time":"17 Min","marks":54}
+  ],
+
+  "SIMPLIFICATION": [
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-1","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-1","title":"SSC 2025 SIMPLIFICATION PART-1","type":"paid","releaseDate":"04-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-2","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-2","title":"SSC 2025 SIMPLIFICATION PART-2","type":"paid","releaseDate":"04-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-3","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-3","title":"SSC 2025 SIMPLIFICATION PART-3","type":"paid","releaseDate":"04-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-4","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-4","title":"SSC 2025 SIMPLIFICATION PART-4","type":"paid","releaseDate":"04-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-5","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-5","title":"SSC 2025 SIMPLIFICATION PART-5","type":"paid","releaseDate":"04-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-6","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-6","title":"SSC 2025 SIMPLIFICATION PART-6","type":"paid","releaseDate":"04-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-7","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-7","title":"SSC 2025 SIMPLIFICATION PART-7","type":"paid","releaseDate":"04-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-part-8","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION&section=PART-8","title":"SSC 2025 SIMPLIFICATION PART-8","type":"paid","releaseDate":"04-06-2026","qs":32,"time":"20 Min","marks":64}
+  ],
+
+  "ALGEBRA": [
+    {"id":"SSC-SUB-25-MATH-ALGEBRA-part-1","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-1","title":"SSC 2025 ALGEBRA PART-1","type":"paid","releaseDate":"05-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-ALGEBRA-part-2","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-2","title":"SSC 2025 ALGEBRA PART-2","type":"paid","releaseDate":"05-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-ALGEBRA-part-3","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-3","title":"SSC 2025 ALGEBRA PART-3","type":"paid","releaseDate":"05-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-ALGEBRA-part-4","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-4","title":"SSC 2025 ALGEBRA PART-4","type":"paid","releaseDate":"05-06-2026","qs":24,"time":"15 Min","marks":48}
+  ],
+
+  "TRIGONOMETRY": [
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-1","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-1","title":"SSC 2025 TRIGONOMETRY PART-1","type":"paid","releaseDate":"06-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-2","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-2","title":"SSC 2025 TRIGONOMETRY PART-2","type":"paid","releaseDate":"06-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-3","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-3","title":"SSC 2025 TRIGONOMETRY PART-3","type":"paid","releaseDate":"06-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-4","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-4","title":"SSC 2025 TRIGONOMETRY PART-4","type":"paid","releaseDate":"06-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-5","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-5","title":"SSC 2025 TRIGONOMETRY PART-5","type":"paid","releaseDate":"06-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-6","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-6","title":"SSC 2025 TRIGONOMETRY PART-6","type":"paid","releaseDate":"06-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-7","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-7","title":"SSC 2025 TRIGONOMETRY PART-7","type":"paid","releaseDate":"06-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-8","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-8","title":"SSC 2025 TRIGONOMETRY PART-8","type":"paid","releaseDate":"06-06-2026","qs":43,"time":"27 Min","marks":86}
+  ],
+
+  "GEOMETRY": [
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-1","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-1","title":"SSC 2025 GEOMETRY PART-1","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-2","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-2","title":"SSC 2025 GEOMETRY PART-2","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-3","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-3","title":"SSC 2025 GEOMETRY PART-3","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-4","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-4","title":"SSC 2025 GEOMETRY PART-4","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-5","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-5","title":"SSC 2025 GEOMETRY PART-5","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-6","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-6","title":"SSC 2025 GEOMETRY PART-6","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-7","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-7","title":"SSC 2025 GEOMETRY PART-7","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-8","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-8","title":"SSC 2025 GEOMETRY PART-8","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-9","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-9","title":"SSC 2025 GEOMETRY PART-9","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-10","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-10","title":"SSC 2025 GEOMETRY PART-10","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-11","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-11","title":"SSC 2025 GEOMETRY PART-11","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-12","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-12","title":"SSC 2025 GEOMETRY PART-12","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-13","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-13","title":"SSC 2025 GEOMETRY PART-13","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-14","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-14","title":"SSC 2025 GEOMETRY PART-14","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-15","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-15","title":"SSC 2025 GEOMETRY PART-15","type":"paid","releaseDate":"08-06-2026","qs":25,"time":"15 Min","marks":50},
+    {"id":"SSC-SUB-25-MATH-GEOMETRY-part-16","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-16","title":"SSC 2025 GEOMETRY PART-16","type":"paid","releaseDate":"08-06-2026","qs":41,"time":"27 Min","marks":82}
+  ]
+      
+        
         
       },
          "Reasoning": {
