@@ -192,7 +192,29 @@
   {"id":"SSC-SUB-25-ENG-PQRS-part-17","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-17","title":"SSC 2025 PQRS PART-17","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-PQRS-part-18","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-18","title":"SSC 2025 PQRS PART-18","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-PQRS-part-19","linkStr":"SSC-SUB-25-ENG-PQRS&section=PART-19","title":"SSC 2025 PQRS PART-19","type":"free","releaseDate":"15-05-2026","qs":25,"time":"20 Min","marks":50}
-        ]
+        ],
+          "SPELLING ERROR": [
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-1","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-1","title":"SSC 2025 SPELLING ERROR PART-1","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-2","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-2","title":"SSC 2025 SPELLING ERROR PART-2","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-3","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-3","title":"SSC 2025 SPELLING ERROR PART-3","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-4","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-4","title":"SSC 2025 SPELLING ERROR PART-4","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-5","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-5","title":"SSC 2025 SPELLING ERROR PART-5","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-6","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-6","title":"SSC 2025 SPELLING ERROR PART-6","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-7","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-7","title":"SSC 2025 SPELLING ERROR PART-7","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-8","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-8","title":"SSC 2025 SPELLING ERROR PART-8","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-9","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-9","title":"SSC 2025 SPELLING ERROR PART-9","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-10","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-10","title":"SSC 2025 SPELLING ERROR PART-10","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-11","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-11","title":"SSC 2025 SPELLING ERROR PART-11","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-12","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-12","title":"SSC 2025 SPELLING ERROR PART-12","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-13","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-13","title":"SSC 2025 SPELLING ERROR PART-13","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-14","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-14","title":"SSC 2025 SPELLING ERROR PART-14","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-15","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-15","title":"SSC 2025 SPELLING ERROR PART-15","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-16","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-16","title":"SSC 2025 SPELLING ERROR PART-16","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-17","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-17","title":"SSC 2025 SPELLING ERROR PART-17","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-18","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-18","title":"SSC 2025 SPELLING ERROR PART-18","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
+    {"id":"SSC-SUB-25-ENG-SPELLING-part-19","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-19","title":"SSC 2025 SPELLING ERROR PART-19","type":"free","releaseDate":"15-05-2026","qs":19,"time":"20 Min","marks":38}
+          ]
+        
         
         
     },
