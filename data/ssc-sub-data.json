@@ -151,10 +151,10 @@
 {"id":"SSC-SUB-25-REAS-COUNTING-F-part-2","linkStr":"SSC-SUB-25-REAS-COUNTING-F&section=PART-2","title":"SSC 2025 COUNTING OF FIGURES PART-2","type":"free","releaseDate":"15-05-2026","qs":26,"time":"25 Min","marks":52}
   ],
       "SSC 2025 Top 100 Number Series": [
-  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-1","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-1","title":"SSC 2025 Top 100 Number Series PART-1","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":25},
-  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-2","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-2","title":"SSC 2025 Top 100 Number Series PART-2","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":25},
-  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-3","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-3","title":"SSC 2025 Top 100 Number Series PART-3","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":25},
-  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-4","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-4","title":"SSC 2025 Top 100 Number Series PART-4","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":25}
+  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-1","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-1","title":"SSC 2025 Top 100 Number Series PART-1","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-2","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-2","title":"SSC 2025 Top 100 Number Series PART-2","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-3","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-3","title":"SSC 2025 Top 100 Number Series PART-3","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-REAS-Top-100-number-series-part-4","linkStr":"SSC-SUB-25-REAS-Top-100-number-series&section=PART-4","title":"SSC 2025 Top 100 Number Series PART-4","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50}
 ]
       }, 
       "English": {
