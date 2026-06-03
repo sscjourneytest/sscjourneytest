@@ -221,7 +221,13 @@
     {"id":"SSC-SUB-25-ENG-SPELLING-part-19","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-19","title":"SSC 2025 SPELLING ERROR PART-19","type":"free","releaseDate":"15-05-2026","qs":25,"time":"10 Min","marks":50},
     {"id":"SSC-SUB-25-ENG-SPELLING-part-20","linkStr":"SSC-SUB-25-ENG-SPELLING&section=PART-20","title":"SSC 2025 SPELLING ERROR PART-20","type":"free","releaseDate":"15-05-2026","qs":19,"time":"10 Min","marks":38}
  
-          ]
+          ],
+  "SENTENCE IMPROVEMENT": [
+  {"id":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025-part-1","linkStr":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025&section=PART-1","title":"SENTENCE IMPROVEMENT SSC CGL 2025 PART-1","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025-part-2","linkStr":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025&section=PART-2","title":"SENTENCE IMPROVEMENT SSC CGL 2025 PART-2","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025-part-3","linkStr":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025&section=PART-3","title":"SENTENCE IMPROVEMENT SSC CGL 2025 PART-3","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025-part-4","linkStr":"SSC-SUB-25-SENTENCE-IMPROVEMENT-CGL-2025&section=PART-4","title":"SENTENCE IMPROVEMENT SSC CGL 2025 PART-4","type":"free","releaseDate":"03-06-2026","qs":9,"time":"15 Min","marks":18}
+]
         
         
         
