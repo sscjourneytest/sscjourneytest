@@ -227,6 +227,11 @@
   {"id":"SSC-SUB-25-ENG-SENTENCE-IMPROVEMENT-part-2","linkStr":"SSC-SUB-25-ENG-SENTENCE-IMPROVEMENT&section=PART-2","title":"SENTENCE IMPROVEMENT SSC CGL 2025 PART-2","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-SENTENCE-IMPROVEMENT-part-3","linkStr":"SSC-SUB-25-ENG-SENTENCE-IMPROVEMENT&section=PART-3","title":"SENTENCE IMPROVEMENT SSC CGL 2025 PART-3","type":"free","releaseDate":"03-06-2026","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-ENG-SENTENCE-IMPROVEMENT-part-4","linkStr":"SSC-SUB-25-ENG-SENTENCE-IMPROVEMENT&section=PART-4","title":"SENTENCE IMPROVEMENT SSC CGL 2025 PART-4","type":"free","releaseDate":"03-06-2026","qs":9,"time":"15 Min","marks":18}
+],
+"ERROR DETECTION": [
+  {"id":"SSC-SUB-25-ENG-ERROR-DETECTION-part-1","linkStr":"SSC-SUB-25-ENG-ERROR-DETECTION&section=PART-1","title":"SSC 2025 ERROR DETECTION PART-1","type":"free","releaseDate":"03-06-2026","qs":30,"time":"15 Min","marks":"60"},
+  {"id":"SSC-SUB-25-ENG-ERROR-DETECTION-part-2","linkStr":"SSC-SUB-25-ENG-ERROR-DETECTION&section=PART-2","title":"SSC 2025 ERROR DETECTION PART-2","type":"free","releaseDate":"03-06-2026","qs":30,"time":"15 Min","marks":"60"},
+  {"id":"SSC-SUB-25-ENG-ERROR-DETECTION-part-3","linkStr":"SSC-SUB-25-ENG-ERROR-DETECTION&section=PART-3","title":"SSC 2025 ERROR DETECTION PART-3","type":"free","releaseDate":"03-06-2026","qs":22,"time":"15 Min","marks":"44"}
 ]
         
         
