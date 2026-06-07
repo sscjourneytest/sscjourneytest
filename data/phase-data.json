@@ -41,11 +41,7 @@
         "2025": {
           "full_mocks": [
             { "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 1", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-2", "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-3", "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-2", "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-3", "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-2", "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-3", "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
