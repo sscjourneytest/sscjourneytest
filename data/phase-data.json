@@ -5,49 +5,118 @@
       "full_link": "full-test.html",
       "sectional_link": "test-t2-s.html",
       "subject_link": "full-test.html",
-"sections": [
-
-  {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "GK", "name": "General Awareness", "backendName": "GK", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "ENGLISH", "name": "English", "backendName": "ENGLISH", "qs": 25, "time": "15 Min", "marks": 50}
-
-]
+      "sections": [
+        {
+          "id": "REASONING",
+          "name": "Reasoning",
+          "backendName": "REASONING",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "GK",
+          "name": "General Awareness",
+          "backendName": "GK",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "MATHS",
+          "name": "Maths",
+          "backendName": "MATH",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "ENGLISH",
+          "name": "English",
+          "backendName": "ENGLISH",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        }
+      ]
     },
     "higher_secondary": {
       "full_link": "full-test.html",
       "sectional_link": "test-t2-s.html",
       "subject_link": "full-test.html",
-"sections": [
-
-  {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "GK", "name": "General Awareness", "backendName": "GK", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "ENGLISH", "name": "English", "backendName": "ENGLISH", "qs": 25, "time": "15 Min", "marks": 50}
-
-]
+      "sections": [
+        {
+          "id": "REASONING",
+          "name": "Reasoning",
+          "backendName": "REASONING",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "GK",
+          "name": "General Awareness",
+          "backendName": "GK",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "MATHS",
+          "name": "Maths",
+          "backendName": "MATH",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "ENGLISH",
+          "name": "English",
+          "backendName": "ENGLISH",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        }
+      ]
     },
     "graduation": {
       "full_link": "full-test.html",
       "sectional_link": "test-t2-s.html",
       "subject_link": "full-test.html",
-"sections": [
-
-  {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "GK", "name": "General Awareness", "backendName": "GK", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 25, "time": "15 Min", "marks": 50},
-
-  {"id": "ENGLISH", "name": "English", "backendName": "ENGLISH", "qs": 25, "time": "15 Min", "marks": 50}
-
-]
+      "sections": [
+        {
+          "id": "REASONING",
+          "name": "Reasoning",
+          "backendName": "REASONING",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "GK",
+          "name": "General Awareness",
+          "backendName": "GK",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "MATHS",
+          "name": "Maths",
+          "backendName": "MATH",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        },
+        {
+          "id": "ENGLISH",
+          "name": "English",
+          "backendName": "ENGLISH",
+          "qs": 25,
+          "time": "15 Min",
+          "marks": 50
+        }
+      ]
     }
   },
   "data": {
@@ -55,33 +124,249 @@
       "matriculation": {
         "2025": {
           "full_mocks": [
-            {"id": "", "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 1", "type": "free",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 28 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 28 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 28 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 29 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 29 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 29 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 30 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 30 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 30 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 31 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 31 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 31 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 02 AUG 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 02 AUG 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST MATRIC 02 AUG 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
+            {
+              "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 1",
+              "type": "free",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-28-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 28 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-28-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 28 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-28-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 28 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-29-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 29 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-29-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 29 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-29-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 29 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-30-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 30 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-30-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 30 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-30-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 30 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-31-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 31 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-31-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 31 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-31-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 31 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-02-AUG-2025-SHIFT-1",
+              "title": "SELECTION POST MATRIC 02 AUG 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-02-AUG-2025-SHIFT-2",
+              "title": "SELECTION POST MATRIC 02 AUG 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-MATRIC-02-AUG-2025-SHIFT-3",
+              "title": "SELECTION POST MATRIC 02 AUG 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            }
           ],
           "subject_wise": []
         }
@@ -89,33 +374,249 @@
       "higher_secondary": {
         "2025": {
           "full_mocks": [
-            {"id": "", "title": "SELECTION POST HSL 24 JUL 2025 SHIFT 1", "type": "free",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 24 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 24 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 25 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 25 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 25 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 26 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 26 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 26 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 28 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 28 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 28 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 29 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 29 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 29 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 30 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 30 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 30 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 31 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 31 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 31 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 01 AUG 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 01 AUG 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 01 AUG 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 02 AUG 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 02 AUG 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST HSL 02 AUG 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
+            {
+              "id": "SELECTION-POST-HSL-24-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 24 JUL 2025 SHIFT 1",
+              "type": "free",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-24-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 24 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-24-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 24 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-25-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 25 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-25-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 25 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-25-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 25 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-26-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 26 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-26-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 26 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-26-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 26 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-28-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 28 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-28-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 28 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-28-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 28 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-29-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 29 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-29-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 29 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-29-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 29 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-30-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 30 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-30-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 30 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-30-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 30 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-31-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 31 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-31-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 31 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-31-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 31 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-01-AUG-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 01 AUG 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-01-AUG-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 01 AUG 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-01-AUG-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 01 AUG 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-02-AUG-2025-SHIFT-1",
+              "title": "SELECTION POST HSL 02 AUG 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-02-AUG-2025-SHIFT-2",
+              "title": "SELECTION POST HSL 02 AUG 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-HSL-02-AUG-2025-SHIFT-3",
+              "title": "SELECTION POST HSL 02 AUG 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            }
           ],
           "subject_wise": []
         }
@@ -123,33 +624,249 @@
       "graduation": {
         "2025": {
           "full_mocks": [
-            {"id": "", "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 1", "type": "free",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 26 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 26 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 26 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 31 JUL 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 31 JUL 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 31 JUL 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 01 AUG 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 01 AUG 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 01 AUG 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 02 AUG 2025 SHIFT 1", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 02 AUG 2025 SHIFT 2", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
-            {"id": "", "title": "SELECTION POST GRAD 02 AUG 2025 SHIFT 3", "type": "paid",  "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
+            {
+              "id": "SELECTION-POST-GRAD-24-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 1",
+              "type": "free",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-24-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-24-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-25-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-25-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-25-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-26-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 26 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-26-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 26 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-26-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 26 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-28-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-28-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-28-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-29-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-29-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-29-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-30-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-30-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-30-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-31-JUL-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 31 JUL 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-31-JUL-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 31 JUL 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-31-JUL-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 31 JUL 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-01-AUG-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 01 AUG 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-01-AUG-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 01 AUG 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-01-AUG-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 01 AUG 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-02-AUG-2025-SHIFT-1",
+              "title": "SELECTION POST GRAD 02 AUG 2025 SHIFT 1",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-02-AUG-2025-SHIFT-2",
+              "title": "SELECTION POST GRAD 02 AUG 2025 SHIFT 2",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            },
+            {
+              "id": "SELECTION-POST-GRAD-02-AUG-2025-SHIFT-3",
+              "title": "SELECTION POST GRAD 02 AUG 2025 SHIFT 3",
+              "type": "paid",
+              "releaseDate": "",
+              "qs": 100,
+              "time": "60 Min",
+              "marks": 200
+            }
           ],
           "subject_wise": []
         }
