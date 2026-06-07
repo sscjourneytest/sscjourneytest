@@ -13,7 +13,7 @@
       ]
     },
     "higher_secondary": {
-      "full_link": "full-test.html",
+      "full_link": "test-t2.html",
       "sectional_link": "test-t2-s.html",
       "subject_link": "full-test.html",
       "sections": [
@@ -24,7 +24,7 @@
       ]
     },
     "graduation": {
-      "full_link": "full-test.html",
+      "full_link": "test-t2.html",
       "sectional_link": "test-t2-s.html",
       "subject_link": "full-test.html",
       "sections": [
