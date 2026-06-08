@@ -75,9 +75,7 @@
       "graduation": {
         "2025": {
           "full_mocks": [
-            { "id": "SELECTION-POST-GRAD-24-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-GRAD-25-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-26-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 26 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-GRAD-28-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-GRAD-29-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-GRAD-30-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
