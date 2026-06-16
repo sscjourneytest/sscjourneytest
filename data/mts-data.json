@@ -2,9 +2,9 @@
   "examCode": "MTS",
   "config": {
     "tier1": {
-      "full_link": "test-t2-q.html",
-      "sectional_link": "test-t2-s.html",
-      "subject_link": "full-test.html",
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html",
       "sections": [
         {
           "id": "MATH_REAS",
