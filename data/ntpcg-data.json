@@ -2,14 +2,14 @@
   "examCode": "NTPCG",
   "config": {
     "tier1": {
-      "full_link": "full-test.html",
+      "full_link": "test.html",
       "sectional_link": "test.html",
-      "subject_link": "full-test.html"
+      "subject_link": "test.html"
     },
     "tier2": {
-      "full_link": "full-test.html",
-      "sectional_link": "test-t2-s.html",
-      "subject_link": "full-test.html"
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html"
     }
   },
   "data": {
