@@ -1,38 +1,5 @@
 {
   "tests": [
-    {
-      "id": "CGL-2026-LIVE-01",
-      "template": "full-test.html",
-      "title": "SSC CGL 2026: Live Mock 01",
-      "type": "free",
-      "qs": 100,
-      "time": "60 Min",
-      "marks": 200,
-      "startTime": "2026-04-06T10:00:00Z",
-      "endTime": "2026-04-07T22:00:00Z"
-    },
-    {
-      "id": "CPO-2025-T2-LIVE",
-      "template": "test-t2.html",
-      "title": "SSC CPO Tier-2: English Live",
-      "type": "paid",
-      "qs": 200,
-      "time": "120 Min",
-      "marks": 200,
-      "startTime": "2026-04-08T09:00:00Z",
-      "endTime": "2026-04-09T09:00:00Z"
-    },
-    {
-      "id": "MTS-2026-SUB-MATH",
-      "template": "full-test.html",
-      "title": "MTS Live: Quantitative Aptitude",
-      "type": "paid",
-      "qs": 20,
-      "time": "45 Min",
-      "marks": 60,
-      "startTime": "2026-03-01T10:00:00Z",
-      "endTime": "2026-03-02T10:00:00Z"
-    }
   ]
 }
 
