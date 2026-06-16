@@ -2,8 +2,8 @@
   "examCode": "A-TO-Z",
   "config": {
     "default": {
-      "full_link": "test-t2-s.html",
-      "subject_link": "test-t2-s.html"
+      "full_link": "test.html",
+      "subject_link": "test.html"
     }
   },
   "data": {
