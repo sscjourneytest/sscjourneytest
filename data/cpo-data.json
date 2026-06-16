@@ -2,20 +2,20 @@
   "examCode": "CPO",
   "config": {
     "tier1": {
-      "full_link": "test-t2.html",
-      "sectional_link": "test-t2-s.html",
-      "subject_link": "full-test.html",
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html",
       "sections": [
         {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 50, "time": "30 Min", "marks": 50},
-        {"id": "GK", "name": "General Awareness", "backendName": "GENERAL AWARENESS", "qs": 50, "time": "15 Min", "marks": 50},
-        {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 50, "time": "45 Min", "marks": 50},
+        {"id": "GK", "name": "General Awareness", "backendName": "GENERAL AWARENESS", "qs": 50, "time": "30 Min", "marks": 50},
+        {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 50, "time": "30 Min", "marks": 50},
         {"id": "ENGLISH", "name": "English", "backendName": "ENGLISH", "qs": 50, "time": "30 Min", "marks": 50}
       ]
     },
     "tier2": {
-      "full_link": "test-t2.html",
-      "sectional_link": "test-t2-s.html",
-      "subject_link": "full-test.html",
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html",
       "sections": [
         {"id": "ENGLISH_T2", "name": "English Language & Comprehension", "backendName": "ENGLISH", "qs": 200, "time": "120 Min", "marks": 200}
       ]
