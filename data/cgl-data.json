@@ -2,9 +2,9 @@
   "examCode": "CGL",
   "config": {
     "tier1": {
-      "full_link": "test-t2.html",
-      "sectional_link": "test-t2-s.html",
-      "subject_link": "full-test.html",
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html",
      "sections": [
   {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 25, "time": "15 Min", "marks": 50},
   {"id": "GK", "name": "General Awareness", "backendName": "GK", "qs": 25, "time": "15 Min", "marks": 50},
@@ -13,9 +13,9 @@
 ]
     },
     "tier2": {
-      "full_link": "test-t2-q.html",
-      "sectional_link": "test-t2-s.html",
-      "subject_link": "full-test.html",
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html",
       "sections": [
         {"id": "SEC1", "name": "Section 1 (Math/Reas)", "backendName": "SECTION 1", "qs": 60, "time": "60 Min", "marks": 180},
         {"id": "SEC2", "name": "Section 2 (Eng/GK)", "backendName": "SECTION 2", "qs": 70, "time": "60 Min", "marks": 210},
