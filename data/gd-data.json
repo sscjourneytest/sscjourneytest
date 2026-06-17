@@ -1,1 +1,95 @@
-
+{
+  "examCode": "GD",
+  "config": {
+    "tier1": {
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html",
+      "sections": [
+        {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 20, "time": "15 Min", "marks": 40},
+        {"id": "GK", "name": "General Knowledge", "backendName": "GK", "qs": 20, "time": "15 Min", "marks": 40},
+        {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 20, "time": "15 Min", "marks": 40},
+        {"id": "HINDI", "name": "Hindi", "backendName": "HINDI", "qs": 20, "time": "15 Min", "marks": 40}
+      ]
+    }
+  },
+  "data": {
+    "PYQ MOCK": {
+      "tier1": {
+        "2026": {
+          "full_mocks": [
+            {"id": "GD-2026-27-APR-SHIFT-2", "title": "GD 2026 27 APR SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-28-APR-SHIFT-1", "title": "GD 2026 28 APR SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-28-APR-SHIFT-2", "title": "GD 2026 28 APR SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-28-APR-SHIFT-3", "title": "GD 2026 28 APR SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-29-APR-SHIFT-1", "title": "GD 2026 29 APR SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-29-APR-SHIFT-2", "title": "GD 2026 29 APR SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-29-APR-SHIFT-3", "title": "GD 2026 29 APR SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-30-APR-SHIFT-1", "title": "GD 2026 30 APR SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-30-APR-SHIFT-2", "title": "GD 2026 30 APR SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-30-APR-SHIFT-3", "title": "GD 2026 30 APR SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-04-MAY-SHIFT-1", "title": "GD 2026 04 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-04-MAY-SHIFT-2", "title": "GD 2026 04 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-04-MAY-SHIFT-3", "title": "GD 2026 04 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-05-MAY-SHIFT-1", "title": "GD 2026 05 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-05-MAY-SHIFT-2", "title": "GD 2026 05 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-05-MAY-SHIFT-3", "title": "GD 2026 05 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-06-MAY-SHIFT-1", "title": "GD 2026 06 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-06-MAY-SHIFT-2", "title": "GD 2026 06 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-06-MAY-SHIFT-3", "title": "GD 2026 06 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-07-MAY-SHIFT-1", "title": "GD 2026 07 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-07-MAY-SHIFT-2", "title": "GD 2026 07 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-07-MAY-SHIFT-3", "title": "GD 2026 07 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-08-MAY-SHIFT-1", "title": "GD 2026 08 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-08-MAY-SHIFT-2", "title": "GD 2026 08 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-08-MAY-SHIFT-3", "title": "GD 2026 08 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-09-MAY-SHIFT-1", "title": "GD 2026 09 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-09-MAY-SHIFT-2", "title": "GD 2026 09 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-09-MAY-SHIFT-3", "title": "GD 2026 09 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-18-MAY-SHIFT-1", "title": "GD 2026 18 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-18-MAY-SHIFT-2", "title": "GD 2026 18 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-18-MAY-SHIFT-3", "title": "GD 2026 18 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-19-MAY-SHIFT-1", "title": "GD 2026 19 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-19-MAY-SHIFT-2", "title": "GD 2026 19 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-19-MAY-SHIFT-3", "title": "GD 2026 19 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-20-MAY-SHIFT-1", "title": "GD 2026 20 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-20-MAY-SHIFT-2", "title": "GD 2026 20 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-20-MAY-SHIFT-3", "title": "GD 2026 20 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-21-MAY-SHIFT-1", "title": "GD 2026 21 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-21-MAY-SHIFT-2", "title": "GD 2026 21 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-21-MAY-SHIFT-3", "title": "GD 2026 21 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-22-MAY-SHIFT-1", "title": "GD 2026 22 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-22-MAY-SHIFT-2", "title": "GD 2026 22 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-22-MAY-SHIFT-3", "title": "GD 2026 22 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-25-MAY-SHIFT-1", "title": "GD 2026 25 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-25-MAY-SHIFT-2", "title": "GD 2026 25 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-25-MAY-SHIFT-3", "title": "GD 2026 25 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-26-MAY-SHIFT-1", "title": "GD 2026 26 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-26-MAY-SHIFT-2", "title": "GD 2026 26 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-26-MAY-SHIFT-3", "title": "GD 2026 26 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-27-MAY-SHIFT-1", "title": "GD 2026 27 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-27-MAY-SHIFT-2", "title": "GD 2026 27 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-27-MAY-SHIFT-3", "title": "GD 2026 27 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-29-MAY-SHIFT-1", "title": "GD 2026 29 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-29-MAY-SHIFT-2", "title": "GD 2026 29 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-29-MAY-SHIFT-3", "title": "GD 2026 29 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-30-MAY-SHIFT-1", "title": "GD 2026 30 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-30-MAY-SHIFT-2", "title": "GD 2026 30 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-30-MAY-SHIFT-3", "title": "GD 2026 30 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-31-MAY-SHIFT-1", "title": "GD 2026 31 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-31-MAY-SHIFT-3", "title": "GD 2026 31 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160}
+          ],
+          "subject_wise": []
+        }
+      }
+    },
+    "NEW MOCK": {
+      "tier1": {
+        "2026": {
+          "full_mocks": [],
+          "subject_wise": []
+        }
+      }
+    }
+  }
+}
