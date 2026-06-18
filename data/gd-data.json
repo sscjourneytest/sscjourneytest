@@ -78,7 +78,7 @@
             {"id": "GD-2026-30-MAY-SHIFT-3", "title": "GD 2026 30 MAY SHIFT 3", "type": "paid", "releaseDate": "05-08-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-31-MAY-SHIFT-1", "title": "GD 2026 31 MAY SHIFT 1", "type": "paid", "releaseDate": "06-08-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-31-MAY-SHIFT-3", "title": "GD 2026 31 MAY SHIFT 3", "type": "paid", "releaseDate": "07-08-2026", "qs": 80, "time": "60 Min", "marks": 160}
-]
+],
           "subject_wise": []
         }
       }
