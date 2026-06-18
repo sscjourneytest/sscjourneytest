@@ -7,7 +7,7 @@
       "subject_link": "test.html",
       "sections": [
         {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 20, "time": "15 Min", "marks": 40},
-        {"id": "GK", "name": "General Knowledge", "backendName": "GK", "qs": 20, "time": "15 Min", "marks": 40},
+        {"id": "GENERAL AWARENESS", "name": "General Knowledge", "backendName": "GK", "qs": 20, "time": "15 Min", "marks": 40},
         {"id": "MATHS", "name": "Maths", "backendName": "MATH", "qs": 20, "time": "15 Min", "marks": 40},
         {"id": "HINDI", "name": "Hindi", "backendName": "HINDI", "qs": 20, "time": "15 Min", "marks": 40}
       ]
