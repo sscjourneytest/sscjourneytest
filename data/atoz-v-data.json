@@ -263,7 +263,19 @@
   {"id":"imps-atoz-v-T-word-ows-part-2","linkStr":"imps-atoz-v-T-word-ows&section=PART-2","title":"T WORD - OWS PART-2","type":"free","releaseDate":"05-06-2026","qs":25,"time":"15 Min","marks":"50"},
   {"id":"imps-atoz-v-T-word-ows-part-3","linkStr":"imps-atoz-v-T-word-ows&section=PART-3","title":"T WORD - OWS PART-3","type":"free","releaseDate":"05-06-2026","qs":25,"time":"15 Min","marks":"50"},
   {"id":"imps-atoz-v-T-word-ows-part-4","linkStr":"imps-atoz-v-T-word-ows&section=PART-4","title":"T WORD - OWS PART-4","type":"free","releaseDate":"05-06-2026","qs":22,"time":"12 Min","marks":"44"}
+],
+"U WORD - OWS ( WORD ADAA PDFs )": [
+  {"id": "imps-atoz-v-U-word-ows-part-1", "title": "U WORD - OWS ( WORD ADAA PDFs ) PART-1", "type": "free", "releaseDate": "", "qs": 27, "time": "15 Min", "marks": 54}
+],
+"V WORD - OWS ( WORD ADAA PDFs )": [
+  {"id": "imps-atoz-v-V-word-ows-part-1", "title": "V WORD - OWS ( WORD ADAA PDFs ) PART-1", "type": "free", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
+  {"id": "imps-atoz-v-V-word-ows-part-2", "title": "V WORD - OWS ( WORD ADAA PDFs ) PART-2", "type": "free", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
+  {"id": "imps-atoz-v-V-word-ows-part-3", "title": "V WORD - OWS ( WORD ADAA PDFs ) PART-3", "type": "free", "releaseDate": "", "qs": 11, "time": "15 Min", "marks": 22}
+],
+"W WORD - OWS ( WORD ADAA PDFs )": [
+  {"id": "imps-atoz-v-W-word-ows-part-1", "title": "W WORD - OWS ( WORD ADAA PDFs ) PART-1", "type": "free", "releaseDate": "", "qs": 26, "time": "15 Min", "marks": 52}
 ]
+
       }
       
 
