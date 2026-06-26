@@ -20,19 +20,14 @@
           "full_mocks": [
             {"id": "GD-2026-27-APRIL-SHIFT-2", "title": "GD 2026 27 APR SHIFT 2", "type": "free", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-28-APRIL-SHIFT-1", "title": "GD 2026 28 APR SHIFT 1", "type": "free", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
-            {"id": "GD-2026-28-APRIL-SHIFT-2", "title": "GD 2026 28 APR SHIFT 2", "type": "free", "releaseDate": "28-06-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-28-APRIL-SHIFT-3", "title": "GD 2026 28 APR SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-29-APRIL-SHIFT-1", "title": "GD 2026 29 APR SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
-            {"id": "GD-2026-29-APRIL-SHIFT-2", "title": "GD 2026 29 APR SHIFT 2", "type": "paid", "releaseDate": "26-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-29-APRIL-SHIFT-3", "title": "GD 2026 29 APR SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-30-APRIL-SHIFT-1", "title": "GD 2026 30 APR SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-30-APRIL-SHIFT-2", "title": "GD 2026 30 APR SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
-            {"id": "GD-2026-30-APRIL-SHIFT-3", "title": "GD 2026 30 APR SHIFT 3", "type": "paid", "releaseDate": "28-06-2026", "qs": 80, "time": "60 Min", "marks": 160},
-            {"id": "GD-2026-04-MAY-SHIFT-1", "title": "GD 2026 04 MAY SHIFT 1", "type": "paid", "releaseDate": "28-06-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-04-MAY-SHIFT-2", "title": "GD 2026 04 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-04-MAY-SHIFT-3", "title": "GD 2026 04 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-05-MAY-SHIFT-1", "title": "GD 2026 05 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
-            {"id": "GD-2026-05-MAY-SHIFT-2", "title": "GD 2026 05 MAY SHIFT 2", "type": "paid", "releaseDate": "30-06-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-05-MAY-SHIFT-3", "title": "GD 2026 05 MAY SHIFT 3", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-06-MAY-SHIFT-1", "title": "GD 2026 06 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-06-MAY-SHIFT-2", "title": "GD 2026 06 MAY SHIFT 2", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
@@ -77,7 +72,13 @@
             {"id": "GD-2026-30-MAY-SHIFT-2", "title": "GD 2026 30 MAY SHIFT 2", "type": "paid", "releaseDate": "21-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-30-MAY-SHIFT-3", "title": "GD 2026 30 MAY SHIFT 3", "type": "paid", "releaseDate": "22-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-31-MAY-SHIFT-1", "title": "GD 2026 31 MAY SHIFT 1", "type": "paid", "releaseDate": "22-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
-            {"id": "GD-2026-31-MAY-SHIFT-3", "title": "GD 2026 31 MAY SHIFT 3", "type": "paid", "releaseDate": "23-07-2026", "qs": 80, "time": "60 Min", "marks": 160}
+            {"id": "GD-2026-31-MAY-SHIFT-3", "title": "GD 2026 31 MAY SHIFT 3", "type": "paid", "releaseDate": "23-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-28-APRIL-SHIFT-2", "title": "GD 2026 28 APR SHIFT 2", "type": "free", "releaseDate": "28-06-2026", "qs": 80, "time": "60 Min", "marks": 160},
+           {"id": "GD-2026-29-APRIL-SHIFT-2", "title": "GD 2026 29 APR SHIFT 2", "type": "paid", "releaseDate": "26-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
+           {"id": "GD-2026-30-APRIL-SHIFT-3", "title": "GD 2026 30 APR SHIFT 3", "type": "paid", "releaseDate": "28-06-2026", "qs": 80, "time": "60 Min", "marks": 160},
+           {"id": "GD-2026-04-MAY-SHIFT-1", "title": "GD 2026 04 MAY SHIFT 1", "type": "paid", "releaseDate": "28-06-2026", "qs": 80, "time": "60 Min", "marks": 160},
+           {"id": "GD-2026-05-MAY-SHIFT-2", "title": "GD 2026 05 MAY SHIFT 2", "type": "paid", "releaseDate": "30-06-2026", "qs": 80, "time": "60 Min", "marks": 160}
+
 ],
           "subject_wise": []
         }
