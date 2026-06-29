@@ -16,38 +16,38 @@
     "tier1": {
       "2025": {
         "full_mocks": [
-          {"id": "NTPC-UG-07-MAY-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 07 MAY 2026 SHIFT 1)", "type": "free", "releaseDate": "11-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-07-MAY-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 07 MAY 2026 SHIFT 2)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-07-MAY-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 07 MAY 2026 SHIFT 3)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-08-MAY-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 08 MAY 2026 SHIFT 1)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-08-MAY-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 08 MAY 2026 SHIFT 2)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-08-MAY-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 08 MAY 2026 SHIFT 3)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-09-MAY-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 09 MAY 2026 SHIFT 1)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-09-MAY-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 09 MAY 2026 SHIFT 2)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-09-MAY-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 09 MAY 2026 SHIFT 3)", "type": "paid", "releaseDate": "13-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-13-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 13 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "15-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-13-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 13 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "16-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-14-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 14 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "16-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-14-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 14 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "17-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-14-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 14 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "27-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-15-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 15 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "28-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-15-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 15 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "29-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-15-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 15 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "30-04-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-16-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 16 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "01-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-16-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 16 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "02-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-16-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 16 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "03-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-17-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 17 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "04-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-17-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 17 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "05-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-17-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 17 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "06-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-18-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 18 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "07-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-18-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 18 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "08-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-18-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 18 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "09-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-19-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 19 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "10-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-19-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 19 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "11-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-19-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 19 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "12-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-20-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 20 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "13-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-20-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 20 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "14-05-2026", "qs": 100, "time": "90 Min", "marks": 100},
-          {"id": "NTPC-UG-20-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 20 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "15-05-2026", "qs": 100, "time": "90 Min", "marks": 100}
+          {"id": "NTPC-UG-07-MAY-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 07 MAY 2026 SHIFT 1)", "type": "free", "releaseDate": "01-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-07-MAY-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 07 MAY 2026 SHIFT 2)", "type": "paid", "releaseDate": "02-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-07-MAY-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 07 MAY 2026 SHIFT 3)", "type": "paid", "releaseDate": "04-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-08-MAY-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 08 MAY 2026 SHIFT 1)", "type": "paid", "releaseDate": "05-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-08-MAY-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 08 MAY 2026 SHIFT 2)", "type": "paid", "releaseDate": "07-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-08-MAY-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 08 MAY 2026 SHIFT 3)", "type": "paid", "releaseDate": "08-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-09-MAY-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 09 MAY 2026 SHIFT 1)", "type": "paid", "releaseDate": "10-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-09-MAY-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 09 MAY 2026 SHIFT 2)", "type": "paid", "releaseDate": "11-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-09-MAY-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 09 MAY 2026 SHIFT 3)", "type": "paid", "releaseDate": "13-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-13-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 13 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "14-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-13-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 13 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "16-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-14-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 14 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "17-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-14-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 14 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "19-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-14-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 14 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "20-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-15-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 15 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "22-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-15-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 15 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "23-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-15-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 15 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "25-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-16-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 16 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "26-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-16-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 16 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "28-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-16-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 16 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "29-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-17-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 17 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "31-07-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-17-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 17 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "01-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-17-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 17 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "03-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-18-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 18 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "04-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-18-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 18 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "06-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-18-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 18 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "07-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-19-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 19 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "09-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-19-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 19 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "10-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-19-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 19 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "12-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-20-JUN-2026-SHIFT-1", "title": "NTPC UG 2025 ( HELD ON 20 JUN 2026 SHIFT 1)", "type": "paid", "releaseDate": "13-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-20-JUN-2026-SHIFT-2", "title": "NTPC UG 2025 ( HELD ON 20 JUN 2026 SHIFT 2)", "type": "paid", "releaseDate": "15-08-2026", "qs": 100, "time": "90 Min", "marks": 100},
+          {"id": "NTPC-UG-20-JUN-2026-SHIFT-3", "title": "NTPC UG 2025 ( HELD ON 20 JUN 2026 SHIFT 3)", "type": "paid", "releaseDate": "16-08-2026", "qs": 100, "time": "90 Min", "marks": 100}
         ],
         "subject_wise": []
       }
@@ -55,7 +55,7 @@
     "tier2": {
       "2025": {
         "full_mocks": [
-          {"id": "NTPCUG-25-T2-01", "title": "NTPC UG TIER 2 MOCK 01", "type": "paid", "releaseDate": "23-04-2026", "qs": 120, "time": "90 Min", "marks": 120}
+          {"id": "NTPCUG-25-T2-01", "title": "NTPC UG TIER 2 MOCK 01", "type": "paid", "releaseDate": "25-08-2026", "qs": 120, "time": "90 Min", "marks": 120}
         ],
         "subject_wise": []
       }
