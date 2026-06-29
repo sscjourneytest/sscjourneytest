@@ -4,7 +4,12 @@
     "tier1": {
       "full_link": "test.html",
       "sectional_link": "test.html",
-      "subject_link": "test.html"
+      "subject_link": "test.html",
+     "sections": [
+  {"id": "MATH", "name": "Mathematics", "backendName": "MATH", "qs": 30, "time": "30 Min", "marks": 30},
+  {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 30, "time": "30 Min", "marks": 30},
+  {"id": "GK", "name": "General Awareness", "backendName": "GK", "qs": 40, "time": "30 Min", "marks": 40}
+]
     },
     "tier2": {
       "full_link": "test.html",
