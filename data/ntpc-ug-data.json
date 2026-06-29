@@ -55,7 +55,7 @@
     "tier2": {
       "2025": {
         "full_mocks": [
-          {"id": "NTPCUG-25-T2-01", "title": "NTPC UG TIER 2 MOCK 01", "type": "paid", "releaseDate": "25-08-2026", "qs": 120, "time": "90 Min", "marks": 120}
+          {"id": "NTPCUG-25-T2-01", "title": "NTPC UG TIER 2 MOCK 01", "type": "paid", "releaseDate": "25-11-2026", "qs": 120, "time": "90 Min", "marks": 120}
         ],
         "subject_wise": []
       }
