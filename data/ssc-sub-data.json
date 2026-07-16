@@ -145,7 +145,7 @@
         
       },
 "Reasoning": {
-    "Mathematical Operations": [
+    "MATHEMATICAL OPERATIONS": [
     {"id": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS-part-1", "linkStr": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS&section=PART-1", "title": "SSC 2025 Mathematical Operations PART-1", "type": "free", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS-part-2", "linkStr": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS&section=PART-2", "title": "SSC 2025 Mathematical Operations PART-2", "type": "free", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS-part-3", "linkStr": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS&section=PART-3", "title": "SSC 2025 Mathematical Operations PART-3", "type": "free", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -169,24 +169,24 @@
     {"id": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS-part-21", "linkStr": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS&section=PART-21", "title": "SSC 2025 Mathematical Operations PART-21", "type": "free", "releaseDate": "", "qs": 16, "time": "10 Min", "marks": 16}
   ],
   
-  "Address/Sentence matching": [
+  "ADDRESS/SENTENCE MATCHING": [
     {"id": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING-part-1", "linkStr": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING&section=PART-1", "title": "SSC 2025 Address/Sentence matching PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING-part-2", "linkStr": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING&section=PART-2", "title": "SSC 2025 Address/Sentence matching PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING-part-3", "linkStr": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING&section=PART-3", "title": "SSC 2025 Address/Sentence matching PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING-part-4", "linkStr": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING&section=PART-4", "title": "SSC 2025 Address/Sentence matching PART-4", "type": "paid", "releaseDate": "", "qs": 27, "time": "16 Min", "marks": 54}
   ],
-  "Age Problems": [
+  "AGE PROBLEMS": [
     {"id": "SSC-SUB-25-REASONING-AGE-PROBLEMS-part-1", "linkStr": "SSC-SUB-25-REASONING-AGE-PROBLEMS&section=PART-1", "title": "SSC 2025 Age Problems PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-AGE-PROBLEMS-part-2", "linkStr": "SSC-SUB-25-REASONING-AGE-PROBLEMS&section=PART-2", "title": "SSC 2025 Age Problems PART-2", "type": "paid", "releaseDate": "", "qs": 17, "time": "10 Min", "marks": 51}
   ],
-  "Alphanumeric Series": [
+  "ALPHANUMERIC SERIES": [
     {"id": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES-part-1", "linkStr": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES&section=PART-1", "title": "SSC 2025 Alphanumeric Series PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES-part-2", "linkStr": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES&section=PART-2", "title": "SSC 2025 Alphanumeric Series PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES-part-3", "linkStr": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES&section=PART-3", "title": "SSC 2025 Alphanumeric Series PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 25},
     {"id": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES-part-4", "linkStr": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES&section=PART-4", "title": "SSC 2025 Alphanumeric Series PART-4", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES-part-5", "linkStr": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES&section=PART-5", "title": "SSC 2025 Alphanumeric Series PART-5", "type": "paid", "releaseDate": "", "qs": 29, "time": "17 Min", "marks": 87}
   ],
-  "Blood Relations": [
+  "BLOOD RELATIONS": [
     {"id": "SSC-SUB-25-REASONING-BLOOD-RELATIONS-part-1", "linkStr": "SSC-SUB-25-REASONING-BLOOD-RELATIONS&section=PART-1", "title": "SSC 2025 Blood Relations PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-BLOOD-RELATIONS-part-2", "linkStr": "SSC-SUB-25-REASONING-BLOOD-RELATIONS&section=PART-2", "title": "SSC 2025 Blood Relations PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-BLOOD-RELATIONS-part-3", "linkStr": "SSC-SUB-25-REASONING-BLOOD-RELATIONS&section=PART-3", "title": "SSC 2025 Blood Relations PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -195,17 +195,17 @@
     {"id": "SSC-SUB-25-REASONING-BLOOD-RELATIONS-part-6", "linkStr": "SSC-SUB-25-REASONING-BLOOD-RELATIONS&section=PART-6", "title": "SSC 2025 Blood Relations PART-6", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 25},
     {"id": "SSC-SUB-25-REASONING-BLOOD-RELATIONS-part-7", "linkStr": "SSC-SUB-25-REASONING-BLOOD-RELATIONS&section=PART-7", "title": "SSC 2025 Blood Relations PART-7", "type": "paid", "releaseDate": "", "qs": 16, "time": "10 Min", "marks": 16}
   ],
-  "Calendar": [
+  "CALENDAR": [
     {"id": "SSC-SUB-25-REASONING-CALENDAR-part-1", "linkStr": "SSC-SUB-25-REASONING-CALENDAR&section=PART-1", "title": "SSC 2025 Calendar PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-CALENDAR-part-2", "linkStr": "SSC-SUB-25-REASONING-CALENDAR&section=PART-2", "title": "SSC 2025 Calendar PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 25},
     {"id": "SSC-SUB-25-REASONING-CALENDAR-part-3", "linkStr": "SSC-SUB-25-REASONING-CALENDAR&section=PART-3", "title": "SSC 2025 Calendar PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-CALENDAR-part-4", "linkStr": "SSC-SUB-25-REASONING-CALENDAR&section=PART-4", "title": "SSC 2025 Calendar PART-4", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-CALENDAR-part-5", "linkStr": "SSC-SUB-25-REASONING-CALENDAR&section=PART-5", "title": "SSC 2025 Calendar PART-5", "type": "paid", "releaseDate": "", "qs": 16, "time": "10 Min", "marks": 48}
   ],
-  "Clock": [
+  "CLOCK": [
     {"id": "SSC-SUB-25-REASONING-CLOCK-part-1", "linkStr": "SSC-SUB-25-REASONING-CLOCK&section=PART-1", "title": "SSC 2025 Clock PART-1", "type": "paid", "releaseDate": "", "qs": 30, "time": "18 Min", "marks": 60}
   ],
-  "Coding & Decoding": [
+  "CODING & DECODING": [
     {"id": "SSC-SUB-25-REASONING-CODING-AND-DECODING-part-1", "linkStr": "SSC-SUB-25-REASONING-CODING-AND-DECODING&section=PART-1", "title": "SSC 2025 Coding & Decoding PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-CODING-AND-DECODING-part-2", "linkStr": "SSC-SUB-25-REASONING-CODING-AND-DECODING&section=PART-2", "title": "SSC 2025 Coding & Decoding PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-CODING-AND-DECODING-part-3", "linkStr": "SSC-SUB-25-REASONING-CODING-AND-DECODING&section=PART-3", "title": "SSC 2025 Coding & Decoding PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -221,7 +221,7 @@
     {"id": "SSC-SUB-25-REASONING-CODING-AND-DECODING-part-13", "linkStr": "SSC-SUB-25-REASONING-CODING-AND-DECODING&section=PART-13", "title": "SSC 2025 Coding & Decoding PART-13", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-CODING-AND-DECODING-part-14", "linkStr": "SSC-SUB-25-REASONING-CODING-AND-DECODING&section=PART-14", "title": "SSC 2025 Coding & Decoding PART-14", "type": "paid", "releaseDate": "", "qs": 36, "time": "22 Min", "marks": 72}
   ],
-  "Decision Making": [
+  "DECISION MAKING": [
     {"id": "SSC-SUB-25-REASONING-DECISION-MAKING-part-1", "linkStr": "SSC-SUB-25-REASONING-DECISION-MAKING&section=PART-1", "title": "SSC 2025 Decision Making PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-DECISION-MAKING-part-2", "linkStr": "SSC-SUB-25-REASONING-DECISION-MAKING&section=PART-2", "title": "SSC 2025 Decision Making PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-DECISION-MAKING-part-3", "linkStr": "SSC-SUB-25-REASONING-DECISION-MAKING&section=PART-3", "title": "SSC 2025 Decision Making PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -232,35 +232,35 @@
     {"id": "SSC-SUB-25-REASONING-DECISION-MAKING-part-8", "linkStr": "SSC-SUB-25-REASONING-DECISION-MAKING&section=PART-8", "title": "SSC 2025 Decision Making PART-8", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-DECISION-MAKING-part-9", "linkStr": "SSC-SUB-25-REASONING-DECISION-MAKING&section=PART-9", "title": "SSC 2025 Decision Making PART-9", "type": "paid", "releaseDate": "", "qs": 26, "time": "16 Min", "marks": 26}
   ],
-  "Dictionary / Alphabetical Order": [
+  "DICTIONARY / ALPHABETICAL ORDER": [
     {"id": "SSC-SUB-25-REASONING-DICTIONARY-ALPHABETICAL-ORDER-part-1", "linkStr": "SSC-SUB-25-REASONING-DICTIONARY-ALPHABETICAL-ORDER&section=PART-1", "title": "SSC 2025 Dictionary / Alphabetical Order PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-DICTIONARY-ALPHABETICAL-ORDER-part-2", "linkStr": "SSC-SUB-25-REASONING-DICTIONARY-ALPHABETICAL-ORDER&section=PART-2", "title": "SSC 2025 Dictionary / Alphabetical Order PART-2", "type": "paid", "releaseDate": "", "qs": 30, "time": "18 Min", "marks": 60}
   ],
-  "Direction & Distance": [
+  "DIRECTION & DISTANCE": [
     {"id": "SSC-SUB-25-REASONING-DIRECTION-AND-DISTANCE-part-1", "linkStr": "SSC-SUB-25-REASONING-DIRECTION-AND-DISTANCE&section=PART-1", "title": "SSC 2025 Direction & Distance PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-DIRECTION-AND-DISTANCE-part-2", "linkStr": "SSC-SUB-25-REASONING-DIRECTION-AND-DISTANCE&section=PART-2", "title": "SSC 2025 Direction & Distance PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-DIRECTION-AND-DISTANCE-part-3", "linkStr": "SSC-SUB-25-REASONING-DIRECTION-AND-DISTANCE&section=PART-3", "title": "SSC 2025 Direction & Distance PART-3", "type": "paid", "releaseDate": "", "qs": 23, "time": "14 Min", "marks": 46}
   ],
-  "Figure Analogy": [
+  "FIGURE ANALOGY": [
     {"id": "SSC-SUB-25-REASONING-FIGURE-ANALOGY-part-1", "linkStr": "SSC-SUB-25-REASONING-FIGURE-ANALOGY&section=PART-1", "title": "SSC 2025 Figure Analogy PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-FIGURE-ANALOGY-part-2", "linkStr": "SSC-SUB-25-REASONING-FIGURE-ANALOGY&section=PART-2", "title": "SSC 2025 Figure Analogy PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-FIGURE-ANALOGY-part-3", "linkStr": "SSC-SUB-25-REASONING-FIGURE-ANALOGY&section=PART-3", "title": "SSC 2025 Figure Analogy PART-3", "type": "paid", "releaseDate": "", "qs": 28, "time": "17 Min", "marks": 84}
   ],
-  "Figure Completing": [
+  "FIGURE COMPLETING": [
     {"id": "SSC-SUB-25-REASONING-FIGURE-COMPLETING-part-1", "linkStr": "SSC-SUB-25-REASONING-FIGURE-COMPLETING&section=PART-1", "title": "SSC 2025 Figure Completing PART-1", "type": "paid", "releaseDate": "", "qs": 20, "time": "12 Min", "marks": 40}
   ],
-  "Figure Series": [
+  "FIGURE SERIES": [
     {"id": "SSC-SUB-25-REASONING-FIGURE-SERIES-part-1", "linkStr": "SSC-SUB-25-REASONING-FIGURE-SERIES&section=PART-1", "title": "SSC 2025 Figure Series PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-FIGURE-SERIES-part-2", "linkStr": "SSC-SUB-25-REASONING-FIGURE-SERIES&section=PART-2", "title": "SSC 2025 Figure Series PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 25},
     {"id": "SSC-SUB-25-REASONING-FIGURE-SERIES-part-3", "linkStr": "SSC-SUB-25-REASONING-FIGURE-SERIES&section=PART-3", "title": "SSC 2025 Figure Series PART-3", "type": "paid", "releaseDate": "", "qs": 29, "time": "17 Min", "marks": 87}
   ],
-  "Inequality": [
+  "INEQUALITY": [
     {"id": "SSC-SUB-25-REASONING-INEQUALITY-part-1", "linkStr": "SSC-SUB-25-REASONING-INEQUALITY&section=PART-1", "title": "SSC 2025 Inequality PART-1", "type": "paid", "releaseDate": "", "qs": 26, "time": "16 Min", "marks": 52}
   ],
-  "Input-Output": [
+  "INPUT-OUTPUT": [
     {"id": "SSC-SUB-25-REASONING-INPUT-OUTPUT-part-1", "linkStr": "SSC-SUB-25-REASONING-INPUT-OUTPUT&section=PART-1", "title": "SSC 2025 Input-Output PART-1", "type": "paid", "releaseDate": "", "qs": 18, "time": "11 Min", "marks": 18}
   ],
-  "Letter Series": [
+  "LETTER SERIES": [
     {"id": "SSC-SUB-25-REASONING-LETTER-SERIES-part-1", "linkStr": "SSC-SUB-25-REASONING-LETTER-SERIES&section=PART-1", "title": "SSC 2025 Letter Series PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-LETTER-SERIES-part-2", "linkStr": "SSC-SUB-25-REASONING-LETTER-SERIES&section=PART-2", "title": "SSC 2025 Letter Series PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-LETTER-SERIES-part-3", "linkStr": "SSC-SUB-25-REASONING-LETTER-SERIES&section=PART-3", "title": "SSC 2025 Letter Series PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -274,7 +274,7 @@
     {"id": "SSC-SUB-25-REASONING-LETTER-SERIES-part-11", "linkStr": "SSC-SUB-25-REASONING-LETTER-SERIES&section=PART-11", "title": "SSC 2025 Letter Series PART-11", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-LETTER-SERIES-part-12", "linkStr": "SSC-SUB-25-REASONING-LETTER-SERIES&section=PART-12", "title": "SSC 2025 Letter Series PART-12", "type": "paid", "releaseDate": "", "qs": 36, "time": "22 Min", "marks": 72}
   ],
-  "Letter/Alphabetical Analogy": [
+  "LETTER/ALPHABETICAL ANALOGY": [
     {"id": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-1", "linkStr": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY&section=PART-1", "title": "SSC 2025 Letter/Alphabetical Analogy PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-2", "linkStr": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY&section=PART-2", "title": "SSC 2025 Letter/Alphabetical Analogy PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-3", "linkStr": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY&section=PART-3", "title": "SSC 2025 Letter/Alphabetical Analogy PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -284,40 +284,40 @@
     {"id": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-7", "linkStr": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY&section=PART-7", "title": "SSC 2025 Letter/Alphabetical Analogy PART-7", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-8", "linkStr": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY&section=PART-8", "title": "SSC 2025 Letter/Alphabetical Analogy PART-8", "type": "paid", "releaseDate": "", "qs": 22, "time": "13 Min", "marks": 44}
   ],
-  "Letter/Word Position Analysis": [
+  "LETTER/WORD POSITION ANALYSIS": [
     {"id": "SSC-SUB-25-REASONING-LETTER-WORD-POSITION-ANALYSIS-part-1", "linkStr": "SSC-SUB-25-REASONING-LETTER-WORD-POSITION-ANALYSIS&section=PART-1", "title": "SSC 2025 Letter/Word Position Analysis PART-1", "type": "paid", "releaseDate": "", "qs": 23, "time": "14 Min", "marks": 46}
   ],
 
-  "Miscellaneous": [
+  "MISCELLANEOUS": [
     {"id": "SSC-SUB-25-REASONING-MISCELLANEOUS-part-1", "linkStr": "SSC-SUB-25-REASONING-MISCELLANEOUS&section=PART-1", "title": "SSC 2025 Miscellaneous PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-MISCELLANEOUS-part-2", "linkStr": "SSC-SUB-25-REASONING-MISCELLANEOUS&section=PART-2", "title": "SSC 2025 Miscellaneous PART-2", "type": "paid", "releaseDate": "", "qs": 29, "time": "17 Min", "marks": 58}
   ],
-  "Missing Number": [
+  "MISSING NUMBER": [
     {"id": "SSC-SUB-25-REASONING-MISSING-NUMBER-part-1", "linkStr": "SSC-SUB-25-REASONING-MISSING-NUMBER&section=PART-1", "title": "SSC 2025 Missing Number PART-1", "type": "paid", "releaseDate": "", "qs": 38, "time": "23 Min", "marks": 114}
   ],
-  "Mixed Analogy": [
+  "MIXED ANALOGY": [
     {"id": "SSC-SUB-25-REASONING-MIXED-ANALOGY-part-1", "linkStr": "SSC-SUB-25-REASONING-MIXED-ANALOGY&section=PART-1", "title": "SSC 2025 Mixed Analogy PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-MIXED-ANALOGY-part-2", "linkStr": "SSC-SUB-25-REASONING-MIXED-ANALOGY&section=PART-2", "title": "SSC 2025 Mixed Analogy PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-MIXED-ANALOGY-part-3", "linkStr": "SSC-SUB-25-REASONING-MIXED-ANALOGY&section=PART-3", "title": "SSC 2025 Mixed Analogy PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-MIXED-ANALOGY-part-4", "linkStr": "SSC-SUB-25-REASONING-MIXED-ANALOGY&section=PART-4", "title": "SSC 2025 Mixed Analogy PART-4", "type": "paid", "releaseDate": "", "qs": 15, "time": "9 Min", "marks": 45}
   ],
-  "Mixed Arrangement": [
+  "MIXED ARRANGEMENT": [
     {"id": "SSC-SUB-25-REASONING-MIXED-ARRANGEMENT-part-1", "linkStr": "SSC-SUB-25-REASONING-MIXED-ARRANGEMENT&section=PART-1", "title": "SSC 2025 Mixed Arrangement PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50}
   ],
-  "Non-Verbal: Counting Figures": [
+  "NON-VERBAL: COUNTING FIGURES": [
     {"id": "SSC-SUB-25-REASONING-NON-VERBAL-COUNTING-FIGURES-part-1", "linkStr": "SSC-SUB-25-REASONING-NON-VERBAL-COUNTING-FIGURES&section=PART-1", "title": "SSC 2025 Non-Verbal: Counting Figures PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-NON-VERBAL-COUNTING-FIGURES-part-2", "linkStr": "SSC-SUB-25-REASONING-NON-VERBAL-COUNTING-FIGURES&section=PART-2", "title": "SSC 2025 Non-Verbal: Counting Figures PART-2", "type": "paid", "releaseDate": "", "qs": 24, "time": "14 Min", "marks": 48}
   ],
-  "Non-Verbal: Embedded Figures": [
+  "NON-VERBAL: EMBEDDED FIGURES": [
     {"id": "SSC-SUB-25-REASONING-NON-VERBAL-EMBEDDED-FIGURES-part-1", "linkStr": "SSC-SUB-25-REASONING-NON-VERBAL-EMBEDDED-FIGURES&section=PART-1", "title": "SSC 2025 Non-Verbal: Embedded Figures PART-1", "type": "paid", "releaseDate": "", "qs": 18, "time": "11 Min", "marks": 54}
   ],
-  "Non-Verbal: Mirror & Water Images": [
+  "NON-VERBAL: MIRROR & WATER IMAGES": [
     {"id": "SSC-SUB-25-REASONING-NON-VERBAL-MIRROR-AND-WATER-IMAGES-part-1", "linkStr": "SSC-SUB-25-REASONING-NON-VERBAL-MIRROR-AND-WATER-IMAGES&section=PART-1", "title": "SSC 2025 Non-Verbal: Mirror & Water Images PART-1", "type": "paid", "releaseDate": "", "qs": 17, "time": "10 Min", "marks": 51}
   ],
-  "Non-Verbal: Paper Folding & Cutting": [
+  "NON-VERBAL: PAPER FOLDING & CUTTING": [
     {"id": "SSC-SUB-25-REASONING-NON-VERBAL-PAPER-FOLDING-AND-CUTTING-part-1", "linkStr": "SSC-SUB-25-REASONING-NON-VERBAL-PAPER-FOLDING-AND-CUTTING&section=PART-1", "title": "SSC 2025 Non-Verbal: Paper Folding & Cutting PART-1", "type": "paid", "releaseDate": "", "qs": 27, "time": "16 Min", "marks": 81}
   ],
-  "Number Analogy": [
+  "NUMBER ANALOGY": [
     {"id": "SSC-SUB-25-REASONING-NUMBER-ANALOGY-part-1", "linkStr": "SSC-SUB-25-REASONING-NUMBER-ANALOGY&section=PART-1", "title": "SSC 2025 Number Analogy PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-NUMBER-ANALOGY-part-2", "linkStr": "SSC-SUB-25-REASONING-NUMBER-ANALOGY&section=PART-2", "title": "SSC 2025 Number Analogy PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-NUMBER-ANALOGY-part-3", "linkStr": "SSC-SUB-25-REASONING-NUMBER-ANALOGY&section=PART-3", "title": "SSC 2025 Number Analogy PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -330,7 +330,7 @@
     {"id": "SSC-SUB-25-REASONING-NUMBER-ANALOGY-part-10", "linkStr": "SSC-SUB-25-REASONING-NUMBER-ANALOGY&section=PART-10", "title": "SSC 2025 Number Analogy PART-10", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-NUMBER-ANALOGY-part-11", "linkStr": "SSC-SUB-25-REASONING-NUMBER-ANALOGY&section=PART-11", "title": "SSC 2025 Number Analogy PART-11", "type": "paid", "releaseDate": "", "qs": 17, "time": "10 Min", "marks": 17}
   ],
-  "Number Series": [
+  "NUMBER SERIES": [
     {"id": "SSC-SUB-25-REASONING-NUMBER-SERIES-part-1", "linkStr": "SSC-SUB-25-REASONING-NUMBER-SERIES&section=PART-1", "title": "SSC 2025 Number Series PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-NUMBER-SERIES-part-2", "linkStr": "SSC-SUB-25-REASONING-NUMBER-SERIES&section=PART-2", "title": "SSC 2025 Number Series PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-NUMBER-SERIES-part-3", "linkStr": "SSC-SUB-25-REASONING-NUMBER-SERIES&section=PART-3", "title": "SSC 2025 Number Series PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -348,7 +348,7 @@
     {"id": "SSC-SUB-25-REASONING-NUMBER-SERIES-part-15", "linkStr": "SSC-SUB-25-REASONING-NUMBER-SERIES&section=PART-15", "title": "SSC 2025 Number Series PART-15", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-NUMBER-SERIES-part-16", "linkStr": "SSC-SUB-25-REASONING-NUMBER-SERIES&section=PART-16", "title": "SSC 2025 Number Series PART-16", "type": "paid", "releaseDate": "", "qs": 38, "time": "23 Min", "marks": 38}
   ],
-  "Odd One Out": [
+  "ODD ONE OUT": [
     {"id": "SSC-SUB-25-REASONING-ODD-ONE-OUT-part-1", "linkStr": "SSC-SUB-25-REASONING-ODD-ONE-OUT&section=PART-1", "title": "SSC 2025 Odd One Out PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ODD-ONE-OUT-part-2", "linkStr": "SSC-SUB-25-REASONING-ODD-ONE-OUT&section=PART-2", "title": "SSC 2025 Odd One Out PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ODD-ONE-OUT-part-3", "linkStr": "SSC-SUB-25-REASONING-ODD-ONE-OUT&section=PART-3", "title": "SSC 2025 Odd One Out PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -365,51 +365,51 @@
     {"id": "SSC-SUB-25-REASONING-ODD-ONE-OUT-part-14", "linkStr": "SSC-SUB-25-REASONING-ODD-ONE-OUT&section=PART-14", "title": "SSC 2025 Odd One Out PART-14", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ODD-ONE-OUT-part-15", "linkStr": "SSC-SUB-25-REASONING-ODD-ONE-OUT&section=PART-15", "title": "SSC 2025 Odd One Out PART-15", "type": "paid", "releaseDate": "", "qs": 28, "time": "17 Min", "marks": 28}
   ],
-  "Order & Ranking": [
+  "ORDER & RANKING": [
     {"id": "SSC-SUB-25-REASONING-ORDER-AND-RANKING-part-1", "linkStr": "SSC-SUB-25-REASONING-ORDER-AND-RANKING&section=PART-1", "title": "SSC 2025 Order & Ranking PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ORDER-AND-RANKING-part-2", "linkStr": "SSC-SUB-25-REASONING-ORDER-AND-RANKING&section=PART-2", "title": "SSC 2025 Order & Ranking PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ORDER-AND-RANKING-part-3", "linkStr": "SSC-SUB-25-REASONING-ORDER-AND-RANKING&section=PART-3", "title": "SSC 2025 Order & Ranking PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ORDER-AND-RANKING-part-4", "linkStr": "SSC-SUB-25-REASONING-ORDER-AND-RANKING&section=PART-4", "title": "SSC 2025 Order & Ranking PART-4", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-ORDER-AND-RANKING-part-5", "linkStr": "SSC-SUB-25-REASONING-ORDER-AND-RANKING&section=PART-5", "title": "SSC 2025 Order & Ranking PART-5", "type": "paid", "releaseDate": "", "qs": 15, "time": "9 Min", "marks": 15}
   ],
-  "Seating Arrangement": [
+  "SEATING ARRANGEMENT": [
     {"id": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT-part-1", "linkStr": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT&section=PART-1", "title": "SSC 2025 Seating Arrangement PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT-part-2", "linkStr": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT&section=PART-2", "title": "SSC 2025 Seating Arrangement PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT-part-3", "linkStr": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT&section=PART-3", "title": "SSC 2025 Seating Arrangement PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75},
     {"id": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT-part-4", "linkStr": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT&section=PART-4", "title": "SSC 2025 Seating Arrangement PART-4", "type": "paid", "releaseDate": "", "qs": 33, "time": "20 Min", "marks": 99}
   ],
-  "Statement & Argument": [
+  "STATEMENT & ARGUMENT": [
     {"id": "SSC-SUB-25-REASONING-STATEMENT-AND-ARGUMENT-part-1", "linkStr": "SSC-SUB-25-REASONING-STATEMENT-AND-ARGUMENT&section=PART-1", "title": "SSC 2025 Statement & Argument PART-1", "type": "paid", "releaseDate": "", "qs": 20, "time": "12 Min", "marks": 40}
   ],
-  "Statement & Assumption": [
+  "STATEMENT & ASSUMPTION": [
     {"id": "SSC-SUB-25-REASONING-STATEMENT-AND-ASSUMPTION-part-1", "linkStr": "SSC-SUB-25-REASONING-STATEMENT-AND-ASSUMPTION&section=PART-1", "title": "SSC 2025 Statement & Assumption PART-1", "type": "paid", "releaseDate": "", "qs": 30, "time": "18 Min", "marks": 60}
   ],
-  "Statement & Conclusion": [
+  "STATEMENT & CONCLUSION": [
     {"id": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION-part-1", "linkStr": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION&section=PART-1", "title": "SSC 2025 Statement & Conclusion PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION-part-2", "linkStr": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION&section=PART-2", "title": "SSC 2025 Statement & Conclusion PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION-part-3", "linkStr": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION&section=PART-3", "title": "SSC 2025 Statement & Conclusion PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION-part-4", "linkStr": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION&section=PART-4", "title": "SSC 2025 Statement & Conclusion PART-4", "type": "paid", "releaseDate": "", "qs": 31, "time": "19 Min", "marks": 62}
   ],
-  "Statement & Course of Action": [
+  "STATEMENT & COURSE OF ACTION": [
     {"id": "SSC-SUB-25-REASONING-STATEMENT-AND-COURSE-OF-ACTION-part-1", "linkStr": "SSC-SUB-25-REASONING-STATEMENT-AND-COURSE-OF-ACTION&section=PART-1", "title": "SSC 2025 Statement & Course of Action PART-1", "type": "paid", "releaseDate": "", "qs": 27, "time": "16 Min", "marks": 54}
   ],
-  "Syllogism": [
+  "SYLLOGISM": [
     {"id": "SSC-SUB-25-REASONING-SYLLOGISM-part-1", "linkStr": "SSC-SUB-25-REASONING-SYLLOGISM&section=PART-1", "title": "SSC 2025 Syllogism PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-SYLLOGISM-part-2", "linkStr": "SSC-SUB-25-REASONING-SYLLOGISM&section=PART-2", "title": "SSC 2025 Syllogism PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-SYLLOGISM-part-3", "linkStr": "SSC-SUB-25-REASONING-SYLLOGISM&section=PART-3", "title": "SSC 2025 Syllogism PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-SYLLOGISM-part-4", "linkStr": "SSC-SUB-25-REASONING-SYLLOGISM&section=PART-4", "title": "SSC 2025 Syllogism PART-4", "type": "paid", "releaseDate": "", "qs": 36, "time": "22 Min", "marks": 36}
   ],
-  "Venn Diagrams": [
+  "VENN DIAGRAMS": [
     {"id": "SSC-SUB-25-REASONING-VENN-DIAGRAMS-part-1", "linkStr": "SSC-SUB-25-REASONING-VENN-DIAGRAMS&section=PART-1", "title": "SSC 2025 Venn Diagrams PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 75}
   ],
-  "Word Analogy": [
+  "WORD ANALOGY": [
     {"id": "SSC-SUB-25-REASONING-WORD-ANALOGY-part-1", "linkStr": "SSC-SUB-25-REASONING-WORD-ANALOGY&section=PART-1", "title": "SSC 2025 Word Analogy PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-WORD-ANALOGY-part-2", "linkStr": "SSC-SUB-25-REASONING-WORD-ANALOGY&section=PART-2", "title": "SSC 2025 Word Analogy PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-WORD-ANALOGY-part-3", "linkStr": "SSC-SUB-25-REASONING-WORD-ANALOGY&section=PART-3", "title": "SSC 2025 Word Analogy PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-WORD-ANALOGY-part-4", "linkStr": "SSC-SUB-25-REASONING-WORD-ANALOGY&section=PART-4", "title": "SSC 2025 Word Analogy PART-4", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-WORD-ANALOGY-part-5", "linkStr": "SSC-SUB-25-REASONING-WORD-ANALOGY&section=PART-5", "title": "SSC 2025 Word Analogy PART-5", "type": "paid", "releaseDate": "", "qs": 18, "time": "11 Min", "marks": 36}
   ],
-  "Word Formation": [
+  "WORD FORMATION": [
     {"id": "SSC-SUB-25-REASONING-WORD-FORMATION-part-1", "linkStr": "SSC-SUB-25-REASONING-WORD-FORMATION&section=PART-1", "title": "SSC 2025 Word Formation PART-1", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-WORD-FORMATION-part-2", "linkStr": "SSC-SUB-25-REASONING-WORD-FORMATION&section=PART-2", "title": "SSC 2025 Word Formation PART-2", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
     {"id": "SSC-SUB-25-REASONING-WORD-FORMATION-part-3", "linkStr": "SSC-SUB-25-REASONING-WORD-FORMATION&section=PART-3", "title": "SSC 2025 Word Formation PART-3", "type": "paid", "releaseDate": "", "qs": 25, "time": "15 Min", "marks": 50},
@@ -568,4 +568,5 @@
     }
   }
 }
+
 
