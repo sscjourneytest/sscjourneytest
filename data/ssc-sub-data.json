@@ -9,7 +9,7 @@
   "data": {
     "2025": {
       "Math": {
-        "Percentage": [
+        "PERCENTAGE": [
   {"id":"SSC-SUB-25-MATH-PERCENTAGE-part-1","linkStr":"SSC-SUB-25-MATH-PERCENTAGE&section=PART-1","title":"SSC 2025 PERCENTAGE PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PERCENTAGE-part-2","linkStr":"SSC-SUB-25-MATH-PERCENTAGE&section=PART-2","title":"SSC 2025 PERCENTAGE PART-2","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PERCENTAGE-part-3","linkStr":"SSC-SUB-25-MATH-PERCENTAGE&section=PART-3","title":"SSC 2025 PERCENTAGE PART-3","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -22,7 +22,7 @@
   {"id":"SSC-SUB-25-MATH-PERCENTAGE-part-10","linkStr":"SSC-SUB-25-MATH-PERCENTAGE&section=PART-10","title":"SSC 2025 PERCENTAGE PART-10","type":"free","releaseDate":"","qs":35,"time":"21 Min","marks":70}
 ],
 
-"Ratio and Proportion": [
+"RATIO AND PROPORTION": [
   {"id":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-part-1","linkStr":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION&section=PART-1","title":"SSC 2025 RATIO AND PROPORTION PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-part-2","linkStr":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION&section=PART-2","title":"SSC 2025 RATIO AND PROPORTION PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-part-3","linkStr":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION&section=PART-3","title":"SSC 2025 RATIO AND PROPORTION PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -33,7 +33,7 @@
   {"id":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-part-8","linkStr":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION&section=PART-8","title":"SSC 2025 RATIO AND PROPORTION PART-8","type":"paid","releaseDate":"","qs":31,"time":"19 Min","marks":93}
 ],
 
-"Profit and Loss": [
+"PROFIT AND LOSS": [
   {"id":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-part-1","linkStr":"SSC-SUB-25-MATH-PROFIT-AND-LOSS&section=PART-1","title":"SSC 2025 PROFIT AND LOSS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":25},
   {"id":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-part-2","linkStr":"SSC-SUB-25-MATH-PROFIT-AND-LOSS&section=PART-2","title":"SSC 2025 PROFIT AND LOSS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-part-3","linkStr":"SSC-SUB-25-MATH-PROFIT-AND-LOSS&section=PART-3","title":"SSC 2025 PROFIT AND LOSS PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -46,7 +46,7 @@
   {"id":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-part-10","linkStr":"SSC-SUB-25-MATH-PROFIT-AND-LOSS&section=PART-10","title":"SSC 2025 PROFIT AND LOSS PART-10","type":"paid","releaseDate":"","qs":16,"time":"10 Min","marks":32}
 ],
 
-"Discount": [
+"DISCOUNT": [
   {"id":"SSC-SUB-25-MATH-DISCOUNT-part-1","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-1","title":"SSC 2025 DISCOUNT PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-DISCOUNT-part-2","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-2","title":"SSC 2025 DISCOUNT PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-DISCOUNT-part-3","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-3","title":"SSC 2025 DISCOUNT PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -59,7 +59,7 @@
   {"id":"SSC-SUB-25-MATH-DISCOUNT-part-10","linkStr":"SSC-SUB-25-MATH-DISCOUNT&section=PART-10","title":"SSC 2025 DISCOUNT PART-10","type":"paid","releaseDate":"","qs":33,"time":"20 Min","marks":99}
 ],
 
-"Simple Interest (SI)": [
+"SIMPLE INTEREST (SI)": [
   {"id":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-part-1","linkStr":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI&section=PART-1","title":"SSC 2025 SIMPLE INTEREST (SI) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-part-2","linkStr":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI&section=PART-2","title":"SSC 2025 SIMPLE INTEREST (SI) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-part-3","linkStr":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI&section=PART-3","title":"SSC 2025 SIMPLE INTEREST (SI) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -69,14 +69,14 @@
   {"id":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-part-7","linkStr":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI&section=PART-7","title":"SSC 2025 SIMPLE INTEREST (SI) PART-7","type":"paid","releaseDate":"","qs":31,"time":"19 Min","marks":93}
 ],
 
-"Compound Interest (CI)": [
+"COMPOUND INTEREST (CI)": [
   {"id":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-part-1","linkStr":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI&section=PART-1","title":"SSC 2025 COMPOUND INTEREST (CI) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":25},
   {"id":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-part-2","linkStr":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI&section=PART-2","title":"SSC 2025 COMPOUND INTEREST (CI) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-part-3","linkStr":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI&section=PART-3","title":"SSC 2025 COMPOUND INTEREST (CI) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-part-4","linkStr":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI&section=PART-4","title":"SSC 2025 COMPOUND INTEREST (CI) PART-4","type":"paid","releaseDate":"","qs":28,"time":"17 Min","marks":56}
 ],
 
-"Mixture and Alligation": [
+"MIXTURE AND ALLIGATION": [
   {"id":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-part-1","linkStr":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION&section=PART-1","title":"SSC 2025 MIXTURE AND ALLIGATION PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-part-2","linkStr":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION&section=PART-2","title":"SSC 2025 MIXTURE AND ALLIGATION PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-part-3","linkStr":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION&section=PART-3","title":"SSC 2025 MIXTURE AND ALLIGATION PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -85,7 +85,7 @@
   {"id":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-part-6","linkStr":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION&section=PART-6","title":"SSC 2025 MIXTURE AND ALLIGATION PART-6","type":"paid","releaseDate":"","qs":28,"time":"17 Min","marks":84}
 ],
 
-"Average": [
+"AVERAGE": [
   {"id":"SSC-SUB-25-MATH-AVERAGE-part-1","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-1","title":"SSC 2025 AVERAGE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-AVERAGE-part-2","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-2","title":"SSC 2025 AVERAGE PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-AVERAGE-part-3","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-3","title":"SSC 2025 AVERAGE PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":75},
@@ -100,7 +100,7 @@
   {"id":"SSC-SUB-25-MATH-AVERAGE-part-12","linkStr":"SSC-SUB-25-MATH-AVERAGE&section=PART-12","title":"SSC 2025 AVERAGE PART-12","type":"paid","releaseDate":"","qs":37,"time":"22 Min","marks":74}
 ],
 
-"Time Speed and Distance": [
+"TIME SPEED AND DISTANCE": [
   {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-part-1","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE&section=PART-1","title":"SSC 2025 TIME SPEED AND DISTANCE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-part-2","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE&section=PART-2","title":"SSC 2025 TIME SPEED AND DISTANCE PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-part-3","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE&section=PART-3","title":"SSC 2025 TIME SPEED AND DISTANCE PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -111,13 +111,13 @@
   {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-part-8","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE&section=PART-8","title":"SSC 2025 TIME SPEED AND DISTANCE PART-8","type":"paid","releaseDate":"","qs":35,"time":"21 Min","marks":70}
 ],
 
-"Problems on Trains": [
+"PROBLEMS ON TRAINS": [
   {"id":"SSC-SUB-25-MATH-PROBLEMS-ON-TRAINS-part-1","linkStr":"SSC-SUB-25-MATH-PROBLEMS-ON-TRAINS&section=PART-1","title":"SSC 2025 PROBLEMS ON TRAINS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PROBLEMS-ON-TRAINS-part-2","linkStr":"SSC-SUB-25-MATH-PROBLEMS-ON-TRAINS&section=PART-2","title":"SSC 2025 PROBLEMS ON TRAINS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":25},
   {"id":"SSC-SUB-25-MATH-PROBLEMS-ON-TRAINS-part-3","linkStr":"SSC-SUB-25-MATH-PROBLEMS-ON-TRAINS&section=PART-3","title":"SSC 2025 PROBLEMS ON TRAINS PART-3","type":"paid","releaseDate":"","qs":36,"time":"22 Min","marks":72}
 ],
 
-"Time and Work": [
+"TIME AND WORK": [
   {"id":"SSC-SUB-25-MATH-TIME-AND-WORK-part-1","linkStr":"SSC-SUB-25-MATH-TIME-AND-WORK&section=PART-1","title":"SSC 2025 TIME AND WORK PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TIME-AND-WORK-part-2","linkStr":"SSC-SUB-25-MATH-TIME-AND-WORK&section=PART-2","title":"SSC 2025 TIME AND WORK PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TIME-AND-WORK-part-3","linkStr":"SSC-SUB-25-MATH-TIME-AND-WORK&section=PART-3","title":"SSC 2025 TIME AND WORK PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -130,15 +130,15 @@
   {"id":"SSC-SUB-25-MATH-TIME-AND-WORK-part-10","linkStr":"SSC-SUB-25-MATH-TIME-AND-WORK&section=PART-10","title":"SSC 2025 TIME AND WORK PART-10","type":"paid","releaseDate":"","qs":20,"time":"12 Min","marks":40}
 ],
 
-"Pipe and Cistern": [
+"PIPE AND CISTERN": [
   {"id":"SSC-SUB-25-MATH-PIPE-AND-CISTERN-part-1","linkStr":"SSC-SUB-25-MATH-PIPE-AND-CISTERN&section=PART-1","title":"SSC 2025 PIPE AND CISTERN PART-1","type":"paid","releaseDate":"","qs":31,"time":"19 Min","marks":62}
 ],
 
-"Boat and Stream": [
+"BOAT AND STREAM": [
   {"id":"SSC-SUB-25-MATH-BOAT-AND-STREAM-part-1","linkStr":"SSC-SUB-25-MATH-BOAT-AND-STREAM&section=PART-1","title":"SSC 2025 BOAT AND STREAM PART-1","type":"paid","releaseDate":"","qs":16,"time":"10 Min","marks":16}
 ],
 
-"Number System": [
+"NUMBER SYSTEM": [
   {"id":"SSC-SUB-25-MATH-NUMBER-SYSTEM-part-1","linkStr":"SSC-SUB-25-MATH-NUMBER-SYSTEM&section=PART-1","title":"SSC 2025 NUMBER SYSTEM PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-NUMBER-SYSTEM-part-2","linkStr":"SSC-SUB-25-MATH-NUMBER-SYSTEM&section=PART-2","title":"SSC 2025 NUMBER SYSTEM PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-NUMBER-SYSTEM-part-3","linkStr":"SSC-SUB-25-MATH-NUMBER-SYSTEM&section=PART-3","title":"SSC 2025 NUMBER SYSTEM PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -150,14 +150,14 @@
   {"id":"SSC-SUB-25-MATH-NUMBER-SYSTEM-part-9","linkStr":"SSC-SUB-25-MATH-NUMBER-SYSTEM&section=PART-9","title":"SSC 2025 NUMBER SYSTEM PART-9","type":"paid","releaseDate":"","qs":18,"time":"11 Min","marks":36}
 ],
 
-"LCM and HCF": [
+"LCM AND HCF": [
   {"id":"SSC-SUB-25-MATH-LCM-AND-HCF-part-1","linkStr":"SSC-SUB-25-MATH-LCM-AND-HCF&section=PART-1","title":"SSC 2025 LCM AND HCF PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-LCM-AND-HCF-part-2","linkStr":"SSC-SUB-25-MATH-LCM-AND-HCF&section=PART-2","title":"SSC 2025 LCM AND HCF PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-LCM-AND-HCF-part-3","linkStr":"SSC-SUB-25-MATH-LCM-AND-HCF&section=PART-3","title":"SSC 2025 LCM AND HCF PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-LCM-AND-HCF-part-4","linkStr":"SSC-SUB-25-MATH-LCM-AND-HCF&section=PART-4","title":"SSC 2025 LCM AND HCF PART-4","type":"paid","releaseDate":"","qs":23,"time":"14 Min","marks":69}
 ],
 
-"Simplification and Approximation": [
+"SIMPLIFICATION AND APPROXIMATION": [
   {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-part-1","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION&section=PART-1","title":"SSC 2025 SIMPLIFICATION AND APPROXIMATION PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-part-2","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION&section=PART-2","title":"SSC 2025 SIMPLIFICATION AND APPROXIMATION PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-part-3","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION&section=PART-3","title":"SSC 2025 SIMPLIFICATION AND APPROXIMATION PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -183,7 +183,7 @@
   {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-part-23","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION&section=PART-23","title":"SSC 2025 SIMPLIFICATION AND APPROXIMATION PART-23","type":"paid","releaseDate":"","qs":21,"time":"13 Min","marks":42}
 ],
 
-"Algebra": [
+"ALGEBRA": [
   {"id":"SSC-SUB-25-MATH-ALGEBRA-part-1","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-1","title":"SSC 2025 ALGEBRA PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-ALGEBRA-part-2","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-2","title":"SSC 2025 ALGEBRA PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-ALGEBRA-part-3","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-3","title":"SSC 2025 ALGEBRA PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -193,7 +193,7 @@
   {"id":"SSC-SUB-25-MATH-ALGEBRA-part-7","linkStr":"SSC-SUB-25-MATH-ALGEBRA&section=PART-7","title":"SSC 2025 ALGEBRA PART-7","type":"paid","releaseDate":"","qs":17,"time":"10 Min","marks":34}
 ],
 
-"Trigonometry": [
+"TRIGONOMETRY": [
   {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-1","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-1","title":"SSC 2025 TRIGONOMETRY PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-2","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-2","title":"SSC 2025 TRIGONOMETRY PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-3","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-3","title":"SSC 2025 TRIGONOMETRY PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -207,12 +207,12 @@
   {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-part-11","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY&section=PART-11","title":"SSC 2025 TRIGONOMETRY PART-11","type":"paid","releaseDate":"","qs":27,"time":"16 Min","marks":27}
 ],
 
-"Height and Distance": [
+"HEIGHT AND DISTANCE": [
   {"id":"SSC-SUB-25-MATH-HEIGHT-AND-DISTANCE-part-1","linkStr":"SSC-SUB-25-MATH-HEIGHT-AND-DISTANCE&section=PART-1","title":"SSC 2025 HEIGHT AND DISTANCE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-HEIGHT-AND-DISTANCE-part-2","linkStr":"SSC-SUB-25-MATH-HEIGHT-AND-DISTANCE&section=PART-2","title":"SSC 2025 HEIGHT AND DISTANCE PART-2","type":"paid","releaseDate":"","qs":39,"time":"23 Min","marks":78}
 ],
 
-"Geometry": [
+"GEOMETRY": [
   {"id":"SSC-SUB-25-MATH-GEOMETRY-part-1","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-1","title":"SSC 2025 GEOMETRY PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-GEOMETRY-part-2","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-2","title":"SSC 2025 GEOMETRY PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-GEOMETRY-part-3","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-3","title":"SSC 2025 GEOMETRY PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -238,7 +238,7 @@
   {"id":"SSC-SUB-25-MATH-GEOMETRY-part-23","linkStr":"SSC-SUB-25-MATH-GEOMETRY&section=PART-23","title":"SSC 2025 GEOMETRY PART-23","type":"paid","releaseDate":"","qs":15,"time":"9 Min","marks":30}
 ],
 
-"Mensuration (2D)": [
+"MENSURATION (2D)": [
   {"id":"SSC-SUB-25-MATH-MENSURATION-2D-part-1","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D&section=PART-1","title":"SSC 2025 MENSURATION (2D) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MENSURATION-2D-part-2","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D&section=PART-2","title":"SSC 2025 MENSURATION (2D) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MENSURATION-2D-part-3","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D&section=PART-3","title":"SSC 2025 MENSURATION (2D) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -258,7 +258,7 @@
   {"id":"SSC-SUB-25-MATH-MENSURATION-2D-part-17","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D&section=PART-17","title":"SSC 2025 MENSURATION (2D) PART-17","type":"paid","releaseDate":"","qs":21,"time":"13 Min","marks":42}
 ],
 
-"Mensuration (3D)": [
+"MENSURATION (3D)": [
   {"id":"SSC-SUB-25-MATH-MENSURATION-3D-part-1","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D&section=PART-1","title":"SSC 2025 MENSURATION (3D) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MENSURATION-3D-part-2","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D&section=PART-2","title":"SSC 2025 MENSURATION (3D) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-MENSURATION-3D-part-3","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D&section=PART-3","title":"SSC 2025 MENSURATION (3D) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -281,7 +281,7 @@
   {"id":"SSC-SUB-25-MATH-MENSURATION-3D-part-20","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D&section=PART-20","title":"SSC 2025 MENSURATION (3D) PART-20","type":"paid","releaseDate":"","qs":37,"time":"22 Min","marks":74}
 ],
 
-"Coordinate Geometry": [
+"COORDINATE GEOMETRY": [
   {"id":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY-part-1","linkStr":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY&section=PART-1","title":"SSC 2025 COORDINATE GEOMETRY PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY-part-2","linkStr":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY&section=PART-2","title":"SSC 2025 COORDINATE GEOMETRY PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY-part-3","linkStr":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY&section=PART-3","title":"SSC 2025 COORDINATE GEOMETRY PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
@@ -289,36 +289,37 @@
   {"id":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY-part-5","linkStr":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY&section=PART-5","title":"SSC 2025 COORDINATE GEOMETRY PART-5","type":"paid","releaseDate":"","qs":20,"time":"12 Min","marks":20}
 ],
 
-"Data Interpretation (DI)": [
+"DATA INTERPRETATION (DI)": [
   {"id":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI-part-1","linkStr":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI&section=PART-1","title":"SSC 2025 DATA INTERPRETATION (DI) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI-part-2","linkStr":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI&section=PART-2","title":"SSC 2025 DATA INTERPRETATION (DI) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":75},
   {"id":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI-part-3","linkStr":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI&section=PART-3","title":"SSC 2025 DATA INTERPRETATION (DI) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":75},
   {"id":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI-part-4","linkStr":"SSC-SUB-25-MATH-DATA-INTERPRETATION-DI&section=PART-4","title":"SSC 2025 DATA INTERPRETATION (DI) PART-4","type":"paid","releaseDate":"","qs":26,"time":"16 Min","marks":78}
 ],
 
-"Partnership": [
+"PARTNERSHIP": [
   {"id":"SSC-SUB-25-MATH-PARTNERSHIP-part-1","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP&section=PART-1","title":"SSC 2025 PARTNERSHIP PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PARTNERSHIP-part-2","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP&section=PART-2","title":"SSC 2025 PARTNERSHIP PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PARTNERSHIP-part-3","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP&section=PART-3","title":"SSC 2025 PARTNERSHIP PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PARTNERSHIP-part-4","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP&section=PART-4","title":"SSC 2025 PARTNERSHIP PART-4","type":"paid","releaseDate":"","qs":26,"time":"16 Min","marks":26}
 ],
 
-"Progression": [
+"PROGRESSION": [
   {"id":"SSC-SUB-25-MATH-PROGRESSION-part-1","linkStr":"SSC-SUB-25-MATH-PROGRESSION&section=PART-1","title":"SSC 2025 PROGRESSION PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-PROGRESSION-part-2","linkStr":"SSC-SUB-25-MATH-PROGRESSION&section=PART-2","title":"SSC 2025 PROGRESSION PART-2","type":"paid","releaseDate":"","qs":15,"time":"9 Min","marks":30}
 ],
 
-"Elementary Statistics": [
+"ELEMENTARY STATISTICS": [
   {"id":"SSC-SUB-25-MATH-ELEMENTARY-STATISTICS-part-1","linkStr":"SSC-SUB-25-MATH-ELEMENTARY-STATISTICS&section=PART-1","title":"SSC 2025 ELEMENTARY STATISTICS PART-1","type":"paid","releaseDate":"","qs":19,"time":"11 Min","marks":57}
 ],
 
-"Permutation and Combination": [
+"PERMUTATION AND COMBINATION": [
   {"id":"SSC-SUB-25-MATH-PERMUTATION-AND-COMBINATION-part-1","linkStr":"SSC-SUB-25-MATH-PERMUTATION-AND-COMBINATION&section=PART-1","title":"SSC 2025 PERMUTATION AND COMBINATION PART-1","type":"paid","releaseDate":"","qs":15,"time":"9 Min","marks":30}
 ],
 
-"Probability": [
+"PROBABILITY": [
   {"id":"SSC-SUB-25-MATH-PROBABILITY-part-1","linkStr":"SSC-SUB-25-MATH-PROBABILITY&section=PART-1","title":"SSC 2025 PROBABILITY PART-1","type":"paid","releaseDate":"","qs":9,"time":"5 Min","marks":27}
 ]
+
       },
 "Reasoning": {
     "MATHEMATICAL OPERATIONS": [
