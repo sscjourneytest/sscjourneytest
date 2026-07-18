@@ -50,7 +50,7 @@
             {"id": "GD-2026-20-MAY-SHIFT-1", "title": "GD 2026 20 MAY SHIFT 1", "type": "paid", "releaseDate": "17-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-20-MAY-SHIFT-2", "title": "GD 2026 20 MAY SHIFT 2", "type": "paid", "releaseDate": "18-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-20-MAY-SHIFT-3", "title": "GD 2026 20 MAY SHIFT 3", "type": "paid", "releaseDate": "18-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
-            {"id": "GD-2026-21-MAY-SHIFT-1", "title": "GD 2026 21 MAY SHIFT 1", "type": "paid", "releaseDate": "19-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
+            {"id": "GD-2026-21-MAY-SHIFT-1", "title": "GD 2026 21 MAY SHIFT 1", "type": "paid", "releaseDate": "", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-21-MAY-SHIFT-2", "title": "GD 2026 21 MAY SHIFT 2", "type": "paid", "releaseDate": "19-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-21-MAY-SHIFT-3", "title": "GD 2026 21 MAY SHIFT 3", "type": "paid", "releaseDate": "20-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
             {"id": "GD-2026-22-MAY-SHIFT-1", "title": "GD 2026 22 MAY SHIFT 1", "type": "paid", "releaseDate": "20-07-2026", "qs": 80, "time": "60 Min", "marks": 160},
