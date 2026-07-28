@@ -4,83 +4,14 @@
   },
   "data": {
     "Full Live Mock": [
-      {
-        "id": "LIVE-CGL-01",
-        "title": "SSC CGL Live Mock #1",
-        "type": "free",
-        "linkStr": "",
-        "qs": "100",
-        "marks": "200",
-        "time": "60 Min",
-        "liveFrom": "28-07-2026 09:00",
-        "liveTo": "28-07-2026 23:59",
-        "releaseDate": ""
-      },
-      {
-        "id": "LIVE-CGL-02",
-        "title": "SSC CGL Live Mock #2",
-        "type": "paid",
-        "linkStr": "",
-        "qs": "100",
-        "marks": "200",
-        "time": "60 Min",
-        "liveFrom": "30-07-2026 10:00",
-        "liveTo": "30-07-2026 11:00",
-        "releaseDate": ""
-      },
-      {
-        "id": "LIVE-CGL-03",
-        "title": "SSC CGL Live Mock #3 (Past)",
-        "type": "free",
-        "linkStr": "",
-        "qs": "100",
-        "marks": "200",
-        "time": "60 Min",
-        "liveFrom": "20-07-2026 10:00",
-        "liveTo": "20-07-2026 11:00",
-        "releaseDate": ""
-      },
-      {
-        "id": "LIVE-CGL-04",
-        "title": "SSC CGL Live Mock #4 (Locked)",
-        "type": "paid",
-        "linkStr": "",
-        "qs": "100",
-        "marks": "200",
-        "time": "60 Min",
-        "liveFrom": "29-07-2026 10:00",
-        "liveTo": "29-07-2026 11:00",
-        "releaseDate": "locked"
-      }
+
     ],
     "Sectional Live Mock": {
       "Quant": [
-        {
-          "id": "LIVE-CGL-QUANT-01",
-          "title": "CGL Quant Live Sectional #1",
-          "type": "free",
-          "linkStr": "",
-          "qs": "25",
-          "marks": "50",
-          "time": "20 Min",
-          "liveFrom": "28-07-2026 09:00",
-          "liveTo": "28-07-2026 23:59",
-          "releaseDate": ""
-        }
+
       ],
       "English": [
-        {
-          "id": "LIVE-CGL-ENG-01",
-          "title": "CGL English Live Sectional #1",
-          "type": "paid",
-          "linkStr": "",
-          "qs": "25",
-          "marks": "50",
-          "time": "20 Min",
-          "liveFrom": "31-07-2026 10:00",
-          "liveTo": "31-07-2026 10:30",
-          "releaseDate": ""
-        }
+
       ]
     }
   }
