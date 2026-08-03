@@ -75,8 +75,7 @@
             {"id": "CGL-2025-26-SEP-SHIFT-3", "title": "CGL-2025-26-SEP-SHIFT-3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
           ],
           "subject_wise": [
-            {"id": "CGL25-SUB-EXAMPLE", "title": "Algebra Special 01", "type": "paid", "releaseDate": "", "qs": 50, "time": "30 Min", "marks": 100}
-          ]
+                      ]
         },
 "2024": {
   "full_mocks": [
