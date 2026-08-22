@@ -126,6 +126,42 @@
           "subject_wise": []
         }
       }
+    },
+    "New Mock": {
+      "Visibility": "paid",
+      "tier1": {
+        "2026": {
+          "full_mocks": [
+            {"id": "CGL-2026-MOCK-1", "title": "CGL 2026 MOCK 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-2", "title": "CGL 2026 MOCK 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-3", "title": "CGL 2026 MOCK 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-4", "title": "CGL 2026 MOCK 4", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-5", "title": "CGL 2026 MOCK 5", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-6", "title": "CGL 2026 MOCK 6", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-7", "title": "CGL 2026 MOCK 7", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-8", "title": "CGL 2026 MOCK 8", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-9", "title": "CGL 2026 MOCK 9", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-10", "title": "CGL 2026 MOCK 10", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-11", "title": "CGL 2026 MOCK 11", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-12", "title": "CGL 2026 MOCK 12", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-13", "title": "CGL 2026 MOCK 13", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-14", "title": "CGL 2026 MOCK 14", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-15", "title": "CGL 2026 MOCK 15", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-16", "title": "CGL 2026 MOCK 16", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-17", "title": "CGL 2026 MOCK 17", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-18", "title": "CGL 2026 MOCK 18", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-19", "title": "CGL 2026 MOCK 19", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-20", "title": "CGL 2026 MOCK 20", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-21", "title": "CGL 2026 MOCK 21", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-22", "title": "CGL 2026 MOCK 22", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-23", "title": "CGL 2026 MOCK 23", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-24", "title": "CGL 2026 MOCK 24", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200},
+            {"id": "CGL-2026-MOCK-25", "title": "CGL 2026 MOCK 25", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200}
+          ],
+          "subject_wise": []
+        }
+      }
     }
   }
 }
+
