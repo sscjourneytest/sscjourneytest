@@ -1,0 +1,22 @@
+{
+  "examCode": "SSC-SUB",
+  "config": {
+    "default": {
+      "full_link": "test.html",
+      "subject_link": "test.html"
+    }
+  },
+  "data": {
+    "2025": {
+      "Math": {
+        "Geometry Top 125": [
+  {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-1","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-1","title":"SSC 2025 GEOMETRY TOP 125 PART-1","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-2","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-2","title":"SSC 2025 GEOMETRY TOP 125 PART-2","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-3","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-3","title":"SSC 2025 GEOMETRY TOP 125 PART-3","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-4","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-4","title":"SSC 2025 GEOMETRY TOP 125 PART-4","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-5","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-5","title":"SSC 2025 GEOMETRY TOP 125 PART-5","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ]
+      }
+    }
+  }
+}
