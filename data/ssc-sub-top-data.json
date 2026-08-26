@@ -15,6 +15,11 @@
   {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-3","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-3","title":"SSC 2025 GEOMETRY TOP 125 PART-3","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-4","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-4","title":"SSC 2025 GEOMETRY TOP 125 PART-4","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-GEOMETRY-TOP-125-part-5","linkStr":"SSC-SUB-25-MATH-GEOMETRY-TOP-125&section=PART-5","title":"SSC 2025 GEOMETRY TOP 125 PART-5","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Trigonometry Top 75": [
+  {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-75-part-1","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-75&section=PART-1","title":"SSC 2025 TRIGONOMETRY TOP 75 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-75-part-2","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-75&section=PART-2","title":"SSC 2025 TRIGONOMETRY TOP 75 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-75-part-3","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-75&section=PART-3","title":"SSC 2025 TRIGONOMETRY TOP 75 PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
         ]
       }
     }
