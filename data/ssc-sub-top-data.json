@@ -19,7 +19,21 @@
         "Trigonometry Top 50": [
   {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-50-part-1","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-50&section=PART-1","title":"SSC 2025 TRIGONOMETRY TOP 50 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-50-part-2","linkStr":"SSC-SUB-25-MATH-TRIGONOMETRY-TOP-50&section=PART-2","title":"SSC 2025 TRIGONOMETRY TOP 50 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
-        ]
+        ],
+        "MENSURATION (2D) TOP 100": [
+  {"id":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100-part-1","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100&section=PART-1","title":"SSC 2025 MENSURATION (2D) TOP 100 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100-part-2","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100&section=PART-2","title":"SSC 2025 MENSURATION (2D) TOP 100 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100-part-3","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100&section=PART-3","title":"SSC 2025 MENSURATION (2D) TOP 100 PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100-part-4","linkStr":"SSC-SUB-25-MATH-MENSURATION-2D-TOP-100&section=PART-4","title":"SSC 2025 MENSURATION (2D) TOP 100 PART-4","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+],
+
+"MENSURATION (3D) TOP 125": [
+  {"id":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125-part-1","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125&section=PART-1","title":"SSC 2025 MENSURATION (3D) TOP 125 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125-part-2","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125&section=PART-2","title":"SSC 2025 MENSURATION (3D) TOP 125 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125-part-3","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125&section=PART-3","title":"SSC 2025 MENSURATION (3D) TOP 125 PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125-part-4","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125&section=PART-4","title":"SSC 2025 MENSURATION (3D) TOP 125 PART-4","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125-part-5","linkStr":"SSC-SUB-25-MATH-MENSURATION-3D-TOP-125&section=PART-5","title":"SSC 2025 MENSURATION (3D) TOP 125 PART-5","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+]
       }
     }
   }
