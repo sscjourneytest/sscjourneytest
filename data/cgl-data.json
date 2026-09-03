@@ -186,30 +186,31 @@
       "tier2": {
         "2025": {
           "full_mocks": [
-            {"id": "CGL-25-T2", "title": "CGL MAINS 19 JAN 2025", "type": "free", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
-          ],
-          "subject_wise": []
-        },
-        "2024": {
-          "full_mocks": [
-            {"id": "CGL-24-T2-18-JAN-2025", "title": "CGL-24-T2-18-JAN-2025", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
-            {"id": "CGL-24-T2-20-JAN-2025", "title": "CGL-24-T2-20-JAN-2025", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
-          ],
-          "subject_wise": []
-        },
-        "2023": {
-          "full_mocks": [
-            {"id": "CGL-23-T2-26-OCT-2023", "title": "CGL-23-T2-26-OCT-2023", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
-          ],
-          "subject_wise": []
-        },
-        "2022": {
-          "full_mocks": [
-            {"id": "CGL-22-T2-02-MAR-2023-SHIFT-1", "title": "CGL-22-T2-02-MAR-2023-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
-            {"id": "CGL-22-T2-03-MAR-2023-SHIFT-1", "title": "CGL-22-T2-03-MAR-2023-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
-            {"id": "CGL-22-T2-06-MAR-2023-SHIFT-1", "title": "CGL-22-T2-06-MAR-2023-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
-            {"id": "CGL-22-T2-07-MAR-2023-SHIFT-1", "title": "CGL-22-T2-07-MAR-2023-SHIFT-1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
-          ],
+  {"id": "CGL-25-T2", "title": "CGL 2025 TIER 2 19 JAN 2025", "type": "free", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
+],
+"subject_wise": []
+},
+"2024": {
+  "full_mocks": [
+    {"id": "CGL-24-T2-18-JAN-2025", "title": "CGL 2024 TIER 2 18 JAN 2025", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
+    {"id": "CGL-24-T2-20-JAN-2025", "title": "CGL 2024 TIER 2 20 JAN 2025", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
+  ],
+  "subject_wise": []
+},
+"2023": {
+  "full_mocks": [
+    {"id": "CGL-23-T2-26-OCT-2023", "title": "CGL 2023 TIER 2 26 OCT 2023", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
+  ],
+  "subject_wise": []
+},
+"2022": {
+  "full_mocks": [
+    {"id": "CGL-22-T2-02-MAR-2023-SHIFT-1", "title": "CGL 2022 TIER 2 02 MAR 2023 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
+    {"id": "CGL-22-T2-03-MAR-2023-SHIFT-1", "title": "CGL 2022 TIER 2 03 MAR 2023 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
+    {"id": "CGL-22-T2-06-MAR-2023-SHIFT-1", "title": "CGL 2022 TIER 2 06 MAR 2023 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450},
+    {"id": "CGL-22-T2-07-MAR-2023-SHIFT-1", "title": "CGL 2022 TIER 2 07 MAR 2023 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 150, "time": "135 Min", "marks": 450}
+  ],
+  
           "subject_wise": []
         }
       }
