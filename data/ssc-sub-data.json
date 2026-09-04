@@ -997,40 +997,28 @@
 
 ],
 
-"PARA JUMBLES": [
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-1","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-1","title":"SSC 2025 PARA JUMBLES PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-2","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-2","title":"SSC 2025 PARA JUMBLES PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-3","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-3","title":"SSC 2025 PARA JUMBLES PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-4","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-4","title":"SSC 2025 PARA JUMBLES PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-5","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-5","title":"SSC 2025 PARA JUMBLES PART-5","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-6","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-6","title":"SSC 2025 PARA JUMBLES PART-6","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-7","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-7","title":"SSC 2025 PARA JUMBLES PART-7","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-8","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-8","title":"SSC 2025 PARA JUMBLES PART-8","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-9","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-9","title":"SSC 2025 PARA JUMBLES PART-9","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-10","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-10","title":"SSC 2025 PARA JUMBLES PART-10","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-11","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-11","title":"SSC 2025 PARA JUMBLES PART-11","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-12","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-12","title":"SSC 2025 PARA JUMBLES PART-12","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-13","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-13","title":"SSC 2025 PARA JUMBLES PART-13","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-14","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-14","title":"SSC 2025 PARA JUMBLES PART-14","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-15","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-15","title":"SSC 2025 PARA JUMBLES PART-15","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-part-16","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES&amp;section=PART-16","title":"SSC 2025 PARA JUMBLES PART-16","type":"paid","releaseDate":"","qs":23,"time":"14 Min","marks":46}
-
+"Para Jumbles (PQRS)": [
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-1","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-1","title":"SSC 2025 PARA JUMBLES (PQRS) PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-2","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-2","title":"SSC 2025 PARA JUMBLES (PQRS) PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-3","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-3","title":"SSC 2025 PARA JUMBLES (PQRS) PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-4","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-4","title":"SSC 2025 PARA JUMBLES (PQRS) PART-4","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-5","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-5","title":"SSC 2025 PARA JUMBLES (PQRS) PART-5","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-6","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-6","title":"SSC 2025 PARA JUMBLES (PQRS) PART-6","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-7","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-7","title":"SSC 2025 PARA JUMBLES (PQRS) PART-7","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-8","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-8","title":"SSC 2025 PARA JUMBLES (PQRS) PART-8","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-9","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-9","title":"SSC 2025 PARA JUMBLES (PQRS) PART-9","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-10","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-10","title":"SSC 2025 PARA JUMBLES (PQRS) PART-10","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-11","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-11","title":"SSC 2025 PARA JUMBLES (PQRS) PART-11","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-12","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-12","title":"SSC 2025 PARA JUMBLES (PQRS) PART-12","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-13","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-13","title":"SSC 2025 PARA JUMBLES (PQRS) PART-13","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-14","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-14","title":"SSC 2025 PARA JUMBLES (PQRS) PART-14","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-15","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-15","title":"SSC 2025 PARA JUMBLES (PQRS) PART-15","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-16","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-16","title":"SSC 2025 PARA JUMBLES (PQRS) PART-16","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-17","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-17","title":"SSC 2025 PARA JUMBLES (PQRS) PART-17","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-18","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-18","title":"SSC 2025 PARA JUMBLES (PQRS) PART-18","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-19","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-19","title":"SSC 2025 PARA JUMBLES (PQRS) PART-19","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-20","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-20","title":"SSC 2025 PARA JUMBLES (PQRS) PART-20","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS-part-21","linkStr":"SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS&section=PART-21","title":"SSC 2025 PARA JUMBLES (PQRS) PART-21","type":"paid","releaseDate":"","qs":16,"time":"16 Min","marks":32}
 ],
 
 "SENTENCE COMPLETION": [
@@ -1039,90 +1027,58 @@
 
 ],
 
-"CLOZE TEST": [
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-1","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-1","title":"SSC 2025 CLOZE TEST PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-2","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-2","title":"SSC 2025 CLOZE TEST PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-3","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-3","title":"SSC 2025 CLOZE TEST PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-4","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-4","title":"SSC 2025 CLOZE TEST PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-5","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-5","title":"SSC 2025 CLOZE TEST PART-5","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-6","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-6","title":"SSC 2025 CLOZE TEST PART-6","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-7","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-7","title":"SSC 2025 CLOZE TEST PART-7","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-8","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-8","title":"SSC 2025 CLOZE TEST PART-8","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-9","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&amp;section=PART-9","title":"SSC 2025 CLOZE TEST PART-9","type":"paid","releaseDate":"","qs":40,"time":"23 Min","marks":76}
-
+"Cloze Test": [
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-1","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-1","title":"SSC 2025 CLOZE TEST PART-1","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-2","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-2","title":"SSC 2025 CLOZE TEST PART-2","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-3","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-3","title":"SSC 2025 CLOZE TEST PART-3","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-4","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-4","title":"SSC 2025 CLOZE TEST PART-4","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-5","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-5","title":"SSC 2025 CLOZE TEST PART-5","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-6","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-6","title":"SSC 2025 CLOZE TEST PART-6","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-7","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-7","title":"SSC 2025 CLOZE TEST PART-7","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-8","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-8","title":"SSC 2025 CLOZE TEST PART-8","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-9","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-9","title":"SSC 2025 CLOZE TEST PART-9","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-10","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-10","title":"SSC 2025 CLOZE TEST PART-10","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-11","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-11","title":"SSC 2025 CLOZE TEST PART-11","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-CLOZE-TEST-part-12","linkStr":"SSC-SUB-25-ENGLISH-CLOZE-TEST&section=PART-12","title":"SSC 2025 CLOZE TEST PART-12","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50}
 ],
 
-"READING COMPREHENSION": [
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-1","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-1","title":"SSC 2025 READING COMPREHENSION PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-2","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-2","title":"SSC 2025 READING COMPREHENSION PART-2","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-3","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-3","title":"SSC 2025 READING COMPREHENSION PART-3","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-4","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-4","title":"SSC 2025 READING COMPREHENSION PART-4","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-5","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-5","title":"SSC 2025 READING COMPREHENSION PART-5","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-6","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-6","title":"SSC 2025 READING COMPREHENSION PART-6","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-7","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-7","title":"SSC 2025 READING COMPREHENSION PART-7","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-8","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-8","title":"SSC 2025 READING COMPREHENSION PART-8","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-9","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-9","title":"SSC 2025 READING COMPREHENSION PART-9","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-10","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-10","title":"SSC 2025 READING COMPREHENSION PART-10","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-11","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-11","title":"SSC 2025 READING COMPREHENSION PART-11","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-12","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-12","title":"SSC 2025 READING COMPREHENSION PART-12","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-13","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-13","title":"SSC 2025 READING COMPREHENSION PART-13","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-14","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-14","title":"SSC 2025 READING COMPREHENSION PART-14","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-15","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-15","title":"SSC 2025 READING COMPREHENSION PART-15","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-16","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-16","title":"SSC 2025 READING COMPREHENSION PART-16","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-17","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-17","title":"SSC 2025 READING COMPREHENSION PART-17","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-18","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-18","title":"SSC 2025 READING COMPREHENSION PART-18","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-19","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-19","title":"SSC 2025 READING COMPREHENSION PART-19","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-20","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-20","title":"SSC 2025 READING COMPREHENSION PART-20","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-21","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-21","title":"SSC 2025 READING COMPREHENSION PART-21","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-22","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-22","title":"SSC 2025 READING COMPREHENSION PART-22","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-23","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-23","title":"SSC 2025 READING COMPREHENSION PART-23","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-24","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-24","title":"SSC 2025 READING COMPREHENSION PART-24","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-25","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-25","title":"SSC 2025 READING COMPREHENSION PART-25","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-26","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-26","title":"SSC 2025 READING COMPREHENSION PART-26","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-27","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-27","title":"SSC 2025 READING COMPREHENSION PART-27","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-28","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-28","title":"SSC 2025 READING COMPREHENSION PART-28","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-29","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-29","title":"SSC 2025 READING COMPREHENSION PART-29","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-
-  {"id":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION-part-30","linkStr":"SSC-SUB-25-ENGLISH-READING-COMPREHENSION&amp;section=PART-30","title":"SSC 2025 READING COMPREHENSION PART-30","type":"free","releaseDate":"","qs":39,"time":"23 Min","marks":78}
-
+"PASSAGE": [
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-1","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-1","title":"SSC 2025 PASSAGE PART-1","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-2","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-2","title":"SSC 2025 PASSAGE PART-2","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-3","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-3","title":"SSC 2025 PASSAGE PART-3","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-4","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-4","title":"SSC 2025 PASSAGE PART-4","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-5","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-5","title":"SSC 2025 PASSAGE PART-5","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-6","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-6","title":"SSC 2025 PASSAGE PART-6","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-7","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-7","title":"SSC 2025 PASSAGE PART-7","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-8","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-8","title":"SSC 2025 PASSAGE PART-8","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-9","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-9","title":"SSC 2025 PASSAGE PART-9","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-10","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-10","title":"SSC 2025 PASSAGE PART-10","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-11","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-11","title":"SSC 2025 PASSAGE PART-11","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-12","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-12","title":"SSC 2025 PASSAGE PART-12","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-13","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-13","title":"SSC 2025 PASSAGE PART-13","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-14","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-14","title":"SSC 2025 PASSAGE PART-14","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-15","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-15","title":"SSC 2025 PASSAGE PART-15","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-16","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-16","title":"SSC 2025 PASSAGE PART-16","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-17","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-17","title":"SSC 2025 PASSAGE PART-17","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-18","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-18","title":"SSC 2025 PASSAGE PART-18","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-19","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-19","title":"SSC 2025 PASSAGE PART-19","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-20","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-20","title":"SSC 2025 PASSAGE PART-20","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-21","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-21","title":"SSC 2025 PASSAGE PART-21","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-22","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-22","title":"SSC 2025 PASSAGE PART-22","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-23","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-23","title":"SSC 2025 PASSAGE PART-23","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-24","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-24","title":"SSC 2025 PASSAGE PART-24","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-25","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-25","title":"SSC 2025 PASSAGE PART-25","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-26","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-26","title":"SSC 2025 PASSAGE PART-26","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-27","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-27","title":"SSC 2025 PASSAGE PART-27","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-28","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-28","title":"SSC 2025 PASSAGE PART-28","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-29","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-29","title":"SSC 2025 PASSAGE PART-29","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-30","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-30","title":"SSC 2025 PASSAGE PART-30","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-31","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-31","title":"SSC 2025 PASSAGE PART-31","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-32","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-32","title":"SSC 2025 PASSAGE PART-32","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-33","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-33","title":"SSC 2025 PASSAGE PART-33","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-34","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-34","title":"SSC 2025 PASSAGE PART-34","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-35","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-35","title":"SSC 2025 PASSAGE PART-35","type":"paid","releaseDate":"","qs":25,"time":"30 Min","marks":50},
+  {"id":"SSC-SUB-25-ENGLISH-PASSAGE-part-36","linkStr":"SSC-SUB-25-ENGLISH-PASSAGE&section=PART-36","title":"SSC 2025 PASSAGE PART-36","type":"paid","releaseDate":"","qs":30,"time":"36 Min","marks":60}
 ],
 
 "MISCELLANEOUS": [
