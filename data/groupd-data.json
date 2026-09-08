@@ -11,8 +11,8 @@
           "name": "Science",
           "backendName": "SCIENCE",
           "qs": 25,
-          "time": "30 Min",
-          "marks": 30
+          "time": "25 Min",
+          "marks": 25
         },
         {
           "id": "MATH",
