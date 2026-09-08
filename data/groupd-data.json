@@ -1,1 +1,485 @@
-
+{
+  "examCode": "GROUPD",
+  "config": {
+    "tier1": {
+      "full_link": "test.html",
+      "sectional_link": "test.html",
+      "subject_link": "test.html",
+      "sections": [
+        {
+          "id": "SCIENCE",
+          "name": "Science",
+          "backendName": "SCIENCE",
+          "qs": 25,
+          "time": "30 Min",
+          "marks": 30
+        },
+        {
+          "id": "MATH",
+          "name": "Maths",
+          "backendName": "MATH",
+          "qs": 25,
+          "time": "25 Min",
+          "marks": 25
+        },
+        {
+          "id": "REASONING",
+          "name": "Reasoning",
+          "backendName": "REASONING",
+          "qs": 30,
+          "time": "30 Min",
+          "marks": 30
+        },
+        {
+          "id": "GK",
+          "name": "General Awareness",
+          "backendName": "GK",
+          "qs": 20,
+          "time": "20 Min",
+          "marks": 20
+        }
+      ]
+    }
+  },
+  "data": {
+    "tier1": {
+      "2025": {
+        "full_mocks": [
+          {
+            "id": "GROUP-D-03-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 03 AUG 2026 SHIFT 1)",
+            "type": "free",
+            "releaseDate": "",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-03-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 03 AUG 2026 SHIFT 2)",
+            "type": "free",
+            "releaseDate": "",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-03-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 03 AUG 2026 SHIFT 3)",
+            "type": "free",
+            "releaseDate": "",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-04-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 04 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-04-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 04 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-04-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 04 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-05-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 05 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-05-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 05 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-05-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 05 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-06-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 06 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-06-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 06 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-06-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 06 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-09-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 09 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-09-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 09 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-09-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 09 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-10-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 10 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-10-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 10 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-10-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 10 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-11-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 11 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-11-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 11 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-11-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 11 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-12-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 12 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-12-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 12 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-12-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 12 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-13-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 13 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-13-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 13 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-13-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 13 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-14-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 14 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-14-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 14 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-14-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 14 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-17-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 17 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-17-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 17 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-17-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 17 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-18-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 18 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-18-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 18 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-18-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 18 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-19-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 19 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-19-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 19 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-19-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 19 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-20-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 20 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-20-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 20 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-20-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 20 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-21-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 21 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-21-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 21 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-21-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 21 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-25-AUG-2026-SHIFT-1",
+            "title": "GROUP D 2025 ( HELD ON 25 AUG 2026 SHIFT 1)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-25-AUG-2026-SHIFT-2",
+            "title": "GROUP D 2025 ( HELD ON 25 AUG 2026 SHIFT 2)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          },
+          {
+            "id": "GROUP-D-25-AUG-2026-SHIFT-3",
+            "title": "GROUP D 2025 ( HELD ON 25 AUG 2026 SHIFT 3)",
+            "type": "paid",
+            "releaseDate": "locked",
+            "qs": 100,
+            "time": "90 Min",
+            "marks": 100
+          }
+        ],
+        "subject_wise": []
+      }
+    }
+  }
+}
