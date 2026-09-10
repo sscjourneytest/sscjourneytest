@@ -9,6 +9,9 @@
   "data": {
     "2025": {
       "Math": {
+        "Partnership Top 35": [
+  {"id":"SSC-SUB-25-MATH-PARTNERSHIP-TOP-35-part-1","linkStr":"SSC-SUB-25-MATH-PARTNERSHIP-TOP-35&section=PART-1","title":"SSC 2025 PARTNERSHIP TOP 35 PART-1","type":"free","releaseDate":"","qs":35,"time":"21 Min","marks":70}
+],
         "Number System Top 50": [
   {"id":"SSC-SUB-25-MATH-NUMBER-SYSTEM-TOP-50-part-1","linkStr":"SSC-SUB-25-MATH-NUMBER-SYSTEM-TOP-50&section=PART-1","title":"SSC 2025 NUMBER SYSTEM TOP 50 PART-1","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
   {"id":"SSC-SUB-25-MATH-NUMBER-SYSTEM-TOP-50-part-2","linkStr":"SSC-SUB-25-MATH-NUMBER-SYSTEM-TOP-50&section=PART-2","title":"SSC 2025 NUMBER SYSTEM TOP 50 PART-2","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50}
