@@ -58,11 +58,65 @@
   {"id":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY-TOP-30-part-1","linkStr":"SSC-SUB-25-MATH-COORDINATE-GEOMETRY-TOP-30&section=PART-1","title":"SSC 2025 COORDINATE GEOMETRY TOP 30 PART-1","type":"paid","releaseDate":"","qs":30,"time":"30 Min","marks":60}
 ],
 
+"Average Top 60": [
+  {"id":"SSC-SUB-25-MATH-AVERAGE-TOP-60-part-1","linkStr":"SSC-SUB-25-MATH-AVERAGE-TOP-60&section=PART-1","title":"SSC 2025 AVERAGE TOP 60 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-AVERAGE-TOP-60-part-2","linkStr":"SSC-SUB-25-MATH-AVERAGE-TOP-60&section=PART-2","title":"SSC 2025 AVERAGE TOP 60 PART-2","type":"paid","releaseDate":"","qs":35,"time":"35 Min","marks":70}
+],
+
+"Compound Interest (CI) Top 40": [
+  {"id":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-TOP-40-part-1","linkStr":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-TOP-40&section=PART-1","title":"SSC 2025 COMPOUND INTEREST (CI) TOP 40 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-TOP-40-part-2","linkStr":"SSC-SUB-25-MATH-COMPOUND-INTEREST-CI-TOP-40&section=PART-2","title":"SSC 2025 COMPOUND INTEREST (CI) TOP 40 PART-2","type":"paid","releaseDate":"","qs":15,"time":"15 Min","marks":30}
+],
+
+"Discount Top 60": [
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-TOP-60-part-1","linkStr":"SSC-SUB-25-MATH-DISCOUNT-TOP-60&section=PART-1","title":"SSC 2025 DISCOUNT TOP 60 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-DISCOUNT-TOP-60-part-2","linkStr":"SSC-SUB-25-MATH-DISCOUNT-TOP-60&section=PART-2","title":"SSC 2025 DISCOUNT TOP 60 PART-2","type":"paid","releaseDate":"","qs":35,"time":"35 Min","marks":70}
+],
+
+"LCM and HCF Top 25": [
+  {"id":"SSC-SUB-25-MATH-LCM-AND-HCF-TOP-25-part-1","linkStr":"SSC-SUB-25-MATH-LCM-AND-HCF-TOP-25&section=PART-1","title":"SSC 2025 LCM AND HCF TOP 25 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+],
+
+"Mixture and Alligation Top 50": [
+  {"id":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-TOP-50-part-1","linkStr":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-TOP-50&section=PART-1","title":"SSC 2025 MIXTURE AND ALLIGATION TOP 50 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-TOP-50-part-2","linkStr":"SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION-TOP-50&section=PART-2","title":"SSC 2025 MIXTURE AND ALLIGATION TOP 50 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+],
+
+"Percentage Top 60": [
+  {"id":"SSC-SUB-25-MATH-PERCENTAGE-TOP-60-part-1","linkStr":"SSC-SUB-25-MATH-PERCENTAGE-TOP-60&section=PART-1","title":"SSC 2025 PERCENTAGE TOP 60 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-PERCENTAGE-TOP-60-part-2","linkStr":"SSC-SUB-25-MATH-PERCENTAGE-TOP-60&section=PART-2","title":"SSC 2025 PERCENTAGE TOP 60 PART-2","type":"paid","releaseDate":"","qs":35,"time":"35 Min","marks":70}
+],
+
+"Profit and Loss Top 60": [
+  {"id":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-TOP-60-part-1","linkStr":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-TOP-60&section=PART-1","title":"SSC 2025 PROFIT AND LOSS TOP 60 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-TOP-60-part-2","linkStr":"SSC-SUB-25-MATH-PROFIT-AND-LOSS-TOP-60&section=PART-2","title":"SSC 2025 PROFIT AND LOSS TOP 60 PART-2","type":"paid","releaseDate":"","qs":35,"time":"35 Min","marks":70}
+],
+
+"Ratio and Proportion Top 50": [
+  {"id":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-TOP-50-part-1","linkStr":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-TOP-50&section=PART-1","title":"SSC 2025 RATIO AND PROPORTION TOP 50 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-TOP-50-part-2","linkStr":"SSC-SUB-25-MATH-RATIO-AND-PROPORTION-TOP-50&section=PART-2","title":"SSC 2025 RATIO AND PROPORTION TOP 50 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+],
+
+"Simple Interest (SI) Top 45": [
+  {"id":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-TOP-45-part-1","linkStr":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-TOP-45&section=PART-1","title":"SSC 2025 SIMPLE INTEREST (SI) TOP 45 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-TOP-45-part-2","linkStr":"SSC-SUB-25-MATH-SIMPLE-INTEREST-SI-TOP-45&section=PART-2","title":"SSC 2025 SIMPLE INTEREST (SI) TOP 45 PART-2","type":"paid","releaseDate":"","qs":20,"time":"20 Min","marks":40}
+],
+
+"Simplification and Approximation Top 50": [
+  {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-TOP-50-part-1","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-TOP-50&section=PART-1","title":"SIMPLIFICATION AND APPROXIMATION PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-TOP-50-part-2","linkStr":"SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION-TOP-50&section=PART-2","title":"SIMPLIFICATION AND APPROXIMATION PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+],
+
+"Time And Work & Pipe and Cistern Top 60": [
+  {"id":"SSC-SUB-25-MATH-TIME-AND-WORK-AND-PIPE-AND-CISTERN-TOP-60-part-1","linkStr":"SSC-SUB-25-MATH-TIME-AND-WORK-AND-PIPE-AND-CISTERN-TOP-60&section=PART-1","title":"SSC 2025 TIME AND WORK & PIPE AND CISTERN TOP 60 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TIME-AND-WORK-AND-PIPE-AND-CISTERN-TOP-60-part-2","linkStr":"SSC-SUB-25-MATH-TIME-AND-WORK-AND-PIPE-AND-CISTERN-TOP-60&section=PART-2","title":"SSC 2025 TIME AND WORK & PIPE AND CISTERN TOP 60 PART-2","type":"paid","releaseDate":"","qs":35,"time":"35 Min","marks":70}
+],
+
 "Time Speed and Distance And Train Top 65": [
-  {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65-part-1","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65&section=PART-1","title":"SSC 2025 TIME SPEED AND DISTANCE AND TRAIN TOP 65 PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
-  {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65-part-2","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65&section=PART-2","title":"SSC 2025 TIME SPEED AND DISTANCE AND TRAIN TOP 65 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
-  {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65-part-3","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65&section=PART-3","title":"SSC 2025 TIME SPEED AND DISTANCE AND TRAIN TOP 65 PART-3","type":"paid","releaseDate":"","qs":15,"time":"15 Min","marks":30}
-        ]
+  {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65-part-1","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65&section=PART-1","title":"TIME SPEED AND DISTANCE AND TRAIN PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65-part-2","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65&section=PART-2","title":"TIME SPEED AND DISTANCE AND TRAIN PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65-part-3","linkStr":"SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE-AND-TRAIN-TOP-65&section=PART-3","title":"TIME SPEED AND DISTANCE AND TRAIN PART-3","type":"paid","releaseDate":"","qs":15,"time":"15 Min","marks":30}
+]
       }
     }
   }
