@@ -8,8 +8,8 @@
       "sections": [
         {"id": "SCIENCE", "name": "Science", "backendName": "SCIENCE", "qs": 25, "time": "20 Min", "marks": 25},
         {"id": "MATH", "name": "Maths", "backendName": "MATH", "qs": 25, "time": "30 Min", "marks": 25},
-        {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 30, "time": "30 Min", "marks": 30},
-        {"id": "GK", "name": "General Awareness", "backendName": "GK", "qs": 20, "time": "10 Min", "marks": 20}
+        {"id": "REASONING", "name": "Reasoning", "backendName": "REASONING", "qs": 30, "time": "25 Min", "marks": 30},
+        {"id": "GK", "name": "General Awareness", "backendName": "GK", "qs": 20, "time": "15 Min", "marks": 20}
       ]
     }
   },
