@@ -53,16 +53,16 @@
       "2026": {
         "full_mocks": [
           {"id": "STENO-2026-09-SEP-SHIFT-1-09-SEP-S1", "title": "STENO-2026-09-SEP-SHIFT-1-09-SEP-S1", "type": "free", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-09-SEP-SHIFT-2-09-SEP-S2", "title": "STENO-2026-09-SEP-SHIFT-2-09-SEP-S2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-10-SEP-SHIFT-1-10-SEP-S1", "title": "STENO-2026-10-SEP-SHIFT-1-10-SEP-S1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-10-SEP-SHIFT-2-10-SEP-S2", "title": "STENO-2026-10-SEP-SHIFT-2-10-SEP-S2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-10-SEP-SHIFT-3-10-SEP-S3", "title": "STENO-2026-10-SEP-SHIFT-3-10-SEP-S3", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-11-SEP-SHIFT-1-11-SEP-S1", "title": "STENO-2026-11-SEP-SHIFT-1-11-SEP-S1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-11-SEP-SHIFT-2-11-SEP-S2", "title": "STENO-2026-11-SEP-SHIFT-2-11-SEP-S2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-12-SEP-SHIFT-1-12-SEP-S1", "title": "STENO-2026-12-SEP-SHIFT-1-12-SEP-S1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-12-SEP-SHIFT-2-12-SEP-S2", "title": "STENO-2026-12-SEP-SHIFT-2-12-SEP-S2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-15-SEP-SHIFT-1-15-SEP-S1", "title": "STENO-2026-15-SEP-SHIFT-1-15-SEP-S1", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200},
-          {"id": "STENO-2026-15-SEP-SHIFT-2-15-SEP-S2", "title": "STENO-2026-15-SEP-SHIFT-2-15-SEP-S2", "type": "paid", "releaseDate": "", "qs": 200, "time": "120 Min", "marks": 200}
+          {"id": "STENO-2026-09-SEP-SHIFT-2-09-SEP-S2", "title": "STENO-2026-09-SEP-SHIFT-2-09-SEP-S2", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-10-SEP-SHIFT-1-10-SEP-S1", "title": "STENO-2026-10-SEP-SHIFT-1-10-SEP-S1", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-10-SEP-SHIFT-2-10-SEP-S2", "title": "STENO-2026-10-SEP-SHIFT-2-10-SEP-S2", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-10-SEP-SHIFT-3-10-SEP-S3", "title": "STENO-2026-10-SEP-SHIFT-3-10-SEP-S3", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-11-SEP-SHIFT-1-11-SEP-S1", "title": "STENO-2026-11-SEP-SHIFT-1-11-SEP-S1", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-11-SEP-SHIFT-2-11-SEP-S2", "title": "STENO-2026-11-SEP-SHIFT-2-11-SEP-S2", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-12-SEP-SHIFT-1-12-SEP-S1", "title": "STENO-2026-12-SEP-SHIFT-1-12-SEP-S1", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-12-SEP-SHIFT-2-12-SEP-S2", "title": "STENO-2026-12-SEP-SHIFT-2-12-SEP-S2", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-15-SEP-SHIFT-1-15-SEP-S1", "title": "STENO-2026-15-SEP-SHIFT-1-15-SEP-S1", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200},
+          {"id": "STENO-2026-15-SEP-SHIFT-2-15-SEP-S2", "title": "STENO-2026-15-SEP-SHIFT-2-15-SEP-S2", "type": "paid", "releaseDate": "locked", "qs": 200, "time": "120 Min", "marks": 200}
         ],
         "sectional_wise": [],
         "subject_wise": []
