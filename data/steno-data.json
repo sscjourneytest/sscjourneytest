@@ -7,7 +7,7 @@
       "subject_link": "test.html",
       "sections": [
         {
-          "id": "REAS",
+          "id": "REASONING",
           "name": "Reasoning",
           "backendName": "REASONING",
           "qs": 50,
@@ -23,7 +23,7 @@
           "marks": 50
         },
         {
-          "id": "ENG",
+          "id": "ENGLISH",
           "name": "English",
           "backendName": "ENGLISH",
           "qs": 100,
