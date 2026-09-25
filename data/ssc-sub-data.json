@@ -7,6 +7,567 @@
     }
   },
   "data": {
+    "2026": {
+      "Math": {},
+      "Reasoning": {
+        "MATHEMATICAL OPERATIONS": [
+          {"id":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS-part-1","linkStr":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS&section=PART-1","title":"SSC 2026 MATHEMATICAL OPERATIONS PART-1","type":"free","releaseDate":"","qs":24,"time":"14 Min","marks":48}
+        ],
+        "ADDRESS/SENTENCE MATCHING": [
+          {"id":"SSC-SUB-26-REASONING-ADDRESS-SENTENCE-MATCHING-part-1","linkStr":"SSC-SUB-26-REASONING-ADDRESS-SENTENCE-MATCHING&section=PART-1","title":"SSC 2026 ADDRESS/SENTENCE MATCHING PART-1","type":"free","releaseDate":"","qs":23,"time":"14 Min","marks":46}
+        ],
+        "AGE PROBLEMS": [
+          {"id":"SSC-SUB-26-REASONING-AGE-PROBLEMS-part-1","linkStr":"SSC-SUB-26-REASONING-AGE-PROBLEMS&section=PART-1","title":"SSC 2026 AGE PROBLEMS PART-1","type":"free","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+        ],
+        "ALPHANUMERIC SERIES": [
+          {"id":"SSC-SUB-26-REASONING-ALPHANUMERIC-SERIES-part-1","linkStr":"SSC-SUB-26-REASONING-ALPHANUMERIC-SERIES&section=PART-1","title":"SSC 2026 ALPHANUMERIC SERIES PART-1","type":"free","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+        ],
+        "BLOOD RELATIONS": [
+          {"id":"SSC-SUB-26-REASONING-BLOOD-RELATIONS-part-1","linkStr":"SSC-SUB-26-REASONING-BLOOD-RELATIONS&section=PART-1","title":"SSC 2026 BLOOD RELATIONS PART-1","type":"free","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+        ],
+        "CALENDAR": [
+          {"id":"SSC-SUB-26-REASONING-CALENDAR-part-1","linkStr":"SSC-SUB-26-REASONING-CALENDAR&section=PART-1","title":"SSC 2026 CALENDAR PART-1","type":"free","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+        ],
+        "CLOCK": [
+          {"id":"SSC-SUB-26-REASONING-CLOCK-part-1","linkStr":"SSC-SUB-26-REASONING-CLOCK&section=PART-1","title":"SSC 2026 CLOCK PART-1","type":"free","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+        ],
+        "CODING & DECODING": [
+          {"id":"SSC-SUB-26-REASONING-CODING-AND-DECODING-part-1","linkStr":"SSC-SUB-26-REASONING-CODING-AND-DECODING&section=PART-1","title":"SSC 2026 CODING & DECODING PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-CODING-AND-DECODING-part-2","linkStr":"SSC-SUB-26-REASONING-CODING-AND-DECODING&section=PART-2","title":"SSC 2026 CODING & DECODING PART-2","type":"free","releaseDate":"","qs":10,"time":"6 Min","marks":20}
+        ],
+        "DECISION MAKING": [
+          {"id":"SSC-SUB-26-REASONING-DECISION-MAKING-part-1","linkStr":"SSC-SUB-26-REASONING-DECISION-MAKING&section=PART-1","title":"SSC 2026 DECISION MAKING PART-1","type":"free","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+        ],
+        "DICTIONARY / ALPHABETICAL ORDER": [
+          {"id":"SSC-SUB-26-REASONING-DICTIONARY-ALPHABETICAL-ORDER-part-1","linkStr":"SSC-SUB-26-REASONING-DICTIONARY-ALPHABETICAL-ORDER&section=PART-1","title":"SSC 2026 DICTIONARY / ALPHABETICAL ORDER PART-1","type":"free","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+        ],
+        "DIRECTION & DISTANCE": [
+          {"id":"SSC-SUB-26-REASONING-DIRECTION-AND-DISTANCE-part-1","linkStr":"SSC-SUB-26-REASONING-DIRECTION-AND-DISTANCE&section=PART-1","title":"SSC 2026 DIRECTION & DISTANCE PART-1","type":"free","releaseDate":"","qs":15,"time":"9 Min","marks":30}
+        ],
+        "FIGURE ANALOGY": [
+          {"id":"SSC-SUB-26-REASONING-FIGURE-ANALOGY-part-1","linkStr":"SSC-SUB-26-REASONING-FIGURE-ANALOGY&section=PART-1","title":"SSC 2026 FIGURE ANALOGY PART-1","type":"free","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+        ],
+        "FIGURE COMPLETING": [
+          {"id":"SSC-SUB-26-REASONING-FIGURE-COMPLETING-part-1","linkStr":"SSC-SUB-26-REASONING-FIGURE-COMPLETING&section=PART-1","title":"SSC 2026 FIGURE COMPLETING PART-1","type":"free","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+        ],
+        "FIGURE SERIES": [
+          {"id":"SSC-SUB-26-REASONING-FIGURE-SERIES-part-1","linkStr":"SSC-SUB-26-REASONING-FIGURE-SERIES&section=PART-1","title":"SSC 2026 FIGURE SERIES PART-1","type":"free","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+        ],
+        "INEQUALITY": [
+          {"id":"SSC-SUB-26-REASONING-INEQUALITY-part-1","linkStr":"SSC-SUB-26-REASONING-INEQUALITY&section=PART-1","title":"SSC 2026 INEQUALITY PART-1","type":"free","releaseDate":"","qs":12,"time":"7 Min","marks":24}
+        ],
+        "INPUT-OUTPUT": [
+          {"id":"SSC-SUB-26-REASONING-INPUT-OUTPUT-part-1","linkStr":"SSC-SUB-26-REASONING-INPUT-OUTPUT&section=PART-1","title":"SSC 2026 INPUT-OUTPUT PART-1","type":"free","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+        ],
+        "LETTER SERIES": [
+          {"id":"SSC-SUB-26-REASONING-LETTER-SERIES-part-1","linkStr":"SSC-SUB-26-REASONING-LETTER-SERIES&section=PART-1","title":"SSC 2026 LETTER SERIES PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-LETTER-SERIES-part-2","linkStr":"SSC-SUB-26-REASONING-LETTER-SERIES&section=PART-2","title":"SSC 2026 LETTER SERIES PART-2","type":"free","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+        ],
+        "LETTER/ALPHABETICAL ANALOGY": [
+          {"id":"SSC-SUB-26-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-1","linkStr":"SSC-SUB-26-REASONING-LETTER-ALPHABETICAL-ANALOGY&section=PART-1","title":"SSC 2026 LETTER/ALPHABETICAL ANALOGY PART-1","type":"free","releaseDate":"","qs":16,"time":"10 Min","marks":32}
+        ],
+        "LETTER/WORD POSITION ANALYSIS": [
+          {"id":"SSC-SUB-26-REASONING-LETTER-WORD-POSITION-ANALYSIS-part-1","linkStr":"SSC-SUB-26-REASONING-LETTER-WORD-POSITION-ANALYSIS&section=PART-1","title":"SSC 2026 LETTER/WORD POSITION ANALYSIS PART-1","type":"free","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+        ],
+        "MISCELLANEOUS": [
+          {"id":"SSC-SUB-26-REASONING-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-REASONING-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50}
+        ],
+        "MISSING NUMBER": [
+          {"id":"SSC-SUB-26-REASONING-MISSING-NUMBER-part-1","linkStr":"SSC-SUB-26-REASONING-MISSING-NUMBER&section=PART-1","title":"SSC 2026 MISSING NUMBER PART-1","type":"free","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+        ],
+        "MIXED ARRANGEMENT": [
+          {"id":"SSC-SUB-26-REASONING-MIXED-ARRANGEMENT-part-1","linkStr":"SSC-SUB-26-REASONING-MIXED-ARRANGEMENT&section=PART-1","title":"SSC 2026 MIXED ARRANGEMENT PART-1","type":"free","releaseDate":"","qs":18,"time":"11 Min","marks":36}
+        ],
+        "NON-VERBAL: COUNTING FIGURES": [
+          {"id":"SSC-SUB-26-REASONING-NON-VERBAL-COUNTING-FIGURES-part-1","linkStr":"SSC-SUB-26-REASONING-NON-VERBAL-COUNTING-FIGURES&section=PART-1","title":"SSC 2026 NON-VERBAL: COUNTING FIGURES PART-1","type":"free","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+        ],
+        "NON-VERBAL: EMBEDDED FIGURES": [
+          {"id":"SSC-SUB-26-REASONING-NON-VERBAL-EMBEDDED-FIGURES-part-1","linkStr":"SSC-SUB-26-REASONING-NON-VERBAL-EMBEDDED-FIGURES&section=PART-1","title":"SSC 2026 NON-VERBAL: EMBEDDED FIGURES PART-1","type":"free","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+        ],
+        "NON-VERBAL: MIRROR & WATER IMAGES": [
+          {"id":"SSC-SUB-26-REASONING-NON-VERBAL-MIRROR-AND-WATER-IMAGES-part-1","linkStr":"SSC-SUB-26-REASONING-NON-VERBAL-MIRROR-AND-WATER-IMAGES&section=PART-1","title":"SSC 2026 NON-VERBAL: MIRROR & WATER IMAGES PART-1","type":"free","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+        ],
+        "NON-VERBAL: PAPER FOLDING & CUTTING": [
+          {"id":"SSC-SUB-26-REASONING-NON-VERBAL-PAPER-FOLDING-AND-CUTTING-part-1","linkStr":"SSC-SUB-26-REASONING-NON-VERBAL-PAPER-FOLDING-AND-CUTTING&section=PART-1","title":"SSC 2026 NON-VERBAL: PAPER FOLDING & CUTTING PART-1","type":"free","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+        ],
+        "NUMBER ANALOGY": [
+          {"id":"SSC-SUB-26-REASONING-NUMBER-ANALOGY-part-1","linkStr":"SSC-SUB-26-REASONING-NUMBER-ANALOGY&section=PART-1","title":"SSC 2026 NUMBER ANALOGY PART-1","type":"free","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+        ],
+        "NUMBER SERIES": [
+          {"id":"SSC-SUB-26-REASONING-NUMBER-SERIES-part-1","linkStr":"SSC-SUB-26-REASONING-NUMBER-SERIES&section=PART-1","title":"SSC 2026 NUMBER SERIES PART-1","type":"free","releaseDate":"","qs":15,"time":"9 Min","marks":30}
+        ],
+        "ODD ONE OUT": [
+          {"id":"SSC-SUB-26-REASONING-ODD-ONE-OUT-part-1","linkStr":"SSC-SUB-26-REASONING-ODD-ONE-OUT&section=PART-1","title":"SSC 2026 ODD ONE OUT PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-ODD-ONE-OUT-part-2","linkStr":"SSC-SUB-26-REASONING-ODD-ONE-OUT&section=PART-2","title":"SSC 2026 ODD ONE OUT PART-2","type":"free","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+        ],
+        "ORDER & RANKING": [
+          {"id":"SSC-SUB-26-REASONING-ORDER-AND-RANKING-part-1","linkStr":"SSC-SUB-26-REASONING-ORDER-AND-RANKING&section=PART-1","title":"SSC 2026 ORDER & RANKING PART-1","type":"free","releaseDate":"","qs":11,"time":"7 Min","marks":22}
+        ],
+        "SEATING ARRANGEMENT": [
+          {"id":"SSC-SUB-26-REASONING-SEATING-ARRANGEMENT-part-1","linkStr":"SSC-SUB-26-REASONING-SEATING-ARRANGEMENT&section=PART-1","title":"SSC 2026 SEATING ARRANGEMENT PART-1","type":"free","releaseDate":"","qs":23,"time":"14 Min","marks":46}
+        ],
+        "STATEMENT & ARGUMENT": [
+          {"id":"SSC-SUB-26-REASONING-STATEMENT-AND-ARGUMENT-part-1","linkStr":"SSC-SUB-26-REASONING-STATEMENT-AND-ARGUMENT&section=PART-1","title":"SSC 2026 STATEMENT & ARGUMENT PART-1","type":"free","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+        ],
+        "STATEMENT & ASSUMPTION": [
+          {"id":"SSC-SUB-26-REASONING-STATEMENT-AND-ASSUMPTION-part-1","linkStr":"SSC-SUB-26-REASONING-STATEMENT-AND-ASSUMPTION&section=PART-1","title":"SSC 2026 STATEMENT & ASSUMPTION PART-1","type":"free","releaseDate":"","qs":20,"time":"12 Min","marks":40}
+        ],
+        "STATEMENT & CONCLUSION": [
+          {"id":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-part-1","linkStr":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION&section=PART-1","title":"SSC 2026 STATEMENT & CONCLUSION PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-part-2","linkStr":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION&section=PART-2","title":"SSC 2026 STATEMENT & CONCLUSION PART-2","type":"free","releaseDate":"","qs":11,"time":"7 Min","marks":22}
+        ],
+        "SYLLOGISM": [
+          {"id":"SSC-SUB-26-REASONING-SYLLOGISM-part-1","linkStr":"SSC-SUB-26-REASONING-SYLLOGISM&section=PART-1","title":"SSC 2026 SYLLOGISM PART-1","type":"free","releaseDate":"","qs":17,"time":"10 Min","marks":34}
+        ],
+        "VENN DIAGRAMS": [
+          {"id":"SSC-SUB-26-REASONING-VENN-DIAGRAMS-part-1","linkStr":"SSC-SUB-26-REASONING-VENN-DIAGRAMS&section=PART-1","title":"SSC 2026 VENN DIAGRAMS PART-1","type":"free","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+        ],
+        "WORD ANALOGY": [
+          {"id":"SSC-SUB-26-REASONING-WORD-ANALOGY-part-1","linkStr":"SSC-SUB-26-REASONING-WORD-ANALOGY&section=PART-1","title":"SSC 2026 WORD ANALOGY PART-1","type":"free","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+        ],
+        "WORD FORMATION": [
+          {"id":"SSC-SUB-26-REASONING-WORD-FORMATION-part-1","linkStr":"SSC-SUB-26-REASONING-WORD-FORMATION&section=PART-1","title":"SSC 2026 WORD FORMATION PART-1","type":"free","releaseDate":"","qs":16,"time":"10 Min","marks":32}
+        ],
+        "CRITICAL REASONING": [
+          {"id":"SSC-SUB-26-REASONING-CRITICAL-REASONING-part-1","linkStr":"SSC-SUB-26-REASONING-CRITICAL-REASONING&section=PART-1","title":"SSC 2026 CRITICAL REASONING PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-CRITICAL-REASONING-part-2","linkStr":"SSC-SUB-26-REASONING-CRITICAL-REASONING&section=PART-2","title":"SSC 2026 CRITICAL REASONING PART-2","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-CRITICAL-REASONING-part-3","linkStr":"SSC-SUB-26-REASONING-CRITICAL-REASONING&section=PART-3","title":"SSC 2026 CRITICAL REASONING PART-3","type":"free","releaseDate":"","qs":23,"time":"14 Min","marks":46}
+        ]
+      },
+      "English": {
+        "SYNONYM": [
+          {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-1","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-1","title":"SSC 2026 SYNONYM PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-2","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-2","title":"SSC 2026 SYNONYM PART-2","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-3","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-3","title":"SSC 2026 SYNONYM PART-3","type":"free","releaseDate":"","qs":18,"time":"11 Min","marks":36}
+        ],
+        "ANTONYM": [
+          {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-1","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-1","title":"SSC 2026 ANTONYM PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-2","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-2","title":"SSC 2026 ANTONYM PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-3","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-3","title":"SSC 2026 ANTONYM PART-3","type":"paid","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+        ],
+        "ONE WORD SUBSTITUTION": [
+          {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-1","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-1","title":"SSC 2026 ONE WORD SUBSTITUTION PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-2","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-2","title":"SSC 2026 ONE WORD SUBSTITUTION PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-3","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-3","title":"SSC 2026 ONE WORD SUBSTITUTION PART-3","type":"paid","releaseDate":"","qs":12,"time":"7 Min","marks":24}
+        ],
+        "IDIOMS AND PHRASES": [
+          {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-1","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-1","title":"SSC 2026 IDIOMS AND PHRASES PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-2","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-2","title":"SSC 2026 IDIOMS AND PHRASES PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-3","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-3","title":"SSC 2026 IDIOMS AND PHRASES PART-3","type":"paid","releaseDate":"","qs":21,"time":"13 Min","marks":42}
+        ],
+        "HOMOPHONES AND HOMONYMS": [
+          {"id":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS-part-1","linkStr":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS&section=PART-1","title":"SSC 2026 HOMOPHONES AND HOMONYMS PART-1","type":"paid","releaseDate":"","qs":24,"time":"14 Min","marks":48}
+        ],
+        "SPELLING CHECK": [
+          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-1","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-1","title":"SSC 2026 SPELLING CHECK PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-2","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-2","title":"SSC 2026 SPELLING CHECK PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-3","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-3","title":"SSC 2026 SPELLING CHECK PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-4","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-4","title":"SSC 2026 SPELLING CHECK PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-5","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-5","title":"SSC 2026 SPELLING CHECK PART-5","type":"paid","releaseDate":"","qs":12,"time":"7 Min","marks":24}
+        ],
+        "ACTIVE PASSIVE VOICE": [
+          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-1","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-1","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-2","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-2","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-3","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-3","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-4","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-4","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-5","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-5","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-5","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+        ],
+        "DIRECT INDIRECT (NARRATION)": [
+          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-1","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-1","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-2","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-2","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-3","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-3","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-4","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-4","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-5","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-5","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-5","type":"paid","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+        ],
+        "FILL IN THE BLANKS": [
+          {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-1","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-1","title":"SSC 2026 FILL IN THE BLANKS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-2","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-2","title":"SSC 2026 FILL IN THE BLANKS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-3","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-3","title":"SSC 2026 FILL IN THE BLANKS PART-3","type":"paid","releaseDate":"","qs":13,"time":"8 Min","marks":26}
+        ],
+        "SENTENCE IMPROVEMENT": [
+          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-1","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-1","title":"SSC 2026 SENTENCE IMPROVEMENT PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-2","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-2","title":"SSC 2026 SENTENCE IMPROVEMENT PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-3","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-3","title":"SSC 2026 SENTENCE IMPROVEMENT PART-3","type":"paid","releaseDate":"","qs":11,"time":"7 Min","marks":22}
+        ],
+        "SENTENCE REARRANGEMENT": [
+          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT-part-1","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT&section=PART-1","title":"SSC 2026 SENTENCE REARRANGEMENT PART-1","type":"paid","releaseDate":"","qs":10,"time":"6 Min","marks":20}
+        ],
+        "SPOTTING ERRORS": [
+          {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-1","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-1","title":"SSC 2026 SPOTTING ERRORS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-2","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-2","title":"SSC 2026 SPOTTING ERRORS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-3","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-3","title":"SSC 2026 SPOTTING ERRORS PART-3","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+        ],
+        "Para Jumbles (PQRS)": [
+          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-1","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-1","title":"SSC 2026 PARA JUMBLES (PQRS) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-2","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-2","title":"SSC 2026 PARA JUMBLES (PQRS) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-3","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-3","title":"SSC 2026 PARA JUMBLES (PQRS) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-4","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-4","title":"SSC 2026 PARA JUMBLES (PQRS) PART-4","type":"paid","releaseDate":"","qs":21,"time":"13 Min","marks":42}
+        ],
+        "Cloze Test": [
+          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-1","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-1","title":"SSC 2026 CLOZE TEST PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-2","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-2","title":"SSC 2026 CLOZE TEST PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-3","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-3","title":"SSC 2026 CLOZE TEST PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-4","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-4","title":"SSC 2026 CLOZE TEST PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-5","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-5","title":"SSC 2026 CLOZE TEST PART-5","type":"paid","releaseDate":"","qs":10,"time":"6 Min","marks":20}
+        ],
+        "PASSAGE": [
+          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-1","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-1","title":"SSC 2026 PASSAGE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-2","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-2","title":"SSC 2026 PASSAGE PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-3","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-3","title":"SSC 2026 PASSAGE PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-4","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-4","title":"SSC 2026 PASSAGE PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50}
+        ]
+      },
+      "General Awareness": {
+        "Static GK": {
+          "Sports(Static & Current)": [
+            {"id":"SSC-SUB-26-GA-STG-SPORTS-STATIC-AND-CURRENT-part-1","linkStr":"SSC-SUB-26-GA-STG-SPORTS-STATIC-AND-CURRENT&section=PART-1","title":"SSC 2026 SPORTS(STATIC & CURRENT) PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+            {"id":"SSC-SUB-26-GA-STG-SPORTS-STATIC-AND-CURRENT-part-2","linkStr":"SSC-SUB-26-GA-STG-SPORTS-STATIC-AND-CURRENT&section=PART-2","title":"SSC 2026 SPORTS(STATIC & CURRENT) PART-2","type":"free","releaseDate":"","qs":23,"time":"14 Min","marks":46}
+          ],
+          "Music and Musical Instruments": [
+            {"id":"SSC-SUB-26-GA-STG-MUSIC-AND-MUSICAL-INSTRUMENTS-part-1","linkStr":"SSC-SUB-26-GA-STG-MUSIC-AND-MUSICAL-INSTRUMENTS&section=PART-1","title":"SSC 2026 MUSIC AND MUSICAL INSTRUMENTS PART-1","type":"paid","releaseDate":"","qs":23,"time":"14 Min","marks":46}
+          ],
+          "Classical Dance": [
+            {"id":"SSC-SUB-26-GA-STG-CLASSICAL-DANCE-part-1","linkStr":"SSC-SUB-26-GA-STG-CLASSICAL-DANCE&section=PART-1","title":"SSC 2026 CLASSICAL DANCE PART-1","type":"paid","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+          ],
+          "Folk Dances and Festivals": [
+            {"id":"SSC-SUB-26-GA-STG-FOLK-DANCES-AND-FESTIVALS-part-1","linkStr":"SSC-SUB-26-GA-STG-FOLK-DANCES-AND-FESTIVALS&section=PART-1","title":"SSC 2026 FOLK DANCES AND FESTIVALS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+            {"id":"SSC-SUB-26-GA-STG-FOLK-DANCES-AND-FESTIVALS-part-2","linkStr":"SSC-SUB-26-GA-STG-FOLK-DANCES-AND-FESTIVALS&section=PART-2","title":"SSC 2026 FOLK DANCES AND FESTIVALS PART-2","type":"paid","releaseDate":"","qs":10,"time":"6 Min","marks":20}
+          ],
+          "Books and Authors": [
+            {"id":"SSC-SUB-26-GA-STG-BOOKS-AND-AUTHORS-part-1","linkStr":"SSC-SUB-26-GA-STG-BOOKS-AND-AUTHORS&section=PART-1","title":"SSC 2026 BOOKS AND AUTHORS PART-1","type":"paid","releaseDate":"","qs":14,"time":"8 Min","marks":28}
+          ],
+          "International Organisations": [
+            {"id":"SSC-SUB-26-GA-STG-INTERNATIONAL-ORGANISATIONS-part-1","linkStr":"SSC-SUB-26-GA-STG-INTERNATIONAL-ORGANISATIONS&section=PART-1","title":"SSC 2026 INTERNATIONAL ORGANISATIONS PART-1","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+          ],
+          "Awards and Honours": [
+            {"id":"SSC-SUB-26-GA-STG-AWARDS-AND-HONOURS-part-1","linkStr":"SSC-SUB-26-GA-STG-AWARDS-AND-HONOURS&section=PART-1","title":"SSC 2026 AWARDS AND HONOURS PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Government Schemes": [
+            {"id":"SSC-SUB-26-GA-STG-GOVERNMENT-SCHEMES-part-1","linkStr":"SSC-SUB-26-GA-STG-GOVERNMENT-SCHEMES&section=PART-1","title":"SSC 2026 GOVERNMENT SCHEMES PART-1","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-STG-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-STG-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":11,"time":"7 Min","marks":22}
+          ]
+        },
+        "Ancient History": {
+          "Stone Age": [
+            {"id":"SSC-SUB-26-GA-ANH-STONE-AGE-part-1","linkStr":"SSC-SUB-26-GA-ANH-STONE-AGE&section=PART-1","title":"SSC 2026 STONE AGE PART-1","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+          ],
+          "Indus Valley Civilization": [
+            {"id":"SSC-SUB-26-GA-ANH-INDUS-VALLEY-CIVILIZATION-part-1","linkStr":"SSC-SUB-26-GA-ANH-INDUS-VALLEY-CIVILIZATION&section=PART-1","title":"SSC 2026 INDUS VALLEY CIVILIZATION PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Vedic Age": [
+            {"id":"SSC-SUB-26-GA-ANH-VEDIC-AGE-part-1","linkStr":"SSC-SUB-26-GA-ANH-VEDIC-AGE&section=PART-1","title":"SSC 2026 VEDIC AGE PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Jainism and Buddhism": [
+            {"id":"SSC-SUB-26-GA-ANH-JAINISM-AND-BUDDHISM-part-1","linkStr":"SSC-SUB-26-GA-ANH-JAINISM-AND-BUDDHISM&section=PART-1","title":"SSC 2026 JAINISM AND BUDDHISM PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Post-Maurya Dynasties": [
+            {"id":"SSC-SUB-26-GA-ANH-POST-MAURYA-DYNASTIES-part-1","linkStr":"SSC-SUB-26-GA-ANH-POST-MAURYA-DYNASTIES&section=PART-1","title":"SSC 2026 POST-MAURYA DYNASTIES PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Gupta Dynasty": [
+            {"id":"SSC-SUB-26-GA-ANH-GUPTA-DYNASTY-part-1","linkStr":"SSC-SUB-26-GA-ANH-GUPTA-DYNASTY&section=PART-1","title":"SSC 2026 GUPTA DYNASTY PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Tripartite Struggle and Cholas": [
+            {"id":"SSC-SUB-26-GA-ANH-TRIPARTITE-STRUGGLE-AND-CHOLAS-part-1","linkStr":"SSC-SUB-26-GA-ANH-TRIPARTITE-STRUGGLE-AND-CHOLAS&section=PART-1","title":"SSC 2026 TRIPARTITE STRUGGLE AND CHOLAS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-ANH-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-ANH-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ]
+        },
+        "Medieval History": {
+          "Delhi Sultanate": [
+            {"id":"SSC-SUB-26-GA-MDH-DELHI-SULTANATE-part-1","linkStr":"SSC-SUB-26-GA-MDH-DELHI-SULTANATE&section=PART-1","title":"SSC 2026 DELHI SULTANATE PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Vijayanagara and Bahmani Kingdom": [
+            {"id":"SSC-SUB-26-GA-MDH-VIJAYANAGARA-AND-BAHMANI-KINGDOM-part-1","linkStr":"SSC-SUB-26-GA-MDH-VIJAYANAGARA-AND-BAHMANI-KINGDOM&section=PART-1","title":"SSC 2026 VIJAYANAGARA AND BAHMANI KINGDOM PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "The Mughal Empire": [
+            {"id":"SSC-SUB-26-GA-MDH-THE-MUGHAL-EMPIRE-part-1","linkStr":"SSC-SUB-26-GA-MDH-THE-MUGHAL-EMPIRE&section=PART-1","title":"SSC 2026 THE MUGHAL EMPIRE PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Marathas": [
+            {"id":"SSC-SUB-26-GA-MDH-MARATHAS-part-1","linkStr":"SSC-SUB-26-GA-MDH-MARATHAS&section=PART-1","title":"SSC 2026 MARATHAS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-MDH-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-MDH-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ]
+        },
+        "Modern History": {
+          "Socio Religious Reforms": [
+            {"id":"SSC-SUB-26-GA-MDN-SOCIO-RELIGIOUS-REFORMS-part-1","linkStr":"SSC-SUB-26-GA-MDN-SOCIO-RELIGIOUS-REFORMS&section=PART-1","title":"SSC 2026 SOCIO RELIGIOUS REFORMS PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Revolt of 1857": [
+            {"id":"SSC-SUB-26-GA-MDN-REVOLT-OF-1857-part-1","linkStr":"SSC-SUB-26-GA-MDN-REVOLT-OF-1857&section=PART-1","title":"SSC 2026 REVOLT OF 1857 PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Governor-General and Viceroy": [
+            {"id":"SSC-SUB-26-GA-MDN-GOVERNOR-GENERAL-AND-VICEROY-part-1","linkStr":"SSC-SUB-26-GA-MDN-GOVERNOR-GENERAL-AND-VICEROY&section=PART-1","title":"SSC 2026 GOVERNOR-GENERAL AND VICEROY PART-1","type":"paid","releaseDate":"","qs":12,"time":"7 Min","marks":24}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-MDN-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-MDN-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+          ]
+        },
+        "Economics": {
+          "National Income": [
+            {"id":"SSC-SUB-26-GA-ECO-NATIONAL-INCOME-part-1","linkStr":"SSC-SUB-26-GA-ECO-NATIONAL-INCOME&section=PART-1","title":"SSC 2026 NATIONAL INCOME PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Budget and Taxation": [
+            {"id":"SSC-SUB-26-GA-ECO-BUDGET-AND-TAXATION-part-1","linkStr":"SSC-SUB-26-GA-ECO-BUDGET-AND-TAXATION&section=PART-1","title":"SSC 2026 BUDGET AND TAXATION PART-1","type":"paid","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+          ],
+          "Inflation and Unemployment": [
+            {"id":"SSC-SUB-26-GA-ECO-INFLATION-AND-UNEMPLOYMENT-part-1","linkStr":"SSC-SUB-26-GA-ECO-INFLATION-AND-UNEMPLOYMENT&section=PART-1","title":"SSC 2026 INFLATION AND UNEMPLOYMENT PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Banking": [
+            {"id":"SSC-SUB-26-GA-ECO-BANKING-part-1","linkStr":"SSC-SUB-26-GA-ECO-BANKING&section=PART-1","title":"SSC 2026 BANKING PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "Monetary Policy": [
+            {"id":"SSC-SUB-26-GA-ECO-MONETARY-POLICY-part-1","linkStr":"SSC-SUB-26-GA-ECO-MONETARY-POLICY&section=PART-1","title":"SSC 2026 MONETARY POLICY PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Poverty and Balance of Payment": [
+            {"id":"SSC-SUB-26-GA-ECO-POVERTY-AND-BALANCE-OF-PAYMENT-part-1","linkStr":"SSC-SUB-26-GA-ECO-POVERTY-AND-BALANCE-OF-PAYMENT&section=PART-1","title":"SSC 2026 POVERTY AND BALANCE OF PAYMENT PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "1991 Reforms And Industrial policy": [
+            {"id":"SSC-SUB-26-GA-ECO-1991-REFORMS-AND-INDUSTRIAL-POLICY-part-1","linkStr":"SSC-SUB-26-GA-ECO-1991-REFORMS-AND-INDUSTRIAL-POLICY&section=PART-1","title":"SSC 2026 1991 REFORMS AND INDUSTRIAL POLICY PART-1","type":"paid","releaseDate":"","qs":22,"time":"13 Min","marks":44}
+          ],
+          "Five Year Plan and Industrial Policy Resolution": [
+            {"id":"SSC-SUB-26-GA-ECO-FIVE-YEAR-PLAN-AND-INDUSTRIAL-POLICY-RESOLUTION-part-1","linkStr":"SSC-SUB-26-GA-ECO-FIVE-YEAR-PLAN-AND-INDUSTRIAL-POLICY-RESOLUTION&section=PART-1","title":"SSC 2026 FIVE YEAR PLAN AND INDUSTRIAL POLICY RESOLUTION PART-1","type":"paid","releaseDate":"","qs":20,"time":"12 Min","marks":40}
+          ],
+          "Reports and Indices": [
+            {"id":"SSC-SUB-26-GA-ECO-REPORTS-AND-INDICES-part-1","linkStr":"SSC-SUB-26-GA-ECO-REPORTS-AND-INDICES&section=PART-1","title":"SSC 2026 REPORTS AND INDICES PART-1","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-ECO-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-ECO-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ]
+        },
+        "Polity": {
+          "Making of Constitution": [
+            {"id":"SSC-SUB-26-GA-POL-MAKING-OF-CONSTITUTION-part-1","linkStr":"SSC-SUB-26-GA-POL-MAKING-OF-CONSTITUTION&section=PART-1","title":"SSC 2026 MAKING OF CONSTITUTION PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Salient Features of the Constitution": [
+            {"id":"SSC-SUB-26-GA-POL-SALIENT-FEATURES-OF-THE-CONSTITUTION-part-1","linkStr":"SSC-SUB-26-GA-POL-SALIENT-FEATURES-OF-THE-CONSTITUTION&section=PART-1","title":"SSC 2026 SALIENT FEATURES OF THE CONSTITUTION PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Preamble": [
+            {"id":"SSC-SUB-26-GA-POL-PREAMBLE-part-1","linkStr":"SSC-SUB-26-GA-POL-PREAMBLE&section=PART-1","title":"SSC 2026 PREAMBLE PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Fundamental Rights": [
+            {"id":"SSC-SUB-26-GA-POL-FUNDAMENTAL-RIGHTS-part-1","linkStr":"SSC-SUB-26-GA-POL-FUNDAMENTAL-RIGHTS&section=PART-1","title":"SSC 2026 FUNDAMENTAL RIGHTS PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "DPSP and Fundamental Duties": [
+            {"id":"SSC-SUB-26-GA-POL-DPSP-AND-FUNDAMENTAL-DUTIES-part-1","linkStr":"SSC-SUB-26-GA-POL-DPSP-AND-FUNDAMENTAL-DUTIES&section=PART-1","title":"SSC 2026 DPSP AND FUNDAMENTAL DUTIES PART-1","type":"paid","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+          ],
+          "President and Vice President of India": [
+            {"id":"SSC-SUB-26-GA-POL-PRESIDENT-AND-VICE-PRESIDENT-OF-INDIA-part-1","linkStr":"SSC-SUB-26-GA-POL-PRESIDENT-AND-VICE-PRESIDENT-OF-INDIA&section=PART-1","title":"SSC 2026 PRESIDENT AND VICE PRESIDENT OF INDIA PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Prime Minister and Council of Ministers": [
+            {"id":"SSC-SUB-26-GA-POL-PRIME-MINISTER-AND-COUNCIL-OF-MINISTERS-part-1","linkStr":"SSC-SUB-26-GA-POL-PRIME-MINISTER-AND-COUNCIL-OF-MINISTERS&section=PART-1","title":"SSC 2026 PRIME MINISTER AND COUNCIL OF MINISTERS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Parliament": [
+            {"id":"SSC-SUB-26-GA-POL-PARLIAMENT-part-1","linkStr":"SSC-SUB-26-GA-POL-PARLIAMENT&section=PART-1","title":"SSC 2026 PARLIAMENT PART-1","type":"paid","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+          ],
+          "State Legislature": [
+            {"id":"SSC-SUB-26-GA-POL-STATE-LEGISLATURE-part-1","linkStr":"SSC-SUB-26-GA-POL-STATE-LEGISLATURE&section=PART-1","title":"SSC 2026 STATE LEGISLATURE PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Centre-State Relations": [
+            {"id":"SSC-SUB-26-GA-POL-CENTRE-STATE-RELATIONS-part-1","linkStr":"SSC-SUB-26-GA-POL-CENTRE-STATE-RELATIONS&section=PART-1","title":"SSC 2026 CENTRE-STATE RELATIONS PART-1","type":"paid","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+          ],
+          "Emergency & Constitutional Amendment": [
+            {"id":"SSC-SUB-26-GA-POL-EMERGENCY-AND-CONSTITUTIONAL-AMENDMENT-part-1","linkStr":"SSC-SUB-26-GA-POL-EMERGENCY-AND-CONSTITUTIONAL-AMENDMENT&section=PART-1","title":"SSC 2026 EMERGENCY & CONSTITUTIONAL AMENDMENT PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "Supreme Court and High Court": [
+            {"id":"SSC-SUB-26-GA-POL-SUPREME-COURT-AND-HIGH-COURT-part-1","linkStr":"SSC-SUB-26-GA-POL-SUPREME-COURT-AND-HIGH-COURT&section=PART-1","title":"SSC 2026 SUPREME COURT AND HIGH COURT PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Constitutional and Non-Constitutional Bodies": [
+            {"id":"SSC-SUB-26-GA-POL-CONSTITUTIONAL-AND-NON-CONSTITUTIONAL-BODIES-part-1","linkStr":"SSC-SUB-26-GA-POL-CONSTITUTIONAL-AND-NON-CONSTITUTIONAL-BODIES&section=PART-1","title":"SSC 2026 CONSTITUTIONAL AND NON-CONSTITUTIONAL BODIES PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "New Criminal Laws 2023": [
+            {"id":"SSC-SUB-26-GA-POL-NEW-CRIMINAL-LAWS-2023-part-1","linkStr":"SSC-SUB-26-GA-POL-NEW-CRIMINAL-LAWS-2023&section=PART-1","title":"SSC 2026 NEW CRIMINAL LAWS 2023 PART-1","type":"paid","releaseDate":"","qs":10,"time":"6 Min","marks":20}
+          ],
+          "Important Acts": [
+            {"id":"SSC-SUB-26-GA-POL-IMPORTANT-ACTS-part-1","linkStr":"SSC-SUB-26-GA-POL-IMPORTANT-ACTS&section=PART-1","title":"SSC 2026 IMPORTANT ACTS PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Sources of the Indian Constitution": [
+            {"id":"SSC-SUB-26-GA-POL-SOURCES-OF-THE-INDIAN-CONSTITUTION-part-1","linkStr":"SSC-SUB-26-GA-POL-SOURCES-OF-THE-INDIAN-CONSTITUTION&section=PART-1","title":"SSC 2026 SOURCES OF THE INDIAN CONSTITUTION PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-POL-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-POL-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ]
+        },
+        "Geography": {
+          "Solar System": [
+            {"id":"SSC-SUB-26-GA-GEO-SOLAR-SYSTEM-part-1","linkStr":"SSC-SUB-26-GA-GEO-SOLAR-SYSTEM&section=PART-1","title":"SSC 2026 SOLAR SYSTEM PART-1","type":"paid","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+          ],
+          "Earth's Interior and Plate Tectonics & Latitude and Longitude": [
+            {"id":"SSC-SUB-26-GA-GEO-EARTH-S-INTERIOR-AND-PLATE-TECTONICS-AND-LATITUDE-AND-LONGITUDE-part-1","linkStr":"SSC-SUB-26-GA-GEO-EARTH-S-INTERIOR-AND-PLATE-TECTONICS-AND-LATITUDE-AND-LONGITUDE&section=PART-1","title":"SSC 2026 EARTH'S INTERIOR AND PLATE TECTONICS & LATITUDE AND LONGITUDE PART-1","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+          ],
+          "Landforms": [
+            {"id":"SSC-SUB-26-GA-GEO-LANDFORMS-part-1","linkStr":"SSC-SUB-26-GA-GEO-LANDFORMS&section=PART-1","title":"SSC 2026 LANDFORMS PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Atmosphere": [
+            {"id":"SSC-SUB-26-GA-GEO-ATMOSPHERE-part-1","linkStr":"SSC-SUB-26-GA-GEO-ATMOSPHERE&section=PART-1","title":"SSC 2026 ATMOSPHERE PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Wind, Ocean Current, and Cyclone": [
+            {"id":"SSC-SUB-26-GA-GEO-WIND-OCEAN-CURRENT-AND-CYCLONE-part-1","linkStr":"SSC-SUB-26-GA-GEO-WIND-OCEAN-CURRENT-AND-CYCLONE&section=PART-1","title":"SSC 2026 WIND, OCEAN CURRENT, AND CYCLONE PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "India and Its Location": [
+            {"id":"SSC-SUB-26-GA-GEO-INDIA-AND-ITS-LOCATION-part-1","linkStr":"SSC-SUB-26-GA-GEO-INDIA-AND-ITS-LOCATION&section=PART-1","title":"SSC 2026 INDIA AND ITS LOCATION PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "Himalayas": [
+            {"id":"SSC-SUB-26-GA-GEO-HIMALAYAS-part-1","linkStr":"SSC-SUB-26-GA-GEO-HIMALAYAS&section=PART-1","title":"SSC 2026 HIMALAYAS PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "Peninsular Plateau": [
+            {"id":"SSC-SUB-26-GA-GEO-PENINSULAR-PLATEAU-part-1","linkStr":"SSC-SUB-26-GA-GEO-PENINSULAR-PLATEAU&section=PART-1","title":"SSC 2026 PENINSULAR PLATEAU PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "Northern Plains and Islands": [
+            {"id":"SSC-SUB-26-GA-GEO-NORTHERN-PLAINS-AND-ISLANDS-part-1","linkStr":"SSC-SUB-26-GA-GEO-NORTHERN-PLAINS-AND-ISLANDS&section=PART-1","title":"SSC 2026 NORTHERN PLAINS AND ISLANDS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Himalayan River System": [
+            {"id":"SSC-SUB-26-GA-GEO-HIMALAYAN-RIVER-SYSTEM-part-1","linkStr":"SSC-SUB-26-GA-GEO-HIMALAYAN-RIVER-SYSTEM&section=PART-1","title":"SSC 2026 HIMALAYAN RIVER SYSTEM PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "Peninsular Rivers": [
+            {"id":"SSC-SUB-26-GA-GEO-PENINSULAR-RIVERS-part-1","linkStr":"SSC-SUB-26-GA-GEO-PENINSULAR-RIVERS&section=PART-1","title":"SSC 2026 PENINSULAR RIVERS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Dams, Lakes and Waterfall": [
+            {"id":"SSC-SUB-26-GA-GEO-DAMS-LAKES-AND-WATERFALL-part-1","linkStr":"SSC-SUB-26-GA-GEO-DAMS-LAKES-AND-WATERFALL&section=PART-1","title":"SSC 2026 DAMS, LAKES AND WATERFALL PART-1","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
+          ],
+          "Soil": [
+            {"id":"SSC-SUB-26-GA-GEO-SOIL-part-1","linkStr":"SSC-SUB-26-GA-GEO-SOIL&section=PART-1","title":"SSC 2026 SOIL PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Agriculture": [
+            {"id":"SSC-SUB-26-GA-GEO-AGRICULTURE-part-1","linkStr":"SSC-SUB-26-GA-GEO-AGRICULTURE&section=PART-1","title":"SSC 2026 AGRICULTURE PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Minerals": [
+            {"id":"SSC-SUB-26-GA-GEO-MINERALS-part-1","linkStr":"SSC-SUB-26-GA-GEO-MINERALS&section=PART-1","title":"SSC 2026 MINERALS PART-1","type":"paid","releaseDate":"","qs":7,"time":"4 Min","marks":14}
+          ],
+          "World Map": [
+            {"id":"SSC-SUB-26-GA-GEO-WORLD-MAP-part-1","linkStr":"SSC-SUB-26-GA-GEO-WORLD-MAP&section=PART-1","title":"SSC 2026 WORLD MAP PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Human Geography": [
+            {"id":"SSC-SUB-26-GA-GEO-HUMAN-GEOGRAPHY-part-1","linkStr":"SSC-SUB-26-GA-GEO-HUMAN-GEOGRAPHY&section=PART-1","title":"SSC 2026 HUMAN GEOGRAPHY PART-1","type":"paid","releaseDate":"","qs":15,"time":"9 Min","marks":30}
+          ],
+          "Transport": [
+            {"id":"SSC-SUB-26-GA-GEO-TRANSPORT-part-1","linkStr":"SSC-SUB-26-GA-GEO-TRANSPORT&section=PART-1","title":"SSC 2026 TRANSPORT PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-GEO-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-GEO-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ]
+        },
+        "Physics": {
+          "Force and Laws of Motion": [
+            {"id":"SSC-SUB-26-GA-PHY-FORCE-AND-LAWS-OF-MOTION-part-1","linkStr":"SSC-SUB-26-GA-PHY-FORCE-AND-LAWS-OF-MOTION&section=PART-1","title":"SSC 2026 FORCE AND LAWS OF MOTION PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Gravitation and Work Done": [
+            {"id":"SSC-SUB-26-GA-PHY-GRAVITATION-AND-WORK-DONE-part-1","linkStr":"SSC-SUB-26-GA-PHY-GRAVITATION-AND-WORK-DONE&section=PART-1","title":"SSC 2026 GRAVITATION AND WORK DONE PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Electricity": [
+            {"id":"SSC-SUB-26-GA-PHY-ELECTRICITY-part-1","linkStr":"SSC-SUB-26-GA-PHY-ELECTRICITY&section=PART-1","title":"SSC 2026 ELECTRICITY PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Magnetic Effect of Electric Current": [
+            {"id":"SSC-SUB-26-GA-PHY-MAGNETIC-EFFECT-OF-ELECTRIC-CURRENT-part-1","linkStr":"SSC-SUB-26-GA-PHY-MAGNETIC-EFFECT-OF-ELECTRIC-CURRENT&section=PART-1","title":"SSC 2026 MAGNETIC EFFECT OF ELECTRIC CURRENT PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Nuclear Technology": [
+            {"id":"SSC-SUB-26-GA-PHY-NUCLEAR-TECHNOLOGY-part-1","linkStr":"SSC-SUB-26-GA-PHY-NUCLEAR-TECHNOLOGY&section=PART-1","title":"SSC 2026 NUCLEAR TECHNOLOGY PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Radioactivity": [
+            {"id":"SSC-SUB-26-GA-PHY-RADIOACTIVITY-part-1","linkStr":"SSC-SUB-26-GA-PHY-RADIOACTIVITY&section=PART-1","title":"SSC 2026 RADIOACTIVITY PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-PHY-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-PHY-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":13,"time":"8 Min","marks":26}
+          ]
+        },
+        "Chemistry": {
+          "Matter": [
+            {"id":"SSC-SUB-26-GA-CHE-MATTER-part-1","linkStr":"SSC-SUB-26-GA-CHE-MATTER&section=PART-1","title":"SSC 2026 MATTER PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Metals and Non-Metals": [
+            {"id":"SSC-SUB-26-GA-CHE-METALS-AND-NON-METALS-part-1","linkStr":"SSC-SUB-26-GA-CHE-METALS-AND-NON-METALS&section=PART-1","title":"SSC 2026 METALS AND NON-METALS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Acid, Base and Salt": [
+            {"id":"SSC-SUB-26-GA-CHE-ACID-BASE-AND-SALT-part-1","linkStr":"SSC-SUB-26-GA-CHE-ACID-BASE-AND-SALT&section=PART-1","title":"SSC 2026 ACID, BASE AND SALT PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-CHE-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-CHE-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ]
+        },
+        "Biology": {
+          "Cell": [
+            {"id":"SSC-SUB-26-GA-BIO-CELL-part-1","linkStr":"SSC-SUB-26-GA-BIO-CELL&section=PART-1","title":"SSC 2026 CELL PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Plant Tissue and Animal Tissue": [
+            {"id":"SSC-SUB-26-GA-BIO-PLANT-TISSUE-AND-ANIMAL-TISSUE-part-1","linkStr":"SSC-SUB-26-GA-BIO-PLANT-TISSUE-AND-ANIMAL-TISSUE&section=PART-1","title":"SSC 2026 PLANT TISSUE AND ANIMAL TISSUE PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Plant and Animal Kingdom": [
+            {"id":"SSC-SUB-26-GA-BIO-PLANT-AND-ANIMAL-KINGDOM-part-1","linkStr":"SSC-SUB-26-GA-BIO-PLANT-AND-ANIMAL-KINGDOM&section=PART-1","title":"SSC 2026 PLANT AND ANIMAL KINGDOM PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Nervous System": [
+            {"id":"SSC-SUB-26-GA-BIO-NERVOUS-SYSTEM-part-1","linkStr":"SSC-SUB-26-GA-BIO-NERVOUS-SYSTEM&section=PART-1","title":"SSC 2026 NERVOUS SYSTEM PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Hormones and Plant Movement": [
+            {"id":"SSC-SUB-26-GA-BIO-HORMONES-AND-PLANT-MOVEMENT-part-1","linkStr":"SSC-SUB-26-GA-BIO-HORMONES-AND-PLANT-MOVEMENT&section=PART-1","title":"SSC 2026 HORMONES AND PLANT MOVEMENT PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Reproduction": [
+            {"id":"SSC-SUB-26-GA-BIO-REPRODUCTION-part-1","linkStr":"SSC-SUB-26-GA-BIO-REPRODUCTION&section=PART-1","title":"SSC 2026 REPRODUCTION PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Diseases": [
+            {"id":"SSC-SUB-26-GA-BIO-DISEASES-part-1","linkStr":"SSC-SUB-26-GA-BIO-DISEASES&section=PART-1","title":"SSC 2026 DISEASES PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Nutrients": [
+            {"id":"SSC-SUB-26-GA-BIO-NUTRIENTS-part-1","linkStr":"SSC-SUB-26-GA-BIO-NUTRIENTS&section=PART-1","title":"SSC 2026 NUTRIENTS PART-1","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+          ],
+          "Heredity and Evolution": [
+            {"id":"SSC-SUB-26-GA-BIO-HEREDITY-AND-EVOLUTION-part-1","linkStr":"SSC-SUB-26-GA-BIO-HEREDITY-AND-EVOLUTION&section=PART-1","title":"SSC 2026 HEREDITY AND EVOLUTION PART-1","type":"paid","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+          ]
+        },
+        "Science and Technology": {
+          "Science and Technology": [
+            {"id":"SSC-SUB-26-GA-SNT-SCIENCE-AND-TECHNOLOGY-part-1","linkStr":"SSC-SUB-26-GA-SNT-SCIENCE-AND-TECHNOLOGY&section=PART-1","title":"SSC 2026 SCIENCE AND TECHNOLOGY PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+            {"id":"SSC-SUB-26-GA-SNT-SCIENCE-AND-TECHNOLOGY-part-2","linkStr":"SSC-SUB-26-GA-SNT-SCIENCE-AND-TECHNOLOGY&section=PART-2","title":"SSC 2026 SCIENCE AND TECHNOLOGY PART-2","type":"paid","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+          ]
+        },
+        "Environment": {
+          "Basics of Environmental Sciences": [
+            {"id":"SSC-SUB-26-GA-ENV-BASICS-OF-ENVIRONMENTAL-SCIENCES-part-1","linkStr":"SSC-SUB-26-GA-ENV-BASICS-OF-ENVIRONMENTAL-SCIENCES&section=PART-1","title":"SSC 2026 BASICS OF ENVIRONMENTAL SCIENCES PART-1","type":"paid","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+          ],
+          "Ecosystem": [
+            {"id":"SSC-SUB-26-GA-ENV-ECOSYSTEM-part-1","linkStr":"SSC-SUB-26-GA-ENV-ECOSYSTEM&section=PART-1","title":"SSC 2026 ECOSYSTEM PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Environmental Conventions": [
+            {"id":"SSC-SUB-26-GA-ENV-ENVIRONMENTAL-CONVENTIONS-part-1","linkStr":"SSC-SUB-26-GA-ENV-ENVIRONMENTAL-CONVENTIONS&section=PART-1","title":"SSC 2026 ENVIRONMENTAL CONVENTIONS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "National Parks": [
+            {"id":"SSC-SUB-26-GA-ENV-NATIONAL-PARKS-part-1","linkStr":"SSC-SUB-26-GA-ENV-NATIONAL-PARKS&section=PART-1","title":"SSC 2026 NATIONAL PARKS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-ENV-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-ENV-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ]
+        },
+        "Current Affairs": {
+          "National News": [
+            {"id":"SSC-SUB-26-GA-CUR-NATIONAL-NEWS-part-1","linkStr":"SSC-SUB-26-GA-CUR-NATIONAL-NEWS&section=PART-1","title":"SSC 2026 NATIONAL NEWS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ],
+          "International News": [
+            {"id":"SSC-SUB-26-GA-CUR-INTERNATIONAL-NEWS-part-1","linkStr":"SSC-SUB-26-GA-CUR-INTERNATIONAL-NEWS&section=PART-1","title":"SSC 2026 INTERNATIONAL NEWS PART-1","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+          ],
+          "Appointments and Resignations": [
+            {"id":"SSC-SUB-26-GA-CUR-APPOINTMENTS-AND-RESIGNATIONS-part-1","linkStr":"SSC-SUB-26-GA-CUR-APPOINTMENTS-AND-RESIGNATIONS&section=PART-1","title":"SSC 2026 APPOINTMENTS AND RESIGNATIONS PART-1","type":"paid","releaseDate":"","qs":11,"time":"7 Min","marks":22}
+          ],
+          "Awards and Honours (Current)": [
+            {"id":"SSC-SUB-26-GA-CUR-AWARDS-AND-HONOURS-CURRENT-part-1","linkStr":"SSC-SUB-26-GA-CUR-AWARDS-AND-HONOURS-CURRENT&section=PART-1","title":"SSC 2026 AWARDS AND HONOURS (CURRENT) PART-1","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
+          ],
+          "Reports and Indices (Current)": [
+            {"id":"SSC-SUB-26-GA-CUR-REPORTS-AND-INDICES-CURRENT-part-1","linkStr":"SSC-SUB-26-GA-CUR-REPORTS-AND-INDICES-CURRENT&section=PART-1","title":"SSC 2026 REPORTS AND INDICES (CURRENT) PART-1","type":"paid","releaseDate":"","qs":19,"time":"11 Min","marks":38}
+          ],
+          "Government Schemes and Policies (Current)": [
+            {"id":"SSC-SUB-26-GA-CUR-GOVERNMENT-SCHEMES-AND-POLICIES-CURRENT-part-1","linkStr":"SSC-SUB-26-GA-CUR-GOVERNMENT-SCHEMES-AND-POLICIES-CURRENT&section=PART-1","title":"SSC 2026 GOVERNMENT SCHEMES AND POLICIES (CURRENT) PART-1","type":"paid","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+          ],
+          "MoUs and Agreements": [
+            {"id":"SSC-SUB-26-GA-CUR-MOUS-AND-AGREEMENTS-part-1","linkStr":"SSC-SUB-26-GA-CUR-MOUS-AND-AGREEMENTS&section=PART-1","title":"SSC 2026 MOUS AND AGREEMENTS PART-1","type":"paid","releaseDate":"","qs":2,"time":"1 Min","marks":4}
+          ],
+          "Miscellaneous": [
+            {"id":"SSC-SUB-26-GA-CUR-MISCELLANEOUS-part-1","linkStr":"SSC-SUB-26-GA-CUR-MISCELLANEOUS&section=PART-1","title":"SSC 2026 MISCELLANEOUS PART-1","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+          ]
+        }
+      }
+    },
+
     "2025": {
       "Math": {
         "PERCENTAGE": [
