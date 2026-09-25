@@ -1,0 +1,1147 @@
+{
+  "year": "2026",
+  "config": {
+    "default": {
+      "partQs": 25,
+      "marksPerQ": 2,
+      "partSuffixId": "-part-",
+      "partSuffixLink": "&section=PART-",
+      "partSuffixTitle": " PART-",
+      "mergeLast": false,
+      "mergeThreshold": 15
+    }
+  },
+  "2026": {
+    "Math": {},
+    "Reasoning": {
+      "MATHEMATICAL OPERATIONS": {
+        "id": "SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS",
+        "title": "SSC 2026 MATHEMATICAL OPERATIONS",
+        "totalQs": 24,
+        "type": "free",
+        "partQs": 24
+      },
+      "ADDRESS/SENTENCE MATCHING": {
+        "id": "SSC-SUB-26-REASONING-ADDRESS-SENTENCE-MATCHING",
+        "title": "SSC 2026 ADDRESS/SENTENCE MATCHING",
+        "totalQs": 23,
+        "type": "free",
+        "partQs": 23
+      },
+      "AGE PROBLEMS": {
+        "id": "SSC-SUB-26-REASONING-AGE-PROBLEMS",
+        "title": "SSC 2026 AGE PROBLEMS",
+        "totalQs": 9,
+        "type": "free",
+        "partQs": 9
+      },
+      "ALPHANUMERIC SERIES": {
+        "id": "SSC-SUB-26-REASONING-ALPHANUMERIC-SERIES",
+        "title": "SSC 2026 ALPHANUMERIC SERIES",
+        "totalQs": 1,
+        "type": "free",
+        "partQs": 1
+      },
+      "BLOOD RELATIONS": {
+        "id": "SSC-SUB-26-REASONING-BLOOD-RELATIONS",
+        "title": "SSC 2026 BLOOD RELATIONS",
+        "totalQs": 8,
+        "type": "free",
+        "partQs": 8
+      },
+      "CALENDAR": {
+        "id": "SSC-SUB-26-REASONING-CALENDAR",
+        "title": "SSC 2026 CALENDAR",
+        "totalQs": 5,
+        "type": "free",
+        "partQs": 5
+      },
+      "CLOCK": {
+        "id": "SSC-SUB-26-REASONING-CLOCK",
+        "title": "SSC 2026 CLOCK",
+        "totalQs": 1,
+        "type": "free",
+        "partQs": 1
+      },
+      "CODING & DECODING": {
+        "id": "SSC-SUB-26-REASONING-CODING-AND-DECODING",
+        "title": "SSC 2026 CODING & DECODING",
+        "totalQs": 35,
+        "type": "free"
+      },
+      "DECISION MAKING": {
+        "id": "SSC-SUB-26-REASONING-DECISION-MAKING",
+        "title": "SSC 2026 DECISION MAKING",
+        "totalQs": 4,
+        "type": "free",
+        "partQs": 4
+      },
+      "DICTIONARY / ALPHABETICAL ORDER": {
+        "id": "SSC-SUB-26-REASONING-DICTIONARY-ALPHABETICAL-ORDER",
+        "title": "SSC 2026 DICTIONARY / ALPHABETICAL ORDER",
+        "totalQs": 1,
+        "type": "free",
+        "partQs": 1
+      },
+      "DIRECTION & DISTANCE": {
+        "id": "SSC-SUB-26-REASONING-DIRECTION-AND-DISTANCE",
+        "title": "SSC 2026 DIRECTION & DISTANCE",
+        "totalQs": 15,
+        "type": "free",
+        "partQs": 15
+      },
+      "FIGURE ANALOGY": {
+        "id": "SSC-SUB-26-REASONING-FIGURE-ANALOGY",
+        "title": "SSC 2026 FIGURE ANALOGY",
+        "totalQs": 4,
+        "type": "free",
+        "partQs": 4
+      },
+      "FIGURE COMPLETING": {
+        "id": "SSC-SUB-26-REASONING-FIGURE-COMPLETING",
+        "title": "SSC 2026 FIGURE COMPLETING",
+        "totalQs": 1,
+        "type": "free",
+        "partQs": 1
+      },
+      "FIGURE SERIES": {
+        "id": "SSC-SUB-26-REASONING-FIGURE-SERIES",
+        "title": "SSC 2026 FIGURE SERIES",
+        "totalQs": 8,
+        "type": "free",
+        "partQs": 8
+      },
+      "INEQUALITY": {
+        "id": "SSC-SUB-26-REASONING-INEQUALITY",
+        "title": "SSC 2026 INEQUALITY",
+        "totalQs": 12,
+        "type": "free",
+        "partQs": 12
+      },
+      "INPUT-OUTPUT": {
+        "id": "SSC-SUB-26-REASONING-INPUT-OUTPUT",
+        "title": "SSC 2026 INPUT-OUTPUT",
+        "totalQs": 9,
+        "type": "free",
+        "partQs": 9
+      },
+      "LETTER SERIES": {
+        "id": "SSC-SUB-26-REASONING-LETTER-SERIES",
+        "title": "SSC 2026 LETTER SERIES",
+        "totalQs": 30,
+        "type": "free"
+      },
+      "LETTER/ALPHABETICAL ANALOGY": {
+        "id": "SSC-SUB-26-REASONING-LETTER-ALPHABETICAL-ANALOGY",
+        "title": "SSC 2026 LETTER/ALPHABETICAL ANALOGY",
+        "totalQs": 16,
+        "type": "free",
+        "partQs": 16
+      },
+      "LETTER/WORD POSITION ANALYSIS": {
+        "id": "SSC-SUB-26-REASONING-LETTER-WORD-POSITION-ANALYSIS",
+        "title": "SSC 2026 LETTER/WORD POSITION ANALYSIS",
+        "totalQs": 5,
+        "type": "free",
+        "partQs": 5
+      },
+      "MISCELLANEOUS": {
+        "id": "SSC-SUB-26-REASONING-MISCELLANEOUS",
+        "title": "SSC 2026 MISCELLANEOUS",
+        "totalQs": 25,
+        "type": "free"
+      },
+      "MISSING NUMBER": {
+        "id": "SSC-SUB-26-REASONING-MISSING-NUMBER",
+        "title": "SSC 2026 MISSING NUMBER",
+        "totalQs": 7,
+        "type": "free",
+        "partQs": 7
+      },
+      "MIXED ARRANGEMENT": {
+        "id": "SSC-SUB-26-REASONING-MIXED-ARRANGEMENT",
+        "title": "SSC 2026 MIXED ARRANGEMENT",
+        "totalQs": 18,
+        "type": "free",
+        "partQs": 18
+      },
+      "NON-VERBAL: COUNTING FIGURES": {
+        "id": "SSC-SUB-26-REASONING-NON-VERBAL-COUNTING-FIGURES",
+        "title": "SSC 2026 NON-VERBAL: COUNTING FIGURES",
+        "totalQs": 8,
+        "type": "free",
+        "partQs": 8
+      },
+      "NON-VERBAL: EMBEDDED FIGURES": {
+        "id": "SSC-SUB-26-REASONING-NON-VERBAL-EMBEDDED-FIGURES",
+        "title": "SSC 2026 NON-VERBAL: EMBEDDED FIGURES",
+        "totalQs": 7,
+        "type": "free",
+        "partQs": 7
+      },
+      "NON-VERBAL: MIRROR & WATER IMAGES": {
+        "id": "SSC-SUB-26-REASONING-NON-VERBAL-MIRROR-AND-WATER-IMAGES",
+        "title": "SSC 2026 NON-VERBAL: MIRROR & WATER IMAGES",
+        "totalQs": 2,
+        "type": "free",
+        "partQs": 2
+      },
+      "NON-VERBAL: PAPER FOLDING & CUTTING": {
+        "id": "SSC-SUB-26-REASONING-NON-VERBAL-PAPER-FOLDING-AND-CUTTING",
+        "title": "SSC 2026 NON-VERBAL: PAPER FOLDING & CUTTING",
+        "totalQs": 7,
+        "type": "free",
+        "partQs": 7
+      },
+      "NUMBER ANALOGY": {
+        "id": "SSC-SUB-26-REASONING-NUMBER-ANALOGY",
+        "title": "SSC 2026 NUMBER ANALOGY",
+        "totalQs": 9,
+        "type": "free",
+        "partQs": 9
+      },
+      "NUMBER SERIES": {
+        "id": "SSC-SUB-26-REASONING-NUMBER-SERIES",
+        "title": "SSC 2026 NUMBER SERIES",
+        "totalQs": 15,
+        "type": "free",
+        "partQs": 15
+      },
+      "ODD ONE OUT": {
+        "id": "SSC-SUB-26-REASONING-ODD-ONE-OUT",
+        "title": "SSC 2026 ODD ONE OUT",
+        "totalQs": 31,
+        "type": "free"
+      },
+      "ORDER & RANKING": {
+        "id": "SSC-SUB-26-REASONING-ORDER-AND-RANKING",
+        "title": "SSC 2026 ORDER & RANKING",
+        "totalQs": 11,
+        "type": "free",
+        "partQs": 11
+      },
+      "SEATING ARRANGEMENT": {
+        "id": "SSC-SUB-26-REASONING-SEATING-ARRANGEMENT",
+        "title": "SSC 2026 SEATING ARRANGEMENT",
+        "totalQs": 23,
+        "type": "free",
+        "partQs": 23
+      },
+      "STATEMENT & ARGUMENT": {
+        "id": "SSC-SUB-26-REASONING-STATEMENT-AND-ARGUMENT",
+        "title": "SSC 2026 STATEMENT & ARGUMENT",
+        "totalQs": 4,
+        "type": "free",
+        "partQs": 4
+      },
+      "STATEMENT & ASSUMPTION": {
+        "id": "SSC-SUB-26-REASONING-STATEMENT-AND-ASSUMPTION",
+        "title": "SSC 2026 STATEMENT & ASSUMPTION",
+        "totalQs": 20,
+        "type": "free",
+        "partQs": 20
+      },
+      "STATEMENT & CONCLUSION": {
+        "id": "SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION",
+        "title": "SSC 2026 STATEMENT & CONCLUSION",
+        "totalQs": 36,
+        "type": "free"
+      },
+      "SYLLOGISM": {
+        "id": "SSC-SUB-26-REASONING-SYLLOGISM",
+        "title": "SSC 2026 SYLLOGISM",
+        "totalQs": 17,
+        "type": "free",
+        "partQs": 17
+      },
+      "VENN DIAGRAMS": {
+        "id": "SSC-SUB-26-REASONING-VENN-DIAGRAMS",
+        "title": "SSC 2026 VENN DIAGRAMS",
+        "totalQs": 1,
+        "type": "free",
+        "partQs": 1
+      },
+      "WORD ANALOGY": {
+        "id": "SSC-SUB-26-REASONING-WORD-ANALOGY",
+        "title": "SSC 2026 WORD ANALOGY",
+        "totalQs": 9,
+        "type": "free",
+        "partQs": 9
+      },
+      "WORD FORMATION": {
+        "id": "SSC-SUB-26-REASONING-WORD-FORMATION",
+        "title": "SSC 2026 WORD FORMATION",
+        "totalQs": 16,
+        "type": "free",
+        "partQs": 16
+      },
+      "CRITICAL REASONING": {
+        "id": "SSC-SUB-26-REASONING-CRITICAL-REASONING",
+        "title": "SSC 2026 CRITICAL REASONING",
+        "totalQs": 73,
+        "type": "free"
+      }
+    },
+    "English": {
+      "SYNONYM": {
+        "id": "SSC-SUB-26-ENGLISH-SYNONYM",
+        "title": "SSC 2026 SYNONYM",
+        "totalQs": 68,
+        "type": "free"
+      },
+      "ANTONYM": {
+        "id": "SSC-SUB-26-ENGLISH-ANTONYM",
+        "title": "SSC 2026 ANTONYM",
+        "totalQs": 59,
+        "type": "paid"
+      },
+      "ONE WORD SUBSTITUTION": {
+        "id": "SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION",
+        "title": "SSC 2026 ONE WORD SUBSTITUTION",
+        "totalQs": 62,
+        "type": "paid"
+      },
+      "IDIOMS AND PHRASES": {
+        "id": "SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES",
+        "title": "SSC 2026 IDIOMS AND PHRASES",
+        "totalQs": 71,
+        "type": "paid"
+      },
+      "HOMOPHONES AND HOMONYMS": {
+        "id": "SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS",
+        "title": "SSC 2026 HOMOPHONES AND HOMONYMS",
+        "totalQs": 24,
+        "type": "paid",
+        "partQs": 24
+      },
+      "SPELLING CHECK": {
+        "id": "SSC-SUB-26-ENGLISH-SPELLING-CHECK",
+        "title": "SSC 2026 SPELLING CHECK",
+        "totalQs": 112,
+        "type": "paid"
+      },
+      "ACTIVE PASSIVE VOICE": {
+        "id": "SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE",
+        "title": "SSC 2026 ACTIVE PASSIVE VOICE",
+        "totalQs": 103,
+        "type": "paid"
+      },
+      "DIRECT INDIRECT (NARRATION)": {
+        "id": "SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION",
+        "title": "SSC 2026 DIRECT INDIRECT (NARRATION)",
+        "totalQs": 105,
+        "type": "paid"
+      },
+      "FILL IN THE BLANKS": {
+        "id": "SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS",
+        "title": "SSC 2026 FILL IN THE BLANKS",
+        "totalQs": 63,
+        "type": "paid"
+      },
+      "SENTENCE IMPROVEMENT": {
+        "id": "SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT",
+        "title": "SSC 2026 SENTENCE IMPROVEMENT",
+        "totalQs": 61,
+        "type": "paid"
+      },
+      "SENTENCE REARRANGEMENT": {
+        "id": "SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT",
+        "title": "SSC 2026 SENTENCE REARRANGEMENT",
+        "totalQs": 10,
+        "type": "paid",
+        "partQs": 10
+      },
+      "SPOTTING ERRORS": {
+        "id": "SSC-SUB-26-ENGLISH-SPOTTING-ERRORS",
+        "title": "SSC 2026 SPOTTING ERRORS",
+        "totalQs": 56,
+        "type": "paid"
+      },
+      "Para Jumbles (PQRS)": {
+        "id": "SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS",
+        "title": "SSC 2026 PARA JUMBLES (PQRS)",
+        "totalQs": 96,
+        "type": "paid"
+      },
+      "Cloze Test": {
+        "id": "SSC-SUB-26-ENGLISH-CLOZE-TEST",
+        "title": "SSC 2026 CLOZE TEST",
+        "totalQs": 110,
+        "type": "paid"
+      },
+      "PASSAGE": {
+        "id": "SSC-SUB-26-ENGLISH-PASSAGE",
+        "title": "SSC 2026 PASSAGE",
+        "totalQs": 100,
+        "type": "paid"
+      }
+    },
+    "General Awareness": {
+      "Static GK": {
+        "Sports(Static & Current)": {
+          "id": "SSC-SUB-26-GA-STG-SPORTS-STATIC-AND-CURRENT",
+          "title": "SSC 2026 SPORTS(STATIC & CURRENT)",
+          "totalQs": 48,
+          "type": "free"
+        },
+        "Music and Musical Instruments": {
+          "id": "SSC-SUB-26-GA-STG-MUSIC-AND-MUSICAL-INSTRUMENTS",
+          "title": "SSC 2026 MUSIC AND MUSICAL INSTRUMENTS",
+          "totalQs": 23,
+          "type": "paid",
+          "partQs": 23
+        },
+        "Classical Dance": {
+          "id": "SSC-SUB-26-GA-STG-CLASSICAL-DANCE",
+          "title": "SSC 2026 CLASSICAL DANCE",
+          "totalQs": 7,
+          "type": "paid",
+          "partQs": 7
+        },
+        "Folk Dances and Festivals": {
+          "id": "SSC-SUB-26-GA-STG-FOLK-DANCES-AND-FESTIVALS",
+          "title": "SSC 2026 FOLK DANCES AND FESTIVALS",
+          "totalQs": 35,
+          "type": "paid"
+        },
+        "Books and Authors": {
+          "id": "SSC-SUB-26-GA-STG-BOOKS-AND-AUTHORS",
+          "title": "SSC 2026 BOOKS AND AUTHORS",
+          "totalQs": 14,
+          "type": "paid",
+          "partQs": 14
+        },
+        "International Organisations": {
+          "id": "SSC-SUB-26-GA-STG-INTERNATIONAL-ORGANISATIONS",
+          "title": "SSC 2026 INTERNATIONAL ORGANISATIONS",
+          "totalQs": 6,
+          "type": "paid",
+          "partQs": 6
+        },
+        "Awards and Honours": {
+          "id": "SSC-SUB-26-GA-STG-AWARDS-AND-HONOURS",
+          "title": "SSC 2026 AWARDS AND HONOURS",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Government Schemes": {
+          "id": "SSC-SUB-26-GA-STG-GOVERNMENT-SCHEMES",
+          "title": "SSC 2026 GOVERNMENT SCHEMES",
+          "totalQs": 6,
+          "type": "paid",
+          "partQs": 6
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-STG-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 11,
+          "type": "paid",
+          "partQs": 11
+        }
+      },
+      "Ancient History": {
+        "Stone Age": {
+          "id": "SSC-SUB-26-GA-ANH-STONE-AGE",
+          "title": "SSC 2026 STONE AGE",
+          "totalQs": 6,
+          "type": "paid",
+          "partQs": 6
+        },
+        "Indus Valley Civilization": {
+          "id": "SSC-SUB-26-GA-ANH-INDUS-VALLEY-CIVILIZATION",
+          "title": "SSC 2026 INDUS VALLEY CIVILIZATION",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Vedic Age": {
+          "id": "SSC-SUB-26-GA-ANH-VEDIC-AGE",
+          "title": "SSC 2026 VEDIC AGE",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Jainism and Buddhism": {
+          "id": "SSC-SUB-26-GA-ANH-JAINISM-AND-BUDDHISM",
+          "title": "SSC 2026 JAINISM AND BUDDHISM",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Post-Maurya Dynasties": {
+          "id": "SSC-SUB-26-GA-ANH-POST-MAURYA-DYNASTIES",
+          "title": "SSC 2026 POST-MAURYA DYNASTIES",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Gupta Dynasty": {
+          "id": "SSC-SUB-26-GA-ANH-GUPTA-DYNASTY",
+          "title": "SSC 2026 GUPTA DYNASTY",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Tripartite Struggle and Cholas": {
+          "id": "SSC-SUB-26-GA-ANH-TRIPARTITE-STRUGGLE-AND-CHOLAS",
+          "title": "SSC 2026 TRIPARTITE STRUGGLE AND CHOLAS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-ANH-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        }
+      },
+      "Medieval History": {
+        "Delhi Sultanate": {
+          "id": "SSC-SUB-26-GA-MDH-DELHI-SULTANATE",
+          "title": "SSC 2026 DELHI SULTANATE",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Vijayanagara and Bahmani Kingdom": {
+          "id": "SSC-SUB-26-GA-MDH-VIJAYANAGARA-AND-BAHMANI-KINGDOM",
+          "title": "SSC 2026 VIJAYANAGARA AND BAHMANI KINGDOM",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "The Mughal Empire": {
+          "id": "SSC-SUB-26-GA-MDH-THE-MUGHAL-EMPIRE",
+          "title": "SSC 2026 THE MUGHAL EMPIRE",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Marathas": {
+          "id": "SSC-SUB-26-GA-MDH-MARATHAS",
+          "title": "SSC 2026 MARATHAS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-MDH-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        }
+      },
+      "Modern History": {
+        "Socio Religious Reforms": {
+          "id": "SSC-SUB-26-GA-MDN-SOCIO-RELIGIOUS-REFORMS",
+          "title": "SSC 2026 SOCIO RELIGIOUS REFORMS",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Revolt of 1857": {
+          "id": "SSC-SUB-26-GA-MDN-REVOLT-OF-1857",
+          "title": "SSC 2026 REVOLT OF 1857",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Governor-General and Viceroy": {
+          "id": "SSC-SUB-26-GA-MDN-GOVERNOR-GENERAL-AND-VICEROY",
+          "title": "SSC 2026 GOVERNOR-GENERAL AND VICEROY",
+          "totalQs": 12,
+          "type": "paid",
+          "partQs": 12
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-MDN-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 7,
+          "type": "paid",
+          "partQs": 7
+        }
+      },
+      "Economics": {
+        "National Income": {
+          "id": "SSC-SUB-26-GA-ECO-NATIONAL-INCOME",
+          "title": "SSC 2026 NATIONAL INCOME",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Budget and Taxation": {
+          "id": "SSC-SUB-26-GA-ECO-BUDGET-AND-TAXATION",
+          "title": "SSC 2026 BUDGET AND TAXATION",
+          "totalQs": 7,
+          "type": "paid",
+          "partQs": 7
+        },
+        "Inflation and Unemployment": {
+          "id": "SSC-SUB-26-GA-ECO-INFLATION-AND-UNEMPLOYMENT",
+          "title": "SSC 2026 INFLATION AND UNEMPLOYMENT",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Banking": {
+          "id": "SSC-SUB-26-GA-ECO-BANKING",
+          "title": "SSC 2026 BANKING",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "Monetary Policy": {
+          "id": "SSC-SUB-26-GA-ECO-MONETARY-POLICY",
+          "title": "SSC 2026 MONETARY POLICY",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Poverty and Balance of Payment": {
+          "id": "SSC-SUB-26-GA-ECO-POVERTY-AND-BALANCE-OF-PAYMENT",
+          "title": "SSC 2026 POVERTY AND BALANCE OF PAYMENT",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "1991 Reforms And Industrial policy": {
+          "id": "SSC-SUB-26-GA-ECO-1991-REFORMS-AND-INDUSTRIAL-POLICY",
+          "title": "SSC 2026 1991 REFORMS AND INDUSTRIAL POLICY",
+          "totalQs": 22,
+          "type": "paid",
+          "partQs": 22
+        },
+        "Five Year Plan and Industrial Policy Resolution": {
+          "id": "SSC-SUB-26-GA-ECO-FIVE-YEAR-PLAN-AND-INDUSTRIAL-POLICY-RESOLUTION",
+          "title": "SSC 2026 FIVE YEAR PLAN AND INDUSTRIAL POLICY RESOLUTION",
+          "totalQs": 20,
+          "type": "paid",
+          "partQs": 20
+        },
+        "Reports and Indices": {
+          "id": "SSC-SUB-26-GA-ECO-REPORTS-AND-INDICES",
+          "title": "SSC 2026 REPORTS AND INDICES",
+          "totalQs": 6,
+          "type": "paid",
+          "partQs": 6
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-ECO-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        }
+      },
+      "Polity": {
+        "Making of Constitution": {
+          "id": "SSC-SUB-26-GA-POL-MAKING-OF-CONSTITUTION",
+          "title": "SSC 2026 MAKING OF CONSTITUTION",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Salient Features of the Constitution": {
+          "id": "SSC-SUB-26-GA-POL-SALIENT-FEATURES-OF-THE-CONSTITUTION",
+          "title": "SSC 2026 SALIENT FEATURES OF THE CONSTITUTION",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Preamble": {
+          "id": "SSC-SUB-26-GA-POL-PREAMBLE",
+          "title": "SSC 2026 PREAMBLE",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Fundamental Rights": {
+          "id": "SSC-SUB-26-GA-POL-FUNDAMENTAL-RIGHTS",
+          "title": "SSC 2026 FUNDAMENTAL RIGHTS",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "DPSP and Fundamental Duties": {
+          "id": "SSC-SUB-26-GA-POL-DPSP-AND-FUNDAMENTAL-DUTIES",
+          "title": "SSC 2026 DPSP AND FUNDAMENTAL DUTIES",
+          "totalQs": 5,
+          "type": "paid",
+          "partQs": 5
+        },
+        "President and Vice President of India": {
+          "id": "SSC-SUB-26-GA-POL-PRESIDENT-AND-VICE-PRESIDENT-OF-INDIA",
+          "title": "SSC 2026 PRESIDENT AND VICE PRESIDENT OF INDIA",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Prime Minister and Council of Ministers": {
+          "id": "SSC-SUB-26-GA-POL-PRIME-MINISTER-AND-COUNCIL-OF-MINISTERS",
+          "title": "SSC 2026 PRIME MINISTER AND COUNCIL OF MINISTERS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Parliament": {
+          "id": "SSC-SUB-26-GA-POL-PARLIAMENT",
+          "title": "SSC 2026 PARLIAMENT",
+          "totalQs": 5,
+          "type": "paid",
+          "partQs": 5
+        },
+        "State Legislature": {
+          "id": "SSC-SUB-26-GA-POL-STATE-LEGISLATURE",
+          "title": "SSC 2026 STATE LEGISLATURE",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Centre-State Relations": {
+          "id": "SSC-SUB-26-GA-POL-CENTRE-STATE-RELATIONS",
+          "title": "SSC 2026 CENTRE-STATE RELATIONS",
+          "totalQs": 9,
+          "type": "paid",
+          "partQs": 9
+        },
+        "Emergency & Constitutional Amendment": {
+          "id": "SSC-SUB-26-GA-POL-EMERGENCY-AND-CONSTITUTIONAL-AMENDMENT",
+          "title": "SSC 2026 EMERGENCY & CONSTITUTIONAL AMENDMENT",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "Supreme Court and High Court": {
+          "id": "SSC-SUB-26-GA-POL-SUPREME-COURT-AND-HIGH-COURT",
+          "title": "SSC 2026 SUPREME COURT AND HIGH COURT",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Constitutional and Non-Constitutional Bodies": {
+          "id": "SSC-SUB-26-GA-POL-CONSTITUTIONAL-AND-NON-CONSTITUTIONAL-BODIES",
+          "title": "SSC 2026 CONSTITUTIONAL AND NON-CONSTITUTIONAL BODIES",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "New Criminal Laws 2023": {
+          "id": "SSC-SUB-26-GA-POL-NEW-CRIMINAL-LAWS-2023",
+          "title": "SSC 2026 NEW CRIMINAL LAWS 2023",
+          "totalQs": 10,
+          "type": "paid",
+          "partQs": 10
+        },
+        "Important Acts": {
+          "id": "SSC-SUB-26-GA-POL-IMPORTANT-ACTS",
+          "title": "SSC 2026 IMPORTANT ACTS",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Sources of the Indian Constitution": {
+          "id": "SSC-SUB-26-GA-POL-SOURCES-OF-THE-INDIAN-CONSTITUTION",
+          "title": "SSC 2026 SOURCES OF THE INDIAN CONSTITUTION",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-POL-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        }
+      },
+      "Geography": {
+        "Solar System": {
+          "id": "SSC-SUB-26-GA-GEO-SOLAR-SYSTEM",
+          "title": "SSC 2026 SOLAR SYSTEM",
+          "totalQs": 7,
+          "type": "paid",
+          "partQs": 7
+        },
+        "Earth's Interior and Plate Tectonics & Latitude and Longitude": {
+          "id": "SSC-SUB-26-GA-GEO-EARTH-S-INTERIOR-AND-PLATE-TECTONICS-AND-LATITUDE-AND-LONGITUDE",
+          "title": "SSC 2026 EARTH'S INTERIOR AND PLATE TECTONICS & LATITUDE AND LONGITUDE",
+          "totalQs": 6,
+          "type": "paid",
+          "partQs": 6
+        },
+        "Landforms": {
+          "id": "SSC-SUB-26-GA-GEO-LANDFORMS",
+          "title": "SSC 2026 LANDFORMS",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Atmosphere": {
+          "id": "SSC-SUB-26-GA-GEO-ATMOSPHERE",
+          "title": "SSC 2026 ATMOSPHERE",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Wind, Ocean Current, and Cyclone": {
+          "id": "SSC-SUB-26-GA-GEO-WIND-OCEAN-CURRENT-AND-CYCLONE",
+          "title": "SSC 2026 WIND, OCEAN CURRENT, AND CYCLONE",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "India and Its Location": {
+          "id": "SSC-SUB-26-GA-GEO-INDIA-AND-ITS-LOCATION",
+          "title": "SSC 2026 INDIA AND ITS LOCATION",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "Himalayas": {
+          "id": "SSC-SUB-26-GA-GEO-HIMALAYAS",
+          "title": "SSC 2026 HIMALAYAS",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "Peninsular Plateau": {
+          "id": "SSC-SUB-26-GA-GEO-PENINSULAR-PLATEAU",
+          "title": "SSC 2026 PENINSULAR PLATEAU",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "Northern Plains and Islands": {
+          "id": "SSC-SUB-26-GA-GEO-NORTHERN-PLAINS-AND-ISLANDS",
+          "title": "SSC 2026 NORTHERN PLAINS AND ISLANDS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Himalayan River System": {
+          "id": "SSC-SUB-26-GA-GEO-HIMALAYAN-RIVER-SYSTEM",
+          "title": "SSC 2026 HIMALAYAN RIVER SYSTEM",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "Peninsular Rivers": {
+          "id": "SSC-SUB-26-GA-GEO-PENINSULAR-RIVERS",
+          "title": "SSC 2026 PENINSULAR RIVERS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Dams, Lakes and Waterfall": {
+          "id": "SSC-SUB-26-GA-GEO-DAMS-LAKES-AND-WATERFALL",
+          "title": "SSC 2026 DAMS, LAKES AND WATERFALL",
+          "totalQs": 3,
+          "type": "paid",
+          "partQs": 3
+        },
+        "Soil": {
+          "id": "SSC-SUB-26-GA-GEO-SOIL",
+          "title": "SSC 2026 SOIL",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Agriculture": {
+          "id": "SSC-SUB-26-GA-GEO-AGRICULTURE",
+          "title": "SSC 2026 AGRICULTURE",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Minerals": {
+          "id": "SSC-SUB-26-GA-GEO-MINERALS",
+          "title": "SSC 2026 MINERALS",
+          "totalQs": 7,
+          "type": "paid",
+          "partQs": 7
+        },
+        "World Map": {
+          "id": "SSC-SUB-26-GA-GEO-WORLD-MAP",
+          "title": "SSC 2026 WORLD MAP",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Human Geography": {
+          "id": "SSC-SUB-26-GA-GEO-HUMAN-GEOGRAPHY",
+          "title": "SSC 2026 HUMAN GEOGRAPHY",
+          "totalQs": 15,
+          "type": "paid",
+          "partQs": 15
+        },
+        "Transport": {
+          "id": "SSC-SUB-26-GA-GEO-TRANSPORT",
+          "title": "SSC 2026 TRANSPORT",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-GEO-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        }
+      },
+      "Physics": {
+        "Force and Laws of Motion": {
+          "id": "SSC-SUB-26-GA-PHY-FORCE-AND-LAWS-OF-MOTION",
+          "title": "SSC 2026 FORCE AND LAWS OF MOTION",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Gravitation and Work Done": {
+          "id": "SSC-SUB-26-GA-PHY-GRAVITATION-AND-WORK-DONE",
+          "title": "SSC 2026 GRAVITATION AND WORK DONE",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Electricity": {
+          "id": "SSC-SUB-26-GA-PHY-ELECTRICITY",
+          "title": "SSC 2026 ELECTRICITY",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Magnetic Effect of Electric Current": {
+          "id": "SSC-SUB-26-GA-PHY-MAGNETIC-EFFECT-OF-ELECTRIC-CURRENT",
+          "title": "SSC 2026 MAGNETIC EFFECT OF ELECTRIC CURRENT",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Nuclear Technology": {
+          "id": "SSC-SUB-26-GA-PHY-NUCLEAR-TECHNOLOGY",
+          "title": "SSC 2026 NUCLEAR TECHNOLOGY",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Radioactivity": {
+          "id": "SSC-SUB-26-GA-PHY-RADIOACTIVITY",
+          "title": "SSC 2026 RADIOACTIVITY",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-PHY-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 13,
+          "type": "paid",
+          "partQs": 13
+        }
+      },
+      "Chemistry": {
+        "Matter": {
+          "id": "SSC-SUB-26-GA-CHE-MATTER",
+          "title": "SSC 2026 MATTER",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Metals and Non-Metals": {
+          "id": "SSC-SUB-26-GA-CHE-METALS-AND-NON-METALS",
+          "title": "SSC 2026 METALS AND NON-METALS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Acid, Base and Salt": {
+          "id": "SSC-SUB-26-GA-CHE-ACID-BASE-AND-SALT",
+          "title": "SSC 2026 ACID, BASE AND SALT",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-CHE-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        }
+      },
+      "Biology": {
+        "Cell": {
+          "id": "SSC-SUB-26-GA-BIO-CELL",
+          "title": "SSC 2026 CELL",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Plant Tissue and Animal Tissue": {
+          "id": "SSC-SUB-26-GA-BIO-PLANT-TISSUE-AND-ANIMAL-TISSUE",
+          "title": "SSC 2026 PLANT TISSUE AND ANIMAL TISSUE",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Plant and Animal Kingdom": {
+          "id": "SSC-SUB-26-GA-BIO-PLANT-AND-ANIMAL-KINGDOM",
+          "title": "SSC 2026 PLANT AND ANIMAL KINGDOM",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Nervous System": {
+          "id": "SSC-SUB-26-GA-BIO-NERVOUS-SYSTEM",
+          "title": "SSC 2026 NERVOUS SYSTEM",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Hormones and Plant Movement": {
+          "id": "SSC-SUB-26-GA-BIO-HORMONES-AND-PLANT-MOVEMENT",
+          "title": "SSC 2026 HORMONES AND PLANT MOVEMENT",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Reproduction": {
+          "id": "SSC-SUB-26-GA-BIO-REPRODUCTION",
+          "title": "SSC 2026 REPRODUCTION",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Diseases": {
+          "id": "SSC-SUB-26-GA-BIO-DISEASES",
+          "title": "SSC 2026 DISEASES",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Nutrients": {
+          "id": "SSC-SUB-26-GA-BIO-NUTRIENTS",
+          "title": "SSC 2026 NUTRIENTS",
+          "totalQs": 4,
+          "type": "paid",
+          "partQs": 4
+        },
+        "Heredity and Evolution": {
+          "id": "SSC-SUB-26-GA-BIO-HEREDITY-AND-EVOLUTION",
+          "title": "SSC 2026 HEREDITY AND EVOLUTION",
+          "totalQs": 5,
+          "type": "paid",
+          "partQs": 5
+        }
+      },
+      "Science and Technology": {
+        "Science and Technology": {
+          "id": "SSC-SUB-26-GA-SNT-SCIENCE-AND-TECHNOLOGY",
+          "title": "SSC 2026 SCIENCE AND TECHNOLOGY",
+          "totalQs": 34,
+          "type": "paid"
+        }
+      },
+      "Environment": {
+        "Basics of Environmental Sciences": {
+          "id": "SSC-SUB-26-GA-ENV-BASICS-OF-ENVIRONMENTAL-SCIENCES",
+          "title": "SSC 2026 BASICS OF ENVIRONMENTAL SCIENCES",
+          "totalQs": 8,
+          "type": "paid",
+          "partQs": 8
+        },
+        "Ecosystem": {
+          "id": "SSC-SUB-26-GA-ENV-ECOSYSTEM",
+          "title": "SSC 2026 ECOSYSTEM",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Environmental Conventions": {
+          "id": "SSC-SUB-26-GA-ENV-ENVIRONMENTAL-CONVENTIONS",
+          "title": "SSC 2026 ENVIRONMENTAL CONVENTIONS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "National Parks": {
+          "id": "SSC-SUB-26-GA-ENV-NATIONAL-PARKS",
+          "title": "SSC 2026 NATIONAL PARKS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-ENV-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        }
+      },
+      "Current Affairs": {
+        "National News": {
+          "id": "SSC-SUB-26-GA-CUR-NATIONAL-NEWS",
+          "title": "SSC 2026 NATIONAL NEWS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        },
+        "International News": {
+          "id": "SSC-SUB-26-GA-CUR-INTERNATIONAL-NEWS",
+          "title": "SSC 2026 INTERNATIONAL NEWS",
+          "totalQs": 6,
+          "type": "paid",
+          "partQs": 6
+        },
+        "Appointments and Resignations": {
+          "id": "SSC-SUB-26-GA-CUR-APPOINTMENTS-AND-RESIGNATIONS",
+          "title": "SSC 2026 APPOINTMENTS AND RESIGNATIONS",
+          "totalQs": 11,
+          "type": "paid",
+          "partQs": 11
+        },
+        "Awards and Honours (Current)": {
+          "id": "SSC-SUB-26-GA-CUR-AWARDS-AND-HONOURS-CURRENT",
+          "title": "SSC 2026 AWARDS AND HONOURS (CURRENT)",
+          "totalQs": 6,
+          "type": "paid",
+          "partQs": 6
+        },
+        "Reports and Indices (Current)": {
+          "id": "SSC-SUB-26-GA-CUR-REPORTS-AND-INDICES-CURRENT",
+          "title": "SSC 2026 REPORTS AND INDICES (CURRENT)",
+          "totalQs": 19,
+          "type": "paid",
+          "partQs": 19
+        },
+        "Government Schemes and Policies (Current)": {
+          "id": "SSC-SUB-26-GA-CUR-GOVERNMENT-SCHEMES-AND-POLICIES-CURRENT",
+          "title": "SSC 2026 GOVERNMENT SCHEMES AND POLICIES (CURRENT)",
+          "totalQs": 8,
+          "type": "paid",
+          "partQs": 8
+        },
+        "MoUs and Agreements": {
+          "id": "SSC-SUB-26-GA-CUR-MOUS-AND-AGREEMENTS",
+          "title": "SSC 2026 MOUS AND AGREEMENTS",
+          "totalQs": 2,
+          "type": "paid",
+          "partQs": 2
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-26-GA-CUR-MISCELLANEOUS",
+          "title": "SSC 2026 MISCELLANEOUS",
+          "totalQs": 1,
+          "type": "paid",
+          "partQs": 1
+        }
+      }
+    }
+  }
+}

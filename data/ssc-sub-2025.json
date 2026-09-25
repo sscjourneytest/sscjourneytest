@@ -1,0 +1,1641 @@
+{
+  "year": "2025",
+  "config": {
+    "default": {
+      "partQs": 25,
+      "marksPerQ": 2,
+      "partSuffixId": "-part-",
+      "partSuffixLink": "&section=PART-",
+      "partSuffixTitle": " PART-",
+      "mergeLast": true,
+      "mergeThreshold": 15
+    }
+  },
+  "2025": {
+    "Math": {
+      "PERCENTAGE": {
+        "id": "SSC-SUB-25-MATH-PERCENTAGE",
+        "title": "SSC 2025 PERCENTAGE",
+        "totalQs": 260,
+        "type": "free"
+      },
+      "RATIO AND PROPORTION": {
+        "id": "SSC-SUB-25-MATH-RATIO-AND-PROPORTION",
+        "title": "SSC 2025 RATIO AND PROPORTION",
+        "totalQs": 206,
+        "type": "paid"
+      },
+      "PROFIT AND LOSS": {
+        "id": "SSC-SUB-25-MATH-PROFIT-AND-LOSS",
+        "title": "SSC 2025 PROFIT AND LOSS",
+        "totalQs": 241,
+        "type": "paid"
+      },
+      "DISCOUNT": {
+        "id": "SSC-SUB-25-MATH-DISCOUNT",
+        "title": "SSC 2025 DISCOUNT",
+        "totalQs": 258,
+        "type": "paid"
+      },
+      "SIMPLE INTEREST (SI)": {
+        "id": "SSC-SUB-25-MATH-SIMPLE-INTEREST-SI",
+        "title": "SSC 2025 SIMPLE INTEREST (SI)",
+        "totalQs": 181,
+        "type": "paid"
+      },
+      "COMPOUND INTEREST (CI)": {
+        "id": "SSC-SUB-25-MATH-COMPOUND-INTEREST-CI",
+        "title": "SSC 2025 COMPOUND INTEREST (CI)",
+        "totalQs": 103,
+        "type": "paid"
+      },
+      "MIXTURE AND ALLIGATION": {
+        "id": "SSC-SUB-25-MATH-MIXTURE-AND-ALLIGATION",
+        "title": "SSC 2025 MIXTURE AND ALLIGATION",
+        "totalQs": 153,
+        "type": "paid"
+      },
+      "AVERAGE": {
+        "id": "SSC-SUB-25-MATH-AVERAGE",
+        "title": "SSC 2025 AVERAGE",
+        "totalQs": 312,
+        "type": "paid"
+      },
+      "TIME SPEED AND DISTANCE": {
+        "id": "SSC-SUB-25-MATH-TIME-SPEED-AND-DISTANCE",
+        "title": "SSC 2025 TIME SPEED AND DISTANCE",
+        "totalQs": 210,
+        "type": "paid"
+      },
+      "PROBLEMS ON TRAINS": {
+        "id": "SSC-SUB-25-MATH-PROBLEMS-ON-TRAINS",
+        "title": "SSC 2025 PROBLEMS ON TRAINS",
+        "totalQs": 86,
+        "type": "paid"
+      },
+      "TIME AND WORK": {
+        "id": "SSC-SUB-25-MATH-TIME-AND-WORK",
+        "title": "SSC 2025 TIME AND WORK",
+        "totalQs": 245,
+        "type": "paid"
+      },
+      "PIPE AND CISTERN": {
+        "id": "SSC-SUB-25-MATH-PIPE-AND-CISTERN",
+        "title": "SSC 2025 PIPE AND CISTERN",
+        "totalQs": 31,
+        "type": "paid",
+        "partQs": 31
+      },
+      "BOAT AND STREAM": {
+        "id": "SSC-SUB-25-MATH-BOAT-AND-STREAM",
+        "title": "SSC 2025 BOAT AND STREAM",
+        "totalQs": 16,
+        "type": "paid",
+        "partQs": 16
+      },
+      "NUMBER SYSTEM": {
+        "id": "SSC-SUB-25-MATH-NUMBER-SYSTEM",
+        "title": "SSC 2025 NUMBER SYSTEM",
+        "totalQs": 218,
+        "type": "paid"
+      },
+      "LCM AND HCF": {
+        "id": "SSC-SUB-25-MATH-LCM-AND-HCF",
+        "title": "SSC 2025 LCM AND HCF",
+        "totalQs": 98,
+        "type": "paid"
+      },
+      "SIMPLIFICATION AND APPROXIMATION": {
+        "id": "SSC-SUB-25-MATH-SIMPLIFICATION-AND-APPROXIMATION",
+        "title": "SSC 2025 SIMPLIFICATION AND APPROXIMATION",
+        "totalQs": 571,
+        "type": "paid"
+      },
+      "ALGEBRA": {
+        "id": "SSC-SUB-25-MATH-ALGEBRA",
+        "title": "SSC 2025 ALGEBRA",
+        "totalQs": 167,
+        "type": "paid"
+      },
+      "TRIGONOMETRY": {
+        "id": "SSC-SUB-25-MATH-TRIGONOMETRY",
+        "title": "SSC 2025 TRIGONOMETRY",
+        "totalQs": 277,
+        "type": "paid"
+      },
+      "HEIGHT AND DISTANCE": {
+        "id": "SSC-SUB-25-MATH-HEIGHT-AND-DISTANCE",
+        "title": "SSC 2025 HEIGHT AND DISTANCE",
+        "totalQs": 64,
+        "type": "paid"
+      },
+      "GEOMETRY": {
+        "id": "SSC-SUB-25-MATH-GEOMETRY",
+        "title": "SSC 2025 GEOMETRY",
+        "totalQs": 565,
+        "type": "paid"
+      },
+      "MENSURATION (2D)": {
+        "id": "SSC-SUB-25-MATH-MENSURATION-2D",
+        "title": "SSC 2025 MENSURATION (2D)",
+        "totalQs": 421,
+        "type": "paid"
+      },
+      "MENSURATION (3D)": {
+        "id": "SSC-SUB-25-MATH-MENSURATION-3D",
+        "title": "SSC 2025 MENSURATION (3D)",
+        "totalQs": 512,
+        "type": "paid"
+      },
+      "COORDINATE GEOMETRY": {
+        "id": "SSC-SUB-25-MATH-COORDINATE-GEOMETRY",
+        "title": "SSC 2025 COORDINATE GEOMETRY",
+        "totalQs": 120,
+        "type": "paid"
+      },
+      "DATA INTERPRETATION (DI)": {
+        "id": "SSC-SUB-25-MATH-DATA-INTERPRETATION-DI",
+        "title": "SSC 2025 DATA INTERPRETATION (DI)",
+        "totalQs": 101,
+        "type": "paid"
+      },
+      "PARTNERSHIP": {
+        "id": "SSC-SUB-25-MATH-PARTNERSHIP",
+        "title": "SSC 2025 PARTNERSHIP",
+        "totalQs": 101,
+        "type": "paid"
+      },
+      "PROGRESSION": {
+        "id": "SSC-SUB-25-MATH-PROGRESSION",
+        "title": "SSC 2025 PROGRESSION",
+        "totalQs": 40,
+        "type": "paid"
+      },
+      "ELEMENTARY STATISTICS": {
+        "id": "SSC-SUB-25-MATH-ELEMENTARY-STATISTICS",
+        "title": "SSC 2025 ELEMENTARY STATISTICS",
+        "totalQs": 19,
+        "type": "paid",
+        "partQs": 19
+      },
+      "PERMUTATION AND COMBINATION": {
+        "id": "SSC-SUB-25-MATH-PERMUTATION-AND-COMBINATION",
+        "title": "SSC 2025 PERMUTATION AND COMBINATION",
+        "totalQs": 15,
+        "type": "paid",
+        "partQs": 15
+      },
+      "PROBABILITY": {
+        "id": "SSC-SUB-25-MATH-PROBABILITY",
+        "title": "SSC 2025 PROBABILITY",
+        "totalQs": 9,
+        "type": "paid",
+        "partQs": 9
+      }
+    },
+    "Reasoning": {
+      "MATHEMATICAL OPERATIONS": {
+        "id": "SSC-SUB-25-REASONING-MATHEMATICAL-OPERATIONS",
+        "title": "SSC 2025 Mathematical Operations",
+        "totalQs": 516,
+        "type": "free"
+      },
+      "ADDRESS/SENTENCE MATCHING": {
+        "id": "SSC-SUB-25-REASONING-ADDRESS-SENTENCE-MATCHING",
+        "title": "SSC 2025 Address/Sentence matching",
+        "totalQs": 102,
+        "type": "paid"
+      },
+      "AGE PROBLEMS": {
+        "id": "SSC-SUB-25-REASONING-AGE-PROBLEMS",
+        "title": "SSC 2025 Age Problems",
+        "totalQs": 42,
+        "type": "paid"
+      },
+      "ALPHANUMERIC SERIES": {
+        "id": "SSC-SUB-25-REASONING-ALPHANUMERIC-SERIES",
+        "title": "SSC 2025 Alphanumeric Series",
+        "totalQs": 129,
+        "type": "paid"
+      },
+      "BLOOD RELATIONS": {
+        "id": "SSC-SUB-25-REASONING-BLOOD-RELATIONS",
+        "title": "SSC 2025 Blood Relations",
+        "totalQs": 166,
+        "type": "paid"
+      },
+      "CALENDAR": {
+        "id": "SSC-SUB-25-REASONING-CALENDAR",
+        "title": "SSC 2025 Calendar",
+        "totalQs": 116,
+        "type": "paid"
+      },
+      "CLOCK": {
+        "id": "SSC-SUB-25-REASONING-CLOCK",
+        "title": "SSC 2025 Clock",
+        "totalQs": 30,
+        "type": "paid",
+        "partQs": 30
+      },
+      "CODING & DECODING": {
+        "id": "SSC-SUB-25-REASONING-CODING-AND-DECODING",
+        "title": "SSC 2025 Coding & Decoding",
+        "totalQs": 361,
+        "type": "paid"
+      },
+      "DECISION MAKING": {
+        "id": "SSC-SUB-25-REASONING-DECISION-MAKING",
+        "title": "SSC 2025 Decision Making",
+        "totalQs": 226,
+        "type": "paid"
+      },
+      "DICTIONARY / ALPHABETICAL ORDER": {
+        "id": "SSC-SUB-25-REASONING-DICTIONARY-ALPHABETICAL-ORDER",
+        "title": "SSC 2025 Dictionary / Alphabetical Order",
+        "totalQs": 55,
+        "type": "paid"
+      },
+      "DIRECTION & DISTANCE": {
+        "id": "SSC-SUB-25-REASONING-DIRECTION-AND-DISTANCE",
+        "title": "SSC 2025 Direction & Distance",
+        "totalQs": 73,
+        "type": "paid"
+      },
+      "FIGURE ANALOGY": {
+        "id": "SSC-SUB-25-REASONING-FIGURE-ANALOGY",
+        "title": "SSC 2025 Figure Analogy",
+        "totalQs": 78,
+        "type": "paid"
+      },
+      "FIGURE COMPLETING": {
+        "id": "SSC-SUB-25-REASONING-FIGURE-COMPLETING",
+        "title": "SSC 2025 Figure Completing",
+        "totalQs": 20,
+        "type": "paid",
+        "partQs": 20
+      },
+      "FIGURE SERIES": {
+        "id": "SSC-SUB-25-REASONING-FIGURE-SERIES",
+        "title": "SSC 2025 Figure Series",
+        "totalQs": 79,
+        "type": "paid"
+      },
+      "INEQUALITY": {
+        "id": "SSC-SUB-25-REASONING-INEQUALITY",
+        "title": "SSC 2025 Inequality",
+        "totalQs": 26,
+        "type": "paid",
+        "partQs": 26
+      },
+      "INPUT-OUTPUT": {
+        "id": "SSC-SUB-25-REASONING-INPUT-OUTPUT",
+        "title": "SSC 2025 Input-Output",
+        "totalQs": 18,
+        "type": "paid",
+        "partQs": 18
+      },
+      "LETTER SERIES": {
+        "id": "SSC-SUB-25-REASONING-LETTER-SERIES",
+        "title": "SSC 2025 Letter Series",
+        "totalQs": 311,
+        "type": "paid"
+      },
+      "LETTER/ALPHABETICAL ANALOGY": {
+        "id": "SSC-SUB-25-REASONING-LETTER-ALPHABETICAL-ANALOGY",
+        "title": "SSC 2025 Letter/Alphabetical Analogy",
+        "totalQs": 197,
+        "type": "paid"
+      },
+      "LETTER/WORD POSITION ANALYSIS": {
+        "id": "SSC-SUB-25-REASONING-LETTER-WORD-POSITION-ANALYSIS",
+        "title": "SSC 2025 Letter/Word Position Analysis",
+        "totalQs": 23,
+        "type": "paid",
+        "partQs": 23
+      },
+      "MISCELLANEOUS": {
+        "id": "SSC-SUB-25-REASONING-MISCELLANEOUS",
+        "title": "SSC 2025 Miscellaneous",
+        "totalQs": 54,
+        "type": "paid"
+      },
+      "MISSING NUMBER": {
+        "id": "SSC-SUB-25-REASONING-MISSING-NUMBER",
+        "title": "SSC 2025 Missing Number",
+        "totalQs": 38,
+        "type": "paid",
+        "partQs": 38
+      },
+      "MIXED ANALOGY": {
+        "id": "SSC-SUB-25-REASONING-MIXED-ANALOGY",
+        "title": "SSC 2025 Mixed Analogy",
+        "totalQs": 90,
+        "type": "paid"
+      },
+      "MIXED ARRANGEMENT": {
+        "id": "SSC-SUB-25-REASONING-MIXED-ARRANGEMENT",
+        "title": "SSC 2025 Mixed Arrangement",
+        "totalQs": 25,
+        "type": "paid"
+      },
+      "NON-VERBAL: COUNTING FIGURES": {
+        "id": "SSC-SUB-25-REASONING-NON-VERBAL-COUNTING-FIGURES",
+        "title": "SSC 2025 Non-Verbal: Counting Figures",
+        "totalQs": 49,
+        "type": "paid"
+      },
+      "NON-VERBAL: EMBEDDED FIGURES": {
+        "id": "SSC-SUB-25-REASONING-NON-VERBAL-EMBEDDED-FIGURES",
+        "title": "SSC 2025 Non-Verbal: Embedded Figures",
+        "totalQs": 18,
+        "type": "paid",
+        "partQs": 18
+      },
+      "NON-VERBAL: MIRROR & WATER IMAGES": {
+        "id": "SSC-SUB-25-REASONING-NON-VERBAL-MIRROR-AND-WATER-IMAGES",
+        "title": "SSC 2025 Non-Verbal: Mirror & Water Images",
+        "totalQs": 17,
+        "type": "paid",
+        "partQs": 17
+      },
+      "NON-VERBAL: PAPER FOLDING & CUTTING": {
+        "id": "SSC-SUB-25-REASONING-NON-VERBAL-PAPER-FOLDING-AND-CUTTING",
+        "title": "SSC 2025 Non-Verbal: Paper Folding & Cutting",
+        "totalQs": 27,
+        "type": "paid",
+        "partQs": 27
+      },
+      "NUMBER ANALOGY": {
+        "id": "SSC-SUB-25-REASONING-NUMBER-ANALOGY",
+        "title": "SSC 2025 Number Analogy",
+        "totalQs": 267,
+        "type": "paid"
+      },
+      "NUMBER SERIES": {
+        "id": "SSC-SUB-25-REASONING-NUMBER-SERIES",
+        "title": "SSC 2025 Number Series",
+        "totalQs": 413,
+        "type": "paid"
+      },
+      "ODD ONE OUT": {
+        "id": "SSC-SUB-25-REASONING-ODD-ONE-OUT",
+        "title": "SSC 2025 Odd One Out",
+        "totalQs": 378,
+        "type": "paid"
+      },
+      "ORDER & RANKING": {
+        "id": "SSC-SUB-25-REASONING-ORDER-AND-RANKING",
+        "title": "SSC 2025 Order & Ranking",
+        "totalQs": 115,
+        "type": "paid"
+      },
+      "SEATING ARRANGEMENT": {
+        "id": "SSC-SUB-25-REASONING-SEATING-ARRANGEMENT",
+        "title": "SSC 2025 Seating Arrangement",
+        "totalQs": 108,
+        "type": "paid"
+      },
+      "STATEMENT & ARGUMENT": {
+        "id": "SSC-SUB-25-REASONING-STATEMENT-AND-ARGUMENT",
+        "title": "SSC 2025 Statement & Argument",
+        "totalQs": 20,
+        "type": "paid",
+        "partQs": 20
+      },
+      "STATEMENT & ASSUMPTION": {
+        "id": "SSC-SUB-25-REASONING-STATEMENT-AND-ASSUMPTION",
+        "title": "SSC 2025 Statement & Assumption",
+        "totalQs": 30,
+        "type": "paid",
+        "partQs": 30
+      },
+      "STATEMENT & CONCLUSION": {
+        "id": "SSC-SUB-25-REASONING-STATEMENT-AND-CONCLUSION",
+        "title": "SSC 2025 Statement & Conclusion",
+        "totalQs": 106,
+        "type": "paid"
+      },
+      "STATEMENT & COURSE OF ACTION": {
+        "id": "SSC-SUB-25-REASONING-STATEMENT-AND-COURSE-OF-ACTION",
+        "title": "SSC 2025 Statement & Course of Action",
+        "totalQs": 27,
+        "type": "paid",
+        "partQs": 27
+      },
+      "SYLLOGISM": {
+        "id": "SSC-SUB-25-REASONING-SYLLOGISM",
+        "title": "SSC 2025 Syllogism",
+        "totalQs": 111,
+        "type": "paid"
+      },
+      "VENN DIAGRAMS": {
+        "id": "SSC-SUB-25-REASONING-VENN-DIAGRAMS",
+        "title": "SSC 2025 Venn Diagrams",
+        "totalQs": 25,
+        "type": "paid"
+      },
+      "WORD ANALOGY": {
+        "id": "SSC-SUB-25-REASONING-WORD-ANALOGY",
+        "title": "SSC 2025 Word Analogy",
+        "totalQs": 118,
+        "type": "paid"
+      },
+      "WORD FORMATION": {
+        "id": "SSC-SUB-25-REASONING-WORD-FORMATION",
+        "title": "SSC 2025 Word Formation",
+        "totalQs": 101,
+        "type": "paid"
+      }
+    },
+    "English": {
+      "ANTONYM": {
+        "id": "SSC-SUB-25-ENGLISH-ANTONYM",
+        "title": "SSC 2025 ANTONYM",
+        "totalQs": 349,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "SYNONYM": {
+        "id": "SSC-SUB-25-ENGLISH-SYNONYM",
+        "title": "SSC 2025 SYNONYM",
+        "totalQs": 294,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "HOMOPHONES AND HOMONYMS": {
+        "id": "SSC-SUB-25-ENGLISH-HOMOPHONES-AND-HOMONYMS",
+        "title": "SSC 2025 HOMOPHONES AND HOMONYMS",
+        "totalQs": 214,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "ONE WORD SUBSTITUTION": {
+        "id": "SSC-SUB-25-ENGLISH-ONE-WORD-SUBSTITUTION",
+        "title": "SSC 2025 ONE WORD SUBSTITUTION",
+        "totalQs": 396,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "IDIOMS AND PHRASES": {
+        "id": "SSC-SUB-25-ENGLISH-IDIOMS-AND-PHRASES",
+        "title": "SSC 2025 IDIOMS AND PHRASES",
+        "totalQs": 322,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "PHRASAL VERBS": {
+        "id": "SSC-SUB-25-ENGLISH-PHRASAL-VERBS",
+        "title": "SSC 2025 PHRASAL VERBS",
+        "totalQs": 43,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "CONFUSING WORDS": {
+        "id": "SSC-SUB-25-ENGLISH-CONFUSING-WORDS",
+        "title": "SSC 2025 CONFUSING WORDS",
+        "totalQs": 16,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-",
+        "partQs": 16
+      },
+      "SPELLING CHECK": {
+        "id": "SSC-SUB-25-ENGLISH-SPELLING-CHECK",
+        "title": "SSC 2025 SPELLING CHECK",
+        "totalQs": 523,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "WORD USAGE": {
+        "id": "SSC-SUB-25-ENGLISH-WORD-USAGE",
+        "title": "SSC 2025 WORD USAGE",
+        "totalQs": 12,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-",
+        "partQs": 12
+      },
+      "ACTIVE PASSIVE VOICE": {
+        "id": "SSC-SUB-25-ENGLISH-ACTIVE-PASSIVE-VOICE",
+        "title": "SSC 2025 ACTIVE PASSIVE VOICE",
+        "totalQs": 520,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "DIRECT INDIRECT (NARRATION)": {
+        "id": "SSC-SUB-25-ENGLISH-DIRECT-INDIRECT-NARRATION",
+        "title": "SSC 2025 DIRECT INDIRECT (NARRATION)",
+        "totalQs": 419,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "FILL IN THE BLANKS": {
+        "id": "SSC-SUB-25-ENGLISH-FILL-IN-THE-BLANKS",
+        "title": "SSC 2025 FILL IN THE BLANKS",
+        "totalQs": 353,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "SPOTTING ERRORS": {
+        "id": "SSC-SUB-25-ENGLISH-SPOTTING-ERRORS",
+        "title": "SSC 2025 SPOTTING ERRORS",
+        "totalQs": 341,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "SENTENCE IMPROVEMENT": {
+        "id": "SSC-SUB-25-ENGLISH-SENTENCE-IMPROVEMENT",
+        "title": "SSC 2025 SENTENCE IMPROVEMENT",
+        "totalQs": 343,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "SENTENCE REARRANGEMENT": {
+        "id": "SSC-SUB-25-ENGLISH-SENTENCE-REARRANGEMENT",
+        "title": "SSC 2025 SENTENCE REARRANGEMENT",
+        "totalQs": 80,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "Para Jumbles (PQRS)": {
+        "id": "SSC-SUB-25-ENGLISH-PARA-JUMBLES-PQRS",
+        "title": "SSC 2025 PARA JUMBLES (PQRS)",
+        "totalQs": 516,
+        "type": "paid",
+        "timePerPart": "25 Min"
+      },
+      "SENTENCE COMPLETION": {
+        "id": "SSC-SUB-25-ENGLISH-SENTENCE-COMPLETION",
+        "title": "SSC 2025 SENTENCE COMPLETION",
+        "totalQs": 25,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "Cloze Test": {
+        "id": "SSC-SUB-25-ENGLISH-CLOZE-TEST",
+        "title": "SSC 2025 CLOZE TEST",
+        "totalQs": 300,
+        "type": "paid",
+        "time": "30 Min"
+      },
+      "PASSAGE": {
+        "id": "SSC-SUB-25-ENGLISH-PASSAGE",
+        "title": "SSC 2025 PASSAGE",
+        "totalQs": 905,
+        "type": "paid",
+        "timePerPart": "30 Min"
+      },
+      "READING COMPREHENSION": {
+        "id": "SSC-SUB-25-ENGLISH-READING-COMPREHENSION",
+        "title": "SSC 2025 READING COMPREHENSION",
+        "totalQs": 764,
+        "type": "free",
+        "partSuffixLink": "&amp;section=PART-"
+      },
+      "MISCELLANEOUS": {
+        "id": "SSC-SUB-25-ENGLISH-MISCELLANEOUS",
+        "title": "SSC 2025 MISCELLANEOUS",
+        "totalQs": 9,
+        "type": "paid",
+        "partSuffixLink": "&amp;section=PART-",
+        "partQs": 9
+      }
+    },
+    "English( Old Mocks)": {
+      "VOICE": {
+        "id": "SSC-SUB-25-ENG-VOICE",
+        "title": "SSC 2025 VOICE",
+        "totalQs": 200,
+        "type": "free",
+        "releaseDate": "15-05-2026"
+      },
+      "NARRATION": {
+        "id": "SSC-SUB-25-ENG-NARRATION",
+        "title": "SSC 2025 NARRATION",
+        "totalQs": 200,
+        "type": "free",
+        "releaseDate": "15-05-2026"
+      },
+      "PQRS": {
+        "id": "SSC-SUB-25-ENG-PQRS",
+        "title": "SSC 2025 PQRS",
+        "totalQs": 475,
+        "type": "free",
+        "releaseDate": "15-05-2026",
+        "time": "20 Min"
+      },
+      "CLOZE-TEST": {
+        "id": "SSC-SUB-25-ENG-CLOZE-TEST",
+        "title": "SSC 2025 CLOZE TEST",
+        "totalQs": 184,
+        "type": "free",
+        "releaseDate": "04-06-2026",
+        "timePerPart": "20 Min"
+      },
+      "SPELLING ERROR": {
+        "id": "SSC-SUB-25-ENG-SPELLING",
+        "title": "SSC 2025 SPELLING ERROR",
+        "totalQs": 494,
+        "type": "free",
+        "releaseDate": "15-05-2026",
+        "time": "10 Min"
+      },
+      "SENTENCE IMPROVEMENT": {
+        "id": "SSC-SUB-25-ENG-SENTENCE-IMPROVEMENT",
+        "title": "SENTENCE IMPROVEMENT SSC CGL 2025",
+        "totalQs": 84,
+        "type": "free",
+        "releaseDate": "03-06-2026",
+        "time": "15 Min"
+      },
+      "ERROR DETECTION": {
+        "id": "SSC-SUB-25-ENG-ERROR-DETECTION",
+        "title": "SSC 2025 ERROR DETECTION",
+        "totalQs": 82,
+        "type": "free",
+        "releaseDate": "03-06-2026",
+        "timePerPart": "15 Min"
+      },
+      "HOMONYMS": {
+        "id": "SSC-SUB-25-ENG-HOMONYMS",
+        "title": "SSC 2025 HOMONYMS",
+        "totalQs": 111,
+        "type": "free",
+        "releaseDate": "03-06-2026"
+      },
+      "FIXED PREPOSITION": {
+        "id": "SSC-SUB-25-ENG-TOP-125-FIXED-PREPOSITION",
+        "title": "SSC TOP 125 FIXED PREPOSITION",
+        "totalQs": 127,
+        "type": "free",
+        "releaseDate": "15-05-2026",
+        "time": "12 Min"
+      },
+      "IDIOMS": {
+        "id": "SSC-SUB-25-ENG-IDIOMS",
+        "title": "SSC 2024-2025 IDIOMS",
+        "totalQs": 593,
+        "type": "free",
+        "releaseDate": "15-05-2026",
+        "time": "12 Min"
+      },
+      "IMP IDIOMS": {
+        "id": "SSC-SUB-25-ENG-IMP-IDIOMS",
+        "title": "SSC 2025 IMP IDIOMS",
+        "totalQs": 305,
+        "type": "free",
+        "timePerPart": "12 Min"
+      }
+    },
+    "General Awareness": {
+      "Static GK": {
+        "Sports(Static & Current)": {
+          "id": "SSC-SUB-25-GA-STG-SPORTS-STATIC-AND-CURRENT",
+          "title": "SSC 2025 SPORTS(STATIC & CURRENT)",
+          "totalQs": 823,
+          "type": "free"
+        },
+        "Music and Musical Instruments": {
+          "id": "SSC-SUB-25-GA-STG-MUSIC-AND-MUSICAL-INSTRUMENTS",
+          "title": "SSC 2025 MUSIC AND MUSICAL INSTRUMENTS",
+          "totalQs": 172,
+          "type": "free"
+        },
+        "Classical Dance": {
+          "id": "SSC-SUB-25-GA-STG-CLASSICAL-DANCE",
+          "title": "SSC 2025 CLASSICAL DANCE",
+          "totalQs": 93,
+          "type": "free"
+        },
+        "Folk Dances and Festivals": {
+          "id": "SSC-SUB-25-GA-STG-FOLK-DANCES-AND-FESTIVALS",
+          "title": "SSC 2025 FOLK DANCES AND FESTIVALS",
+          "totalQs": 461,
+          "type": "free"
+        },
+        "Census": {
+          "id": "SSC-SUB-25-GA-STG-CENSUS",
+          "title": "SSC 2025 CENSUS",
+          "totalQs": 111,
+          "type": "free"
+        },
+        "Important Days": {
+          "id": "SSC-SUB-25-GA-STG-IMPORTANT-DAYS",
+          "title": "SSC 2025 IMPORTANT DAYS",
+          "totalQs": 7,
+          "type": "free",
+          "partQs": 7
+        },
+        "Books and Authors": {
+          "id": "SSC-SUB-25-GA-STG-BOOKS-AND-AUTHORS",
+          "title": "SSC 2025 BOOKS AND AUTHORS",
+          "totalQs": 360,
+          "type": "free"
+        },
+        "International Organisations": {
+          "id": "SSC-SUB-25-GA-STG-INTERNATIONAL-ORGANISATIONS",
+          "title": "SSC 2025 INTERNATIONAL ORGANISATIONS",
+          "totalQs": 100,
+          "type": "free"
+        },
+        "National Organisations": {
+          "id": "SSC-SUB-25-GA-STG-NATIONAL-ORGANISATIONS",
+          "title": "SSC 2025 NATIONAL ORGANISATIONS",
+          "totalQs": 30,
+          "type": "free",
+          "partQs": 30
+        },
+        "Awards and Honours": {
+          "id": "SSC-SUB-25-GA-STG-AWARDS-AND-HONOURS",
+          "title": "SSC 2025 AWARDS AND HONOURS",
+          "totalQs": 60,
+          "type": "free"
+        },
+        "Government Schemes": {
+          "id": "SSC-SUB-25-GA-STG-GOVERNMENT-SCHEMES",
+          "title": "SSC 2025 GOVERNMENT SCHEMES",
+          "totalQs": 266,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-STG-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 79,
+          "type": "free"
+        }
+      },
+      "Ancient History": {
+        "Stone Age": {
+          "id": "SSC-SUB-25-GA-ANH-STONE-AGE",
+          "title": "SSC 2025 STONE AGE",
+          "totalQs": 14,
+          "type": "free",
+          "partQs": 14
+        },
+        "Indus Valley Civilization": {
+          "id": "SSC-SUB-25-GA-ANH-INDUS-VALLEY-CIVILIZATION",
+          "title": "SSC 2025 INDUS VALLEY CIVILIZATION",
+          "totalQs": 47,
+          "type": "free"
+        },
+        "Vedic Age": {
+          "id": "SSC-SUB-25-GA-ANH-VEDIC-AGE",
+          "title": "SSC 2025 VEDIC AGE",
+          "totalQs": 64,
+          "type": "free"
+        },
+        "Jainism and Buddhism": {
+          "id": "SSC-SUB-25-GA-ANH-JAINISM-AND-BUDDHISM",
+          "title": "SSC 2025 JAINISM AND BUDDHISM",
+          "totalQs": 53,
+          "type": "free"
+        },
+        "Mahajanapadas": {
+          "id": "SSC-SUB-25-GA-ANH-MAHAJANAPADAS",
+          "title": "SSC 2025 MAHAJANAPADAS",
+          "totalQs": 25,
+          "type": "free"
+        },
+        "Maurya Dynasty": {
+          "id": "SSC-SUB-25-GA-ANH-MAURYA-DYNASTY",
+          "title": "SSC 2025 MAURYA DYNASTY",
+          "totalQs": 46,
+          "type": "free"
+        },
+        "Post-Maurya Dynasties": {
+          "id": "SSC-SUB-25-GA-ANH-POST-MAURYA-DYNASTIES",
+          "title": "SSC 2025 POST-MAURYA DYNASTIES",
+          "totalQs": 41,
+          "type": "free"
+        },
+        "Gupta Dynasty": {
+          "id": "SSC-SUB-25-GA-ANH-GUPTA-DYNASTY",
+          "title": "SSC 2025 GUPTA DYNASTY",
+          "totalQs": 57,
+          "type": "free"
+        },
+        "Post-Gupta Dynasties": {
+          "id": "SSC-SUB-25-GA-ANH-POST-GUPTA-DYNASTIES",
+          "title": "SSC 2025 POST-GUPTA DYNASTIES",
+          "totalQs": 51,
+          "type": "free"
+        },
+        "Tripartite Struggle and Cholas": {
+          "id": "SSC-SUB-25-GA-ANH-TRIPARTITE-STRUGGLE-AND-CHOLAS",
+          "title": "SSC 2025 TRIPARTITE STRUGGLE AND CHOLAS",
+          "totalQs": 26,
+          "type": "free",
+          "partQs": 26
+        },
+        "South Indian History & Tripartite Struggle and Cholas": {
+          "id": "SSC-SUB-25-GA-ANH-SOUTH-INDIAN-HISTORY-AND-TRIPARTITE-STRUGGLE-AND-CHOLAS",
+          "title": "SSC 2025 SOUTH INDIAN HISTORY & TRIPARTITE STRUGGLE AND CHOLAS",
+          "totalQs": 55,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-ANH-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 9,
+          "type": "free",
+          "partQs": 9
+        }
+      },
+      "Medieval History": {
+        "Delhi Sultanate": {
+          "id": "SSC-SUB-25-GA-MDH-DELHI-SULTANATE",
+          "title": "SSC 2025 DELHI SULTANATE",
+          "totalQs": 96,
+          "type": "free"
+        },
+        "Vijayanagara and Bahmani Kingdom": {
+          "id": "SSC-SUB-25-GA-MDH-VIJAYANAGARA-AND-BAHMANI-KINGDOM",
+          "title": "SSC 2025 VIJAYANAGARA AND BAHMANI KINGDOM",
+          "totalQs": 25,
+          "type": "free"
+        },
+        "The Mughal Empire": {
+          "id": "SSC-SUB-25-GA-MDH-THE-MUGHAL-EMPIRE",
+          "title": "SSC 2025 THE MUGHAL EMPIRE",
+          "totalQs": 140,
+          "type": "free"
+        },
+        "Marathas": {
+          "id": "SSC-SUB-25-GA-MDH-MARATHAS",
+          "title": "SSC 2025 MARATHAS",
+          "totalQs": 19,
+          "type": "free",
+          "partQs": 19
+        },
+        "Bhakti and Sufi Movements": {
+          "id": "SSC-SUB-25-GA-MDH-BHAKTI-AND-SUFI-MOVEMENTS",
+          "title": "SSC 2025 BHAKTI AND SUFI MOVEMENTS",
+          "totalQs": 41,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-MDH-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 19,
+          "type": "free",
+          "partQs": 19
+        }
+      },
+      "Modern History": {
+        "Advent of Europeans": {
+          "id": "SSC-SUB-25-GA-MDN-ADVENT-OF-EUROPEANS",
+          "title": "SSC 2025 ADVENT OF EUROPEANS",
+          "totalQs": 63,
+          "type": "free"
+        },
+        "Socio Religious Reforms": {
+          "id": "SSC-SUB-25-GA-MDN-SOCIO-RELIGIOUS-REFORMS",
+          "title": "SSC 2025 SOCIO RELIGIOUS REFORMS",
+          "totalQs": 35,
+          "type": "free",
+          "partQs": 35
+        },
+        "Revolt of 1857": {
+          "id": "SSC-SUB-25-GA-MDN-REVOLT-OF-1857",
+          "title": "SSC 2025 REVOLT OF 1857",
+          "totalQs": 22,
+          "type": "free",
+          "partQs": 22
+        },
+        "Indian National Congress": {
+          "id": "SSC-SUB-25-GA-MDN-INDIAN-NATIONAL-CONGRESS",
+          "title": "SSC 2025 INDIAN NATIONAL CONGRESS",
+          "totalQs": 30,
+          "type": "free",
+          "partQs": 30
+        },
+        "Bengal Partition": {
+          "id": "SSC-SUB-25-GA-MDN-BENGAL-PARTITION",
+          "title": "SSC 2025 BENGAL PARTITION",
+          "totalQs": 17,
+          "type": "free",
+          "partQs": 17
+        },
+        "Gandhian Era": {
+          "id": "SSC-SUB-25-GA-MDN-GANDHIAN-ERA",
+          "title": "SSC 2025 GANDHIAN ERA",
+          "totalQs": 65,
+          "type": "free"
+        },
+        "CDM and Simon Commission": {
+          "id": "SSC-SUB-25-GA-MDN-CDM-AND-SIMON-COMMISSION",
+          "title": "SSC 2025 CDM AND SIMON COMMISSION",
+          "totalQs": 15,
+          "type": "free",
+          "partQs": 15
+        },
+        "Quit India Movement": {
+          "id": "SSC-SUB-25-GA-MDN-QUIT-INDIA-MOVEMENT",
+          "title": "SSC 2025 QUIT INDIA MOVEMENT",
+          "totalQs": 8,
+          "type": "free",
+          "partQs": 8
+        },
+        "Governor-General and Viceroy": {
+          "id": "SSC-SUB-25-GA-MDN-GOVERNOR-GENERAL-AND-VICEROY",
+          "title": "SSC 2025 GOVERNOR-GENERAL AND VICEROY",
+          "totalQs": 64,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-MDN-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 20,
+          "type": "free",
+          "partQs": 20
+        }
+      },
+      "Economics": {
+        "Basics of Economy": {
+          "id": "SSC-SUB-25-GA-ECO-BASICS-OF-ECONOMY",
+          "title": "SSC 2025 BASICS OF ECONOMY",
+          "totalQs": 109,
+          "type": "free"
+        },
+        "Microeconomics": {
+          "id": "SSC-SUB-25-GA-ECO-MICROECONOMICS",
+          "title": "SSC 2025 MICROECONOMICS",
+          "totalQs": 26,
+          "type": "free",
+          "partQs": 26
+        },
+        "National Income": {
+          "id": "SSC-SUB-25-GA-ECO-NATIONAL-INCOME",
+          "title": "SSC 2025 NATIONAL INCOME",
+          "totalQs": 50,
+          "type": "free"
+        },
+        "Budget and Taxation": {
+          "id": "SSC-SUB-25-GA-ECO-BUDGET-AND-TAXATION",
+          "title": "SSC 2025 BUDGET AND TAXATION",
+          "totalQs": 115,
+          "type": "free"
+        },
+        "Inflation and Unemployment": {
+          "id": "SSC-SUB-25-GA-ECO-INFLATION-AND-UNEMPLOYMENT",
+          "title": "SSC 2025 INFLATION AND UNEMPLOYMENT",
+          "totalQs": 25,
+          "type": "free"
+        },
+        "Banking": {
+          "id": "SSC-SUB-25-GA-ECO-BANKING",
+          "title": "SSC 2025 BANKING",
+          "totalQs": 57,
+          "type": "free"
+        },
+        "Monetary Policy": {
+          "id": "SSC-SUB-25-GA-ECO-MONETARY-POLICY",
+          "title": "SSC 2025 MONETARY POLICY",
+          "totalQs": 26,
+          "type": "free",
+          "partQs": 26
+        },
+        "Poverty and Balance of Payment": {
+          "id": "SSC-SUB-25-GA-ECO-POVERTY-AND-BALANCE-OF-PAYMENT",
+          "title": "SSC 2025 POVERTY AND BALANCE OF PAYMENT",
+          "totalQs": 40,
+          "type": "free"
+        },
+        "1991 Reforms And Industrial policy": {
+          "id": "SSC-SUB-25-GA-ECO-1991-REFORMS-AND-INDUSTRIAL-POLICY",
+          "title": "SSC 2025 1991 REFORMS AND INDUSTRIAL POLICY",
+          "totalQs": 197,
+          "type": "free"
+        },
+        "Five Year Plan and Industrial Policy Resolution": {
+          "id": "SSC-SUB-25-GA-ECO-FIVE-YEAR-PLAN-AND-INDUSTRIAL-POLICY-RESOLUTION",
+          "title": "SSC 2025 FIVE YEAR PLAN",
+          "totalQs": 225,
+          "type": "free"
+        },
+        "Reports and Indices": {
+          "id": "SSC-SUB-25-GA-ECO-REPORTS-AND-INDICES",
+          "title": "SSC 2025 REPORTS AND INDICES",
+          "totalQs": 128,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-ECO-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 4,
+          "type": "free",
+          "partQs": 4
+        }
+      },
+      "Polity": {
+        "Making of Constitution": {
+          "id": "SSC-SUB-25-GA-POL-MAKING-OF-CONSTITUTION",
+          "title": "SSC 2025 MAKING OF CONSTITUTION",
+          "totalQs": 21,
+          "type": "free",
+          "partQs": 21
+        },
+        "Salient Features of the Constitution": {
+          "id": "SSC-SUB-25-GA-POL-SALIENT-FEATURES-OF-THE-CONSTITUTION",
+          "title": "SSC 2025 SALIENT FEATURES OF THE CONSTITUTION",
+          "totalQs": 26,
+          "type": "free",
+          "partQs": 26
+        },
+        "Preamble": {
+          "id": "SSC-SUB-25-GA-POL-PREAMBLE",
+          "title": "SSC 2025 PREAMBLE",
+          "totalQs": 6,
+          "type": "free",
+          "partQs": 6
+        },
+        "Part 1 and Part 2 of the Constitution": {
+          "id": "SSC-SUB-25-GA-POL-PART-1-AND-PART-2-OF-THE-CONSTITUTION",
+          "title": "SSC 2025 PART 1 AND PART 2 OF THE CONSTITUTION",
+          "totalQs": 23,
+          "type": "free",
+          "partQs": 23
+        },
+        "Fundamental Rights": {
+          "id": "SSC-SUB-25-GA-POL-FUNDAMENTAL-RIGHTS",
+          "title": "SSC 2025 FUNDAMENTAL RIGHTS",
+          "totalQs": 49,
+          "type": "free"
+        },
+        "DPSP and Fundamental Duties": {
+          "id": "SSC-SUB-25-GA-POL-DPSP-AND-FUNDAMENTAL-DUTIES",
+          "title": "SSC 2025 DPSP AND FUNDAMENTAL DUTIES",
+          "totalQs": 37,
+          "type": "free",
+          "partQs": 37
+        },
+        "President and Vice President of India": {
+          "id": "SSC-SUB-25-GA-POL-PRESIDENT-AND-VICE-PRESIDENT-OF-INDIA",
+          "title": "SSC 2025 PRESIDENT AND VICE PRESIDENT OF INDIA",
+          "totalQs": 69,
+          "type": "free"
+        },
+        "Prime Minister and Council of Ministers": {
+          "id": "SSC-SUB-25-GA-POL-PRIME-MINISTER-AND-COUNCIL-OF-MINISTERS",
+          "title": "SSC 2025 PRIME MINISTER AND COUNCIL OF MINISTERS",
+          "totalQs": 30,
+          "type": "free",
+          "partQs": 30
+        },
+        "Parliament": {
+          "id": "SSC-SUB-25-GA-POL-PARLIAMENT",
+          "title": "SSC 2025 PARLIAMENT",
+          "totalQs": 72,
+          "type": "free"
+        },
+        "State Legislature": {
+          "id": "SSC-SUB-25-GA-POL-STATE-LEGISLATURE",
+          "title": "SSC 2025 STATE LEGISLATURE",
+          "totalQs": 54,
+          "type": "free"
+        },
+        "Centre-State Relations": {
+          "id": "SSC-SUB-25-GA-POL-CENTRE-STATE-RELATIONS",
+          "title": "SSC 2025 CENTRE-STATE RELATIONS",
+          "totalQs": 91,
+          "type": "free"
+        },
+        "Emergency & Constitutional Amendment": {
+          "id": "SSC-SUB-25-GA-POL-EMERGENCY-AND-CONSTITUTIONAL-AMENDMENT",
+          "title": "SSC 2025 EMERGENCY & CONSTITUTIONAL AMENDMENT",
+          "totalQs": 45,
+          "type": "free"
+        },
+        "Supreme Court and High Court": {
+          "id": "SSC-SUB-25-GA-POL-SUPREME-COURT-AND-HIGH-COURT",
+          "title": "SSC 2025 SUPREME COURT AND HIGH COURT",
+          "totalQs": 41,
+          "type": "free"
+        },
+        "Local Government": {
+          "id": "SSC-SUB-25-GA-POL-LOCAL-GOVERNMENT",
+          "title": "SSC 2025 LOCAL GOVERNMENT",
+          "totalQs": 15,
+          "type": "free",
+          "partQs": 15
+        },
+        "Constitutional and Non-Constitutional Bodies": {
+          "id": "SSC-SUB-25-GA-POL-CONSTITUTIONAL-AND-NON-CONSTITUTIONAL-BODIES",
+          "title": "SSC 2025 CONSTITUTIONAL AND NON-CONSTITUTIONAL BODIES",
+          "totalQs": 48,
+          "type": "free"
+        },
+        "New Criminal Laws 2023": {
+          "id": "SSC-SUB-25-GA-POL-NEW-CRIMINAL-LAWS-2023",
+          "title": "SSC 2025 NEW CRIMINAL LAWS 2023",
+          "totalQs": 136,
+          "type": "free"
+        },
+        "Important Acts": {
+          "id": "SSC-SUB-25-GA-POL-IMPORTANT-ACTS",
+          "title": "SSC 2025 IMPORTANT ACTS",
+          "totalQs": 63,
+          "type": "free"
+        },
+        "Sources of the Indian Constitution": {
+          "id": "SSC-SUB-25-GA-POL-SOURCES-OF-THE-INDIAN-CONSTITUTION",
+          "title": "SSC 2025 SOURCES OF THE INDIAN CONSTITUTION",
+          "totalQs": 18,
+          "type": "free",
+          "partQs": 18
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-POL-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 6,
+          "type": "free",
+          "partQs": 6
+        }
+      },
+      "Geography": {
+        "Solar System": {
+          "id": "SSC-SUB-25-GA-GEO-SOLAR-SYSTEM",
+          "title": "SSC 2025 SOLAR SYSTEM",
+          "totalQs": 94,
+          "type": "free"
+        },
+        "Earth's Interior and Plate Tectonics & Latitude and Longitude": {
+          "id": "SSC-SUB-25-GA-GEO-EARTH-S-INTERIOR-AND-PLATE-TECTONICS-AND-LATITUDE-AND-LONGITUDE",
+          "title": "SSC 2025 EARTH'S INTERIOR AND PLATE TECTONICS & LATITUDE AND LONGITUDE",
+          "totalQs": 25,
+          "type": "free"
+        },
+        "Rocks, Continents, and Oceans": {
+          "id": "SSC-SUB-25-GA-GEO-ROCKS-CONTINENTS-AND-OCEANS",
+          "title": "SSC 2025 ROCKS, CONTINENTS, AND OCEANS",
+          "totalQs": 8,
+          "type": "free",
+          "partQs": 8
+        },
+        "Landforms": {
+          "id": "SSC-SUB-25-GA-GEO-LANDFORMS",
+          "title": "SSC 2025 LANDFORMS",
+          "totalQs": 25,
+          "type": "free"
+        },
+        "Atmosphere": {
+          "id": "SSC-SUB-25-GA-GEO-ATMOSPHERE",
+          "title": "SSC 2025 ATMOSPHERE",
+          "totalQs": 39,
+          "type": "free",
+          "partQs": 39
+        },
+        "Wind, Ocean Current, and Cyclone": {
+          "id": "SSC-SUB-25-GA-GEO-WIND-OCEAN-CURRENT-AND-CYCLONE",
+          "title": "SSC 2025 WIND, OCEAN CURRENT, AND CYCLONE",
+          "totalQs": 22,
+          "type": "free",
+          "partQs": 22
+        },
+        "India and Its Location": {
+          "id": "SSC-SUB-25-GA-GEO-INDIA-AND-ITS-LOCATION",
+          "title": "SSC 2025 INDIA AND ITS LOCATION",
+          "totalQs": 41,
+          "type": "free"
+        },
+        "Himalayas": {
+          "id": "SSC-SUB-25-GA-GEO-HIMALAYAS",
+          "title": "SSC 2025 HIMALAYAS",
+          "totalQs": 19,
+          "type": "free",
+          "partQs": 19
+        },
+        "Peninsular Plateau": {
+          "id": "SSC-SUB-25-GA-GEO-PENINSULAR-PLATEAU",
+          "title": "SSC 2025 PENINSULAR PLATEAU",
+          "totalQs": 46,
+          "type": "free"
+        },
+        "Northern Plains and Islands": {
+          "id": "SSC-SUB-25-GA-GEO-NORTHERN-PLAINS-AND-ISLANDS",
+          "title": "SSC 2025 NORTHERN PLAINS AND ISLANDS",
+          "totalQs": 22,
+          "type": "free",
+          "partQs": 22
+        },
+        "Himalayan River System": {
+          "id": "SSC-SUB-25-GA-GEO-HIMALAYAN-RIVER-SYSTEM",
+          "title": "SSC 2025 HIMALAYAN RIVER SYSTEM",
+          "totalQs": 29,
+          "type": "free",
+          "partQs": 29
+        },
+        "Peninsular Rivers": {
+          "id": "SSC-SUB-25-GA-GEO-PENINSULAR-RIVERS",
+          "title": "SSC 2025 PENINSULAR RIVERS",
+          "totalQs": 32,
+          "type": "free",
+          "partQs": 32
+        },
+        "Dams, Lakes and Waterfall": {
+          "id": "SSC-SUB-25-GA-GEO-DAMS-LAKES-AND-WATERFALL",
+          "title": "SSC 2025 DAMS, LAKES AND WATERFALL",
+          "totalQs": 28,
+          "type": "free",
+          "partQs": 28
+        },
+        "Monsoon": {
+          "id": "SSC-SUB-25-GA-GEO-MONSOON",
+          "title": "SSC 2025 MONSOON",
+          "totalQs": 16,
+          "type": "free",
+          "partQs": 16
+        },
+        "Forest and Grassland": {
+          "id": "SSC-SUB-25-GA-GEO-FOREST-AND-GRASSLAND",
+          "title": "SSC 2025 FOREST AND GRASSLAND",
+          "totalQs": 14,
+          "type": "free",
+          "partQs": 14
+        },
+        "Soil": {
+          "id": "SSC-SUB-25-GA-GEO-SOIL",
+          "title": "SSC 2025 SOIL",
+          "totalQs": 27,
+          "type": "free",
+          "partQs": 27
+        },
+        "Agriculture": {
+          "id": "SSC-SUB-25-GA-GEO-AGRICULTURE",
+          "title": "SSC 2025 AGRICULTURE",
+          "totalQs": 62,
+          "type": "free"
+        },
+        "Minerals": {
+          "id": "SSC-SUB-25-GA-GEO-MINERALS",
+          "title": "SSC 2025 MINERALS",
+          "totalQs": 93,
+          "type": "free"
+        },
+        "World Map": {
+          "id": "SSC-SUB-25-GA-GEO-WORLD-MAP",
+          "title": "SSC 2025 WORLD MAP",
+          "totalQs": 10,
+          "type": "free",
+          "partQs": 10
+        },
+        "Human Geography": {
+          "id": "SSC-SUB-25-GA-GEO-HUMAN-GEOGRAPHY",
+          "title": "SSC 2025 HUMAN GEOGRAPHY",
+          "totalQs": 97,
+          "type": "free"
+        },
+        "Transport": {
+          "id": "SSC-SUB-25-GA-GEO-TRANSPORT",
+          "title": "SSC 2025 TRANSPORT",
+          "totalQs": 104,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-GEO-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 6,
+          "type": "free",
+          "partQs": 6
+        }
+      },
+      "Physics": {
+        "Motion": {
+          "id": "SSC-SUB-25-GA-PHY-MOTION",
+          "title": "SSC 2025 MOTION",
+          "totalQs": 26,
+          "type": "free",
+          "partQs": 26
+        },
+        "Force and Laws of Motion": {
+          "id": "SSC-SUB-25-GA-PHY-FORCE-AND-LAWS-OF-MOTION",
+          "title": "SSC 2025 FORCE AND LAWS OF MOTION",
+          "totalQs": 48,
+          "type": "free"
+        },
+        "Gravitation and Work Done": {
+          "id": "SSC-SUB-25-GA-PHY-GRAVITATION-AND-WORK-DONE",
+          "title": "SSC 2025 GRAVITATION AND WORK DONE",
+          "totalQs": 49,
+          "type": "free"
+        },
+        "Sound": {
+          "id": "SSC-SUB-25-GA-PHY-SOUND",
+          "title": "SSC 2025 SOUND",
+          "totalQs": 32,
+          "type": "free",
+          "partQs": 32
+        },
+        "Reflection and Refraction": {
+          "id": "SSC-SUB-25-GA-PHY-REFLECTION-AND-REFRACTION",
+          "title": "SSC 2025 REFLECTION AND REFRACTION",
+          "totalQs": 17,
+          "type": "free",
+          "partQs": 17
+        },
+        "Human Eye and Vision": {
+          "id": "SSC-SUB-25-GA-PHY-HUMAN-EYE-AND-VISION",
+          "title": "SSC 2025 HUMAN EYE AND VISION",
+          "totalQs": 4,
+          "type": "free",
+          "partQs": 4
+        },
+        "Electricity": {
+          "id": "SSC-SUB-25-GA-PHY-ELECTRICITY",
+          "title": "SSC 2025 ELECTRICITY",
+          "totalQs": 32,
+          "type": "free",
+          "partQs": 32
+        },
+        "Magnetic Effect of Electric Current": {
+          "id": "SSC-SUB-25-GA-PHY-MAGNETIC-EFFECT-OF-ELECTRIC-CURRENT",
+          "title": "SSC 2025 MAGNETIC EFFECT OF ELECTRIC CURRENT",
+          "totalQs": 15,
+          "type": "free",
+          "partQs": 15
+        },
+        "Nuclear Technology": {
+          "id": "SSC-SUB-25-GA-PHY-NUCLEAR-TECHNOLOGY",
+          "title": "SSC 2025 NUCLEAR TECHNOLOGY",
+          "totalQs": 1,
+          "type": "free",
+          "partQs": 1
+        },
+        "Radioactivity": {
+          "id": "SSC-SUB-25-GA-PHY-RADIOACTIVITY",
+          "title": "SSC 2025 RADIOACTIVITY",
+          "totalQs": 1,
+          "type": "free",
+          "partQs": 1
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-PHY-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 15,
+          "type": "free",
+          "partQs": 15
+        }
+      },
+      "Chemistry": {
+        "Matter": {
+          "id": "SSC-SUB-25-GA-CHE-MATTER",
+          "title": "SSC 2025 MATTER",
+          "totalQs": 41,
+          "type": "free"
+        },
+        "Atom and Its Structure": {
+          "id": "SSC-SUB-25-GA-CHE-ATOM-AND-ITS-STRUCTURE",
+          "title": "SSC 2025 ATOM AND ITS STRUCTURE",
+          "totalQs": 15,
+          "type": "free",
+          "partQs": 15
+        },
+        "Periodic Table": {
+          "id": "SSC-SUB-25-GA-CHE-PERIODIC-TABLE",
+          "title": "SSC 2025 PERIODIC TABLE",
+          "totalQs": 7,
+          "type": "free",
+          "partQs": 7
+        },
+        "Chemical Reactions": {
+          "id": "SSC-SUB-25-GA-CHE-CHEMICAL-REACTIONS",
+          "title": "SSC 2025 CHEMICAL REACTIONS",
+          "totalQs": 10,
+          "type": "free",
+          "partQs": 10
+        },
+        "Metals and Non-Metals": {
+          "id": "SSC-SUB-25-GA-CHE-METALS-AND-NON-METALS",
+          "title": "SSC 2025 METALS AND NON-METALS",
+          "totalQs": 5,
+          "type": "free",
+          "partQs": 5
+        },
+        "Acid, Base and Salt": {
+          "id": "SSC-SUB-25-GA-CHE-ACID-BASE-AND-SALT",
+          "title": "SSC 2025 ACID, BASE AND SALT",
+          "totalQs": 10,
+          "type": "free",
+          "partQs": 10
+        },
+        "Carbon and Its Compounds": {
+          "id": "SSC-SUB-25-GA-CHE-CARBON-AND-ITS-COMPOUNDS",
+          "title": "SSC 2025 CARBON AND ITS COMPOUNDS",
+          "totalQs": 5,
+          "type": "free",
+          "partQs": 5
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-CHE-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 2,
+          "type": "free",
+          "partQs": 2
+        }
+      },
+      "Biology": {
+        "Cell": {
+          "id": "SSC-SUB-25-GA-BIO-CELL",
+          "title": "SSC 2025 CELL",
+          "totalQs": 48,
+          "type": "free"
+        },
+        "Plant Tissue and Animal Tissue": {
+          "id": "SSC-SUB-25-GA-BIO-PLANT-TISSUE-AND-ANIMAL-TISSUE",
+          "title": "SSC 2025 PLANT TISSUE AND ANIMAL TISSUE",
+          "totalQs": 33,
+          "type": "free",
+          "partQs": 33
+        },
+        "Plant and Animal Kingdom": {
+          "id": "SSC-SUB-25-GA-BIO-PLANT-AND-ANIMAL-KINGDOM",
+          "title": "SSC 2025 PLANT AND ANIMAL KINGDOM",
+          "totalQs": 38,
+          "type": "free",
+          "partQs": 38
+        },
+        "Nervous System": {
+          "id": "SSC-SUB-25-GA-BIO-NERVOUS-SYSTEM",
+          "title": "SSC 2025 NERVOUS SYSTEM",
+          "totalQs": 28,
+          "type": "free",
+          "partQs": 28
+        },
+        "Hormones and Plant Movement": {
+          "id": "SSC-SUB-25-GA-BIO-HORMONES-AND-PLANT-MOVEMENT",
+          "title": "SSC 2025 HORMONES AND PLANT MOVEMENT",
+          "totalQs": 31,
+          "type": "free",
+          "partQs": 31
+        },
+        "Reproduction": {
+          "id": "SSC-SUB-25-GA-BIO-REPRODUCTION",
+          "title": "SSC 2025 REPRODUCTION",
+          "totalQs": 5,
+          "type": "free",
+          "partQs": 5
+        },
+        "Digestion and Respiration": {
+          "id": "SSC-SUB-25-GA-BIO-DIGESTION-AND-RESPIRATION",
+          "title": "SSC 2025 DIGESTION AND RESPIRATION",
+          "totalQs": 35,
+          "type": "free",
+          "partQs": 35
+        },
+        "Circulatory System and Excretory System": {
+          "id": "SSC-SUB-25-GA-BIO-CIRCULATORY-SYSTEM-AND-EXCRETORY-SYSTEM",
+          "title": "SSC 2025 CIRCULATORY SYSTEM AND EXCRETORY SYSTEM",
+          "totalQs": 40,
+          "type": "free"
+        },
+        "Diseases": {
+          "id": "SSC-SUB-25-GA-BIO-DISEASES",
+          "title": "SSC 2025 DISEASES",
+          "totalQs": 5,
+          "type": "free",
+          "partQs": 5
+        },
+        "Nutrients": {
+          "id": "SSC-SUB-25-GA-BIO-NUTRIENTS",
+          "title": "SSC 2025 NUTRIENTS",
+          "totalQs": 14,
+          "type": "free",
+          "partQs": 14
+        },
+        "Heredity and Evolution": {
+          "id": "SSC-SUB-25-GA-BIO-HEREDITY-AND-EVOLUTION",
+          "title": "SSC 2025 HEREDITY AND EVOLUTION",
+          "totalQs": 8,
+          "type": "free",
+          "partQs": 8
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-BIO-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 1,
+          "type": "free",
+          "partQs": 1
+        }
+      },
+      "Science and Technology": {
+        "Science and Technology": {
+          "id": "SSC-SUB-25-GA-SNT-SCIENCE-AND-TECHNOLOGY",
+          "title": "SSC 2025 SCIENCE AND TECHNOLOGY",
+          "totalQs": 403,
+          "type": "free"
+        }
+      },
+      "Environment": {
+        "Basics of Environmental Sciences": {
+          "id": "SSC-SUB-25-GA-ENV-BASICS-OF-ENVIRONMENTAL-SCIENCES",
+          "title": "SSC 2025 BASICS OF ENVIRONMENTAL SCIENCES",
+          "totalQs": 53,
+          "type": "free"
+        },
+        "Ecosystem": {
+          "id": "SSC-SUB-25-GA-ENV-ECOSYSTEM",
+          "title": "SSC 2025 ECOSYSTEM",
+          "totalQs": 24,
+          "type": "free",
+          "partQs": 24
+        },
+        "Biogeochemical Cycles": {
+          "id": "SSC-SUB-25-GA-ENV-BIOGEOCHEMICAL-CYCLES",
+          "title": "SSC 2025 BIOGEOCHEMICAL CYCLES",
+          "totalQs": 3,
+          "type": "free",
+          "partQs": 3
+        },
+        "Environmental Conventions": {
+          "id": "SSC-SUB-25-GA-ENV-ENVIRONMENTAL-CONVENTIONS",
+          "title": "SSC 2025 ENVIRONMENTAL CONVENTIONS",
+          "totalQs": 15,
+          "type": "free",
+          "partQs": 15
+        },
+        "National Parks": {
+          "id": "SSC-SUB-25-GA-ENV-NATIONAL-PARKS",
+          "title": "SSC 2025 NATIONAL PARKS",
+          "totalQs": 58,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-ENV-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 3,
+          "type": "free",
+          "partQs": 3
+        }
+      },
+      "Current Affairs": {
+        "National News": {
+          "id": "SSC-SUB-25-GA-CUR-NATIONAL-NEWS",
+          "title": "SSC 2025 NATIONAL NEWS",
+          "totalQs": 118,
+          "type": "free"
+        },
+        "International News": {
+          "id": "SSC-SUB-25-GA-CUR-INTERNATIONAL-NEWS",
+          "title": "SSC 2025 INTERNATIONAL NEWS",
+          "totalQs": 56,
+          "type": "free"
+        },
+        "Appointments and Resignations": {
+          "id": "SSC-SUB-25-GA-CUR-APPOINTMENTS-AND-RESIGNATIONS",
+          "title": "SSC 2025 APPOINTMENTS AND RESIGNATIONS",
+          "totalQs": 182,
+          "type": "free"
+        },
+        "Awards and Honours (Current)": {
+          "id": "SSC-SUB-25-GA-CUR-AWARDS-AND-HONOURS-CURRENT",
+          "title": "SSC 2025 AWARDS AND HONOURS (CURRENT)",
+          "totalQs": 71,
+          "type": "free"
+        },
+        "Summits and Conferences": {
+          "id": "SSC-SUB-25-GA-CUR-SUMMITS-AND-CONFERENCES",
+          "title": "SSC 2025 SUMMITS AND CONFERENCES",
+          "totalQs": 54,
+          "type": "free"
+        },
+        "Reports and Indices (Current)": {
+          "id": "SSC-SUB-25-GA-CUR-REPORTS-AND-INDICES-CURRENT",
+          "title": "SSC 2025 REPORTS AND INDICES (CURRENT)",
+          "totalQs": 203,
+          "type": "free"
+        },
+        "Defence News": {
+          "id": "SSC-SUB-25-GA-CUR-DEFENCE-NEWS",
+          "title": "SSC 2025 DEFENCE NEWS",
+          "totalQs": 29,
+          "type": "free",
+          "partQs": 29
+        },
+        "Government Schemes and Policies (Current)": {
+          "id": "SSC-SUB-25-GA-CUR-GOVERNMENT-SCHEMES-AND-POLICIES-CURRENT",
+          "title": "SSC 2025 GOVERNMENT SCHEMES AND POLICIES (CURRENT)",
+          "totalQs": 226,
+          "type": "free"
+        },
+        "MoUs and Agreements": {
+          "id": "SSC-SUB-25-GA-CUR-MOUS-AND-AGREEMENTS",
+          "title": "SSC 2025 MOUS AND AGREEMENTS",
+          "totalQs": 27,
+          "type": "free",
+          "partQs": 27
+        },
+        "State News": {
+          "id": "SSC-SUB-25-GA-CUR-STATE-NEWS",
+          "title": "SSC 2025 STATE NEWS",
+          "totalQs": 51,
+          "type": "free"
+        },
+        "Miscellaneous": {
+          "id": "SSC-SUB-25-GA-CUR-MISCELLANEOUS",
+          "title": "SSC 2025 MISCELLANEOUS",
+          "totalQs": 13,
+          "type": "free",
+          "partQs": 13
+        }
+      }
+    }
+  }
+}
