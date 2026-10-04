@@ -25,7 +25,7 @@
     "tier1": {
       "2025": {
         "full_mocks": [
-          {"id": "CPO-09-DEC-2025-SHIFT-1-SET-A", "title": CPO 09-DEC-2025 SHIFT-1 — Set A (New Pattern, 100 Q)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 100},
+          {"id": "CPO-09-DEC-2025-SHIFT-1-SET-A", "title": "CPO 09-DEC-2025 SHIFT-1 — Set A (New Pattern, 100 Q)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 100},
           {"id": "CPO-09-DEC-2025-SHIFT-1-SET-B", "title": "CPO 09-DEC-2025 SHIFT 1", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 100},
           {"id": "CPO-09-DEC-2025-SHIFT-2-SET-A", "title": "CPO 09-DEC-2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 100},
           {"id": "CPO-09-DEC-2025-SHIFT-2-SET-B", "title": "CPO 10-DEC-2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 100},
