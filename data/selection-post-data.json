@@ -58,7 +58,7 @@
         "2026": {
           "full_mocks": [
             { "id": "SELECTION-POST-MATRIC-16-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIC (16 SEP SHIFT 3)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-17-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIC (17 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-17-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIC (17 SEP SHIFT 3)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-MATRIC-18-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIC (18 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-MATRIC-19-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIC (19 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-MATRIC-21-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIC (21 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
@@ -88,7 +88,7 @@
         "2026": {
           "full_mocks": [
             { "id": "SELECTION-POST-HSL-16-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (16 SEP SHIFT 2)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-17-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (17 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-17-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (17 SEP SHIFT 2)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-HSL-18-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (18 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-HSL-19-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (19 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-HSL-21-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (21 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
@@ -118,7 +118,7 @@
         "2026": {
           "full_mocks": [
             { "id": "SELECTION-POST-GRAD-17-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (17 SEP SHIFT 1)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-18-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (18 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-18-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (18 SEP SHIFT 1)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-GRAD-19-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (19 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-GRAD-21-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (21 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
             { "id": "SELECTION-POST-GRAD-22-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (22 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
