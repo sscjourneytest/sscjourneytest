@@ -230,86 +230,132 @@
       },
       "English": {
         "SYNONYM": [
-          {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-1","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-1","title":"SSC 2026 SYNONYM PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-2","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-2","title":"SSC 2026 SYNONYM PART-2","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-3","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-3","title":"SSC 2026 SYNONYM PART-3","type":"free","releaseDate":"","qs":18,"time":"11 Min","marks":36}
-        ],
-        "ANTONYM": [
-          {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-1","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-1","title":"SSC 2026 ANTONYM PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-2","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-2","title":"SSC 2026 ANTONYM PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-3","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-3","title":"SSC 2026 ANTONYM PART-3","type":"paid","releaseDate":"","qs":9,"time":"5 Min","marks":18}
-        ],
-        "ONE WORD SUBSTITUTION": [
-          {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-1","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-1","title":"SSC 2026 ONE WORD SUBSTITUTION PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-2","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-2","title":"SSC 2026 ONE WORD SUBSTITUTION PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-3","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-3","title":"SSC 2026 ONE WORD SUBSTITUTION PART-3","type":"paid","releaseDate":"","qs":12,"time":"7 Min","marks":24}
-        ],
-        "IDIOMS AND PHRASES": [
-          {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-1","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-1","title":"SSC 2026 IDIOMS AND PHRASES PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-2","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-2","title":"SSC 2026 IDIOMS AND PHRASES PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-3","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-3","title":"SSC 2026 IDIOMS AND PHRASES PART-3","type":"paid","releaseDate":"","qs":21,"time":"13 Min","marks":42}
-        ],
-        "HOMOPHONES AND HOMONYMS": [
-          {"id":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS-part-1","linkStr":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS&section=PART-1","title":"SSC 2026 HOMOPHONES AND HOMONYMS PART-1","type":"paid","releaseDate":"","qs":24,"time":"14 Min","marks":48}
-        ],
-        "SPELLING CHECK": [
-          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-1","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-1","title":"SSC 2026 SPELLING CHECK PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-2","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-2","title":"SSC 2026 SPELLING CHECK PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-3","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-3","title":"SSC 2026 SPELLING CHECK PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-4","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-4","title":"SSC 2026 SPELLING CHECK PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-5","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-5","title":"SSC 2026 SPELLING CHECK PART-5","type":"paid","releaseDate":"","qs":12,"time":"7 Min","marks":24}
-        ],
-        "ACTIVE PASSIVE VOICE": [
-          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-1","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-1","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-2","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-2","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-3","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-3","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-4","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-4","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-5","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-5","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-5","type":"paid","releaseDate":"","qs":3,"time":"2 Min","marks":6}
-        ],
-        "DIRECT INDIRECT (NARRATION)": [
-          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-1","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-1","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-2","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-2","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-3","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-3","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-4","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-4","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-5","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-5","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-5","type":"paid","releaseDate":"","qs":5,"time":"3 Min","marks":10}
-        ],
-        "FILL IN THE BLANKS": [
-          {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-1","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-1","title":"SSC 2026 FILL IN THE BLANKS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-2","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-2","title":"SSC 2026 FILL IN THE BLANKS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-3","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-3","title":"SSC 2026 FILL IN THE BLANKS PART-3","type":"paid","releaseDate":"","qs":13,"time":"8 Min","marks":26}
-        ],
-        "SENTENCE IMPROVEMENT": [
-          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-1","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-1","title":"SSC 2026 SENTENCE IMPROVEMENT PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-2","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-2","title":"SSC 2026 SENTENCE IMPROVEMENT PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-3","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-3","title":"SSC 2026 SENTENCE IMPROVEMENT PART-3","type":"paid","releaseDate":"","qs":11,"time":"7 Min","marks":22}
-        ],
-        "SENTENCE REARRANGEMENT": [
-          {"id":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT-part-1","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT&section=PART-1","title":"SSC 2026 SENTENCE REARRANGEMENT PART-1","type":"paid","releaseDate":"","qs":10,"time":"6 Min","marks":20}
-        ],
-        "SPOTTING ERRORS": [
-          {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-1","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-1","title":"SSC 2026 SPOTTING ERRORS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-2","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-2","title":"SSC 2026 SPOTTING ERRORS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-3","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-3","title":"SSC 2026 SPOTTING ERRORS PART-3","type":"paid","releaseDate":"","qs":6,"time":"4 Min","marks":12}
-        ],
-        "Para Jumbles (PQRS)": [
-          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-1","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-1","title":"SSC 2026 PARA JUMBLES (PQRS) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-2","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-2","title":"SSC 2026 PARA JUMBLES (PQRS) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-3","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-3","title":"SSC 2026 PARA JUMBLES (PQRS) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-4","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-4","title":"SSC 2026 PARA JUMBLES (PQRS) PART-4","type":"paid","releaseDate":"","qs":21,"time":"13 Min","marks":42}
-        ],
-        "Cloze Test": [
-          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-1","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-1","title":"SSC 2026 CLOZE TEST PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-2","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-2","title":"SSC 2026 CLOZE TEST PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-3","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-3","title":"SSC 2026 CLOZE TEST PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-4","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-4","title":"SSC 2026 CLOZE TEST PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-5","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-5","title":"SSC 2026 CLOZE TEST PART-5","type":"paid","releaseDate":"","qs":10,"time":"6 Min","marks":20}
-        ],
-        "PASSAGE": [
-          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-1","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-1","title":"SSC 2026 PASSAGE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-2","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-2","title":"SSC 2026 PASSAGE PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-3","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-3","title":"SSC 2026 PASSAGE PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
-          {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-4","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-4","title":"SSC 2026 PASSAGE PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50}
-        ]
+  {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-1","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-1","title":"SSC 2026 SYNONYM PART-1","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-2","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-2","title":"SSC 2026 SYNONYM PART-2","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-3","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-3","title":"SSC 2026 SYNONYM PART-3","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-4","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-4","title":"SSC 2026 SYNONYM PART-4","type":"free","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SYNONYM-part-5","linkStr":"SSC-SUB-26-ENGLISH-SYNONYM&section=PART-5","title":"SSC 2026 SYNONYM PART-5","type":"free","releaseDate":"","qs":19,"time":"11 Min","marks":38}
+],
+
+"ANTONYM": [
+  {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-1","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-1","title":"SSC 2026 ANTONYM PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-2","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-2","title":"SSC 2026 ANTONYM PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-3","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-3","title":"SSC 2026 ANTONYM PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-4","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-4","title":"SSC 2026 ANTONYM PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ANTONYM-part-5","linkStr":"SSC-SUB-26-ENGLISH-ANTONYM&section=PART-5","title":"SSC 2026 ANTONYM PART-5","type":"paid","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+],
+
+"ONE WORD SUBSTITUTION": [
+  {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-1","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-1","title":"SSC 2026 ONE WORD SUBSTITUTION PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-2","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-2","title":"SSC 2026 ONE WORD SUBSTITUTION PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-3","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-3","title":"SSC 2026 ONE WORD SUBSTITUTION PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-4","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-4","title":"SSC 2026 ONE WORD SUBSTITUTION PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION-part-5","linkStr":"SSC-SUB-26-ENGLISH-ONE-WORD-SUBSTITUTION&section=PART-5","title":"SSC 2026 ONE WORD SUBSTITUTION PART-5","type":"paid","releaseDate":"","qs":17,"time":"10 Min","marks":34}
+],
+
+"IDIOMS AND PHRASES": [
+  {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-1","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-1","title":"SSC 2026 IDIOMS AND PHRASES PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-2","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-2","title":"SSC 2026 IDIOMS AND PHRASES PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-3","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-3","title":"SSC 2026 IDIOMS AND PHRASES PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-4","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-4","title":"SSC 2026 IDIOMS AND PHRASES PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES-part-5","linkStr":"SSC-SUB-26-ENGLISH-IDIOMS-AND-PHRASES&section=PART-5","title":"SSC 2026 IDIOMS AND PHRASES PART-5","type":"paid","releaseDate":"","qs":19,"time":"11 Min","marks":38}
+],
+
+"HOMOPHONES AND HOMONYMS": [
+  {"id":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS-part-1","linkStr":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS&section=PART-1","title":"SSC 2026 HOMOPHONES AND HOMONYMS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS-part-2","linkStr":"SSC-SUB-26-ENGLISH-HOMOPHONES-AND-HOMONYMS&section=PART-2","title":"SSC 2026 HOMOPHONES AND HOMONYMS PART-2","type":"paid","releaseDate":"","qs":16,"time":"10 Min","marks":32}
+],
+
+"SPELLING CHECK": [
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-1","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-1","title":"SSC 2026 SPELLING CHECK PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-2","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-2","title":"SSC 2026 SPELLING CHECK PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-3","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-3","title":"SSC 2026 SPELLING CHECK PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-4","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-4","title":"SSC 2026 SPELLING CHECK PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-5","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-5","title":"SSC 2026 SPELLING CHECK PART-5","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-6","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-6","title":"SSC 2026 SPELLING CHECK PART-6","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-7","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-7","title":"SSC 2026 SPELLING CHECK PART-7","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPELLING-CHECK-part-8","linkStr":"SSC-SUB-26-ENGLISH-SPELLING-CHECK&section=PART-8","title":"SSC 2026 SPELLING CHECK PART-8","type":"paid","releaseDate":"","qs":4,"time":"2 Min","marks":8}
+],
+
+"ACTIVE PASSIVE VOICE": [
+  {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-1","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-1","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-2","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-2","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-3","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-3","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-4","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-4","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-5","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-5","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-5","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE-part-6","linkStr":"SSC-SUB-26-ENGLISH-ACTIVE-PASSIVE-VOICE&section=PART-6","title":"SSC 2026 ACTIVE PASSIVE VOICE PART-6","type":"paid","releaseDate":"","qs":1,"time":"1 Min","marks":2}
+],
+
+"DIRECT INDIRECT (NARRATION)": [
+  {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-1","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-1","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-2","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-2","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-3","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-3","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-4","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-4","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-5","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-5","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-5","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION-part-6","linkStr":"SSC-SUB-26-ENGLISH-DIRECT-INDIRECT-NARRATION&section=PART-6","title":"SSC 2026 DIRECT INDIRECT (NARRATION) PART-6","type":"paid","releaseDate":"","qs":5,"time":"3 Min","marks":10}
+],
+
+"FILL IN THE BLANKS": [
+  {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-1","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-1","title":"SSC 2026 FILL IN THE BLANKS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-2","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-2","title":"SSC 2026 FILL IN THE BLANKS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-3","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-3","title":"SSC 2026 FILL IN THE BLANKS PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-4","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-4","title":"SSC 2026 FILL IN THE BLANKS PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS-part-5","linkStr":"SSC-SUB-26-ENGLISH-FILL-IN-THE-BLANKS&section=PART-5","title":"SSC 2026 FILL IN THE BLANKS PART-5","type":"paid","releaseDate":"","qs":11,"time":"7 Min","marks":22}
+],
+
+"SENTENCE IMPROVEMENT": [
+  {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-1","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-1","title":"SSC 2026 SENTENCE IMPROVEMENT PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-2","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-2","title":"SSC 2026 SENTENCE IMPROVEMENT PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-3","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-3","title":"SSC 2026 SENTENCE IMPROVEMENT PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT-part-4","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-IMPROVEMENT&section=PART-4","title":"SSC 2026 SENTENCE IMPROVEMENT PART-4","type":"paid","releaseDate":"","qs":9,"time":"5 Min","marks":18}
+],
+
+"SENTENCE REARRANGEMENT": [
+  {"id":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT-part-1","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT&section=PART-1","title":"SSC 2026 SENTENCE REARRANGEMENT PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT-part-2","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT&section=PART-2","title":"SSC 2026 SENTENCE REARRANGEMENT PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT-part-3","linkStr":"SSC-SUB-26-ENGLISH-SENTENCE-REARRANGEMENT&section=PART-3","title":"SSC 2026 SENTENCE REARRANGEMENT PART-3","type":"paid","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+],
+
+"SPOTTING ERRORS": [
+  {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-1","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-1","title":"SSC 2026 SPOTTING ERRORS PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-2","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-2","title":"SSC 2026 SPOTTING ERRORS PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-3","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-3","title":"SSC 2026 SPOTTING ERRORS PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-4","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-4","title":"SSC 2026 SPOTTING ERRORS PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS-part-5","linkStr":"SSC-SUB-26-ENGLISH-SPOTTING-ERRORS&section=PART-5","title":"SSC 2026 SPOTTING ERRORS PART-5","type":"paid","releaseDate":"","qs":14,"time":"8 Min","marks":28}
+],
+
+"Para Jumbles (PQRS)": [
+  {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-1","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-1","title":"SSC 2026 PARA JUMBLES (PQRS) PART-1","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-2","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-2","title":"SSC 2026 PARA JUMBLES (PQRS) PART-2","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-3","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-3","title":"SSC 2026 PARA JUMBLES (PQRS) PART-3","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-4","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-4","title":"SSC 2026 PARA JUMBLES (PQRS) PART-4","type":"paid","releaseDate":"","qs":25,"time":"15 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS-part-5","linkStr":"SSC-SUB-26-ENGLISH-PARA-JUMBLES-PQRS&section=PART-5","title":"SSC 2026 PARA JUMBLES (PQRS) PART-5","type":"paid","releaseDate":"","qs":16,"time":"10 Min","marks":32}
+],
+
+"Cloze Test": [
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-1","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-1","title":"SSC 2026 CLOZE TEST PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-2","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-2","title":"SSC 2026 CLOZE TEST PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-3","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-3","title":"SSC 2026 CLOZE TEST PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-4","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-4","title":"SSC 2026 CLOZE TEST PART-4","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-5","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-5","title":"SSC 2026 CLOZE TEST PART-5","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-6","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-6","title":"SSC 2026 CLOZE TEST PART-6","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-7","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-7","title":"SSC 2026 CLOZE TEST PART-7","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-8","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-8","title":"SSC 2026 CLOZE TEST PART-8","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-9","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-9","title":"SSC 2026 CLOZE TEST PART-9","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-CLOZE-TEST-part-10","linkStr":"SSC-SUB-26-ENGLISH-CLOZE-TEST&section=PART-10","title":"SSC 2026 CLOZE TEST PART-10","type":"paid","releaseDate":"","qs":10,"time":"10 Min","marks":20}
+],
+
+"PASSAGE": [
+  {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-1","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-1","title":"SSC 2026 PASSAGE PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-2","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-2","title":"SSC 2026 PASSAGE PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-3","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-3","title":"SSC 2026 PASSAGE PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-4","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-4","title":"SSC 2026 PASSAGE PART-4","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+  {"id":"SSC-SUB-26-ENGLISH-PASSAGE-part-5","linkStr":"SSC-SUB-26-ENGLISH-PASSAGE&section=PART-5","title":"SSC 2026 PASSAGE PART-5","type":"paid","releaseDate":"","qs":10,"time":"10 Min","marks":20}
+],
+
+"PHRASAL VERBS": [
+  {"id":"SSC-SUB-26-ENGLISH-PHRASAL-VERBS-part-1","linkStr":"SSC-SUB-26-ENGLISH-PHRASAL-VERBS&section=PART-1","title":"SSC 2026 PHRASAL VERBS PART-1","type":"paid","releaseDate":"","qs":8,"time":"5 Min","marks":16}
+]
       },
       "General Awareness": {
         "Static GK": {
