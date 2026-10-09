@@ -40,32 +40,32 @@
       "matriculation": {
         "2025": {
           "full_mocks": [
-            { "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 24 JUL 2025 SHIFT 1", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 25 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 26 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-28-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 28 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-29-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 29 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-30-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 30 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-31-JUL-2025-SHIFT-1", "title": "SELECTION POST MATRIC 31 JUL 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-1", "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-2", "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-3", "title": "SELECTION POST MATRIC 01 AUG 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-02-AUG-2025-SHIFT-1", "title": "SELECTION POST MATRIC 02 AUG 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-29-AUG-2025-SHIFT-3", "title": "SELECTION POST MATRIC 29 AUG 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
+            { "id": "SELECTION-POST-MATRIC-24-JUL-2025-SHIFT-1", "title": "PHASE 13 MATRIX (24 JUL SHIFT 1)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-25-JUL-2025-SHIFT-1", "title": "PHASE 13 MATRIX (25 JUL SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-26-JUL-2025-SHIFT-1", "title": "PHASE 13 MATRIX (26 JUL SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-28-JUL-2025-SHIFT-1", "title": "PHASE 13 MATRIX (28 JUL SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-29-JUL-2025-SHIFT-1", "title": "PHASE 13 MATRIX (29 JUL SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-30-JUL-2025-SHIFT-1", "title": "PHASE 13 MATRIX (30 JUL SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-31-JUL-2025-SHIFT-1", "title": "PHASE 13 MATRIX (31 JUL SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-1", "title": "PHASE 13 MATRIX (01 AUG SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-2", "title": "PHASE 13 MATRIX (01 AUG SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-01-AUG-2025-SHIFT-3", "title": "PHASE 13 MATRIX (01 AUG SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-02-AUG-2025-SHIFT-1", "title": "PHASE 13 MATRIX (02 AUG SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-29-AUG-2025-SHIFT-3", "title": "PHASE 13 MATRIX (29 AUG SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
           ],
           "subject_wise": []
         },
         "2026": {
           "full_mocks": [
-            { "id": "SELECTION-POST-MATRIC-16-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-16-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-16", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-17-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-17-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-17", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-18-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-18-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-18", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-19-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-19-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-19", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-21-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-21-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-21", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-22-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-22-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-22", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-23-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-23-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-23", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-24-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-24-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-24", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-MATRIC-25-SEP-2026-SHIFT-3", "title": "SELECTION-POST-MATRIC-25-SEP-2026-SHIFT-3", "type": "locked", "releaseDate": "2026-09-25", "qs": 100, "time": "60 Min", "marks": 200 }
+            { "id": "SELECTION-POST-MATRIC-16-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (16 SEP SHIFT 3)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-17-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (17 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-18-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (18 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-19-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (19 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-21-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (21 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-22-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (22 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-23-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (23 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-24-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (24 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-MATRIC-25-SEP-2026-SHIFT-3", "title": "PHASE 14 MATRIX (25 SEP SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
           ],
           "subject_wise": []
         }
@@ -73,30 +73,30 @@
       "higher_secondary": {
         "2025": {
           "full_mocks": [
-            { "id": "SELECTION-POST-HSL-24-JUL-2025-SHIFT-2", "title": "SELECTION POST HSL 24 JUL 2025 SHIFT 2", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-25-JUL-2025-SHIFT-2", "title": "SELECTION POST HSL 25 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-26-JUL-2025-SHIFT-2", "title": "SELECTION POST HSL 26 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-28-JUL-2025-SHIFT-2", "title": "SELECTION POST HSL 28 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-29-JUL-2025-SHIFT-2", "title": "SELECTION POST HSL 29 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-30-JUL-2025-SHIFT-2", "title": "SELECTION POST HSL 30 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-31-JUL-2025-SHIFT-2", "title": "SELECTION POST HSL 31 JUL 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-02-AUG-2025-SHIFT-2", "title": "SELECTION POST HSL 02 AUG 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-29-AUG-2025-SHIFT-2", "title": "SELECTION POST HSL 29 AUG 2025 SHIFT 2", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
+            { "id": "SELECTION-POST-HSL-24-JUL-2025-SHIFT-2", "title": "PHASE 13 HSL (24 JUL SHIFT 2)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-25-JUL-2025-SHIFT-2", "title": "PHASE 13 HSL (25 JUL SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-26-JUL-2025-SHIFT-2", "title": "PHASE 13 HSL (26 JUL SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-28-JUL-2025-SHIFT-2", "title": "PHASE 13 HSL (28 JUL SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-29-JUL-2025-SHIFT-2", "title": "PHASE 13 HSL (29 JUL SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-30-JUL-2025-SHIFT-2", "title": "PHASE 13 HSL (30 JUL SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-31-JUL-2025-SHIFT-2", "title": "PHASE 13 HSL (31 JUL SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-02-AUG-2025-SHIFT-2", "title": "PHASE 13 HSL (02 AUG SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-29-AUG-2025-SHIFT-2", "title": "PHASE 13 HSL (29 AUG SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
           ],
           "subject_wise": []
         },
         "2026": {
           "full_mocks": [
-            { "id": "SELECTION-POST-HSL-16-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-16-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-16", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-17-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-17-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-17", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-18-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-18-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-18", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-19-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-19-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-19", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-21-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-21-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-21", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-22-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-22-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-22", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-23-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-23-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-23", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-24-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-24-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-24", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-25-SEP-2026-SHIFT-2", "title": "SELECTION-POST-HSL-25-SEP-2026-SHIFT-2", "type": "locked", "releaseDate": "2026-09-25", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-HSL-26-SEP-2026-SHIFT-1", "title": "SELECTION-POST-HSL-26-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-26", "qs": 100, "time": "60 Min", "marks": 200 }
+            { "id": "SELECTION-POST-HSL-16-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (16 SEP SHIFT 2)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-17-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (17 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-18-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (18 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-19-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (19 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-21-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (21 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-22-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (22 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-23-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (23 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-24-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (24 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-25-SEP-2026-SHIFT-2", "title": "PHASE 14 HSL (25 SEP SHIFT 2)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-HSL-26-SEP-2026-SHIFT-1", "title": "PHASE 14 HSL (26 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
           ],
           "subject_wise": []
         }
@@ -104,27 +104,27 @@
       "graduation": {
         "2025": {
           "full_mocks": [
-            { "id": "SELECTION-POST-GRAD-24-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 24 JUL 2025 SHIFT 3", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-25-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 25 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-28-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 28 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-29-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 29 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-30-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 30 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-31-JUL-2025-SHIFT-3", "title": "SELECTION POST GRAD 31 JUL 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-02-AUG-2025-SHIFT-3", "title": "SELECTION POST GRAD 02 AUG 2025 SHIFT 3", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-29-AUG-2025-SHIFT-1", "title": "SELECTION POST GRAD 29 AUG 2025 SHIFT 1", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
+            { "id": "SELECTION-POST-GRAD-24-JUL-2025-SHIFT-3", "title": "PHASE 13 GRAD (24 JUL SHIFT 3)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-25-JUL-2025-SHIFT-3", "title": "PHASE 13 GRAD (25 JUL SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-28-JUL-2025-SHIFT-3", "title": "PHASE 13 GRAD (28 JUL SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-29-JUL-2025-SHIFT-3", "title": "PHASE 13 GRAD (29 JUL SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-30-JUL-2025-SHIFT-3", "title": "PHASE 13 GRAD (30 JUL SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-31-JUL-2025-SHIFT-3", "title": "PHASE 13 GRAD (31 JUL SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-02-AUG-2025-SHIFT-3", "title": "PHASE 13 GRAD (02 AUG SHIFT 3)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-29-AUG-2025-SHIFT-1", "title": "PHASE 13 GRAD (29 AUG SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
           ],
           "subject_wise": []
         },
         "2026": {
           "full_mocks": [
-            { "id": "SELECTION-POST-GRAD-17-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-17-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-17", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-18-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-18-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-18", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-19-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-19-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-19", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-21-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-21-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-21", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-22-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-22-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-22", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-23-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-23-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-23", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-24-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-24-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-24", "qs": 100, "time": "60 Min", "marks": 200 },
-            { "id": "SELECTION-POST-GRAD-25-SEP-2026-SHIFT-1", "title": "SELECTION-POST-GRAD-25-SEP-2026-SHIFT-1", "type": "locked", "releaseDate": "2026-09-25", "qs": 100, "time": "60 Min", "marks": 200 }
+            { "id": "SELECTION-POST-GRAD-17-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (17 SEP SHIFT 1)", "type": "free", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-18-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (18 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-19-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (19 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-21-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (21 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-22-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (22 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-23-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (23 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-24-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (24 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 },
+            { "id": "SELECTION-POST-GRAD-25-SEP-2026-SHIFT-1", "title": "PHASE 14 GRAD (25 SEP SHIFT 1)", "type": "paid", "releaseDate": "", "qs": 100, "time": "60 Min", "marks": 200 }
           ],
           "subject_wise": []
         }
