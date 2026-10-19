@@ -169,6 +169,84 @@
           {"id":"SSC-SUB-25-REASONING-WORD-FORMATION-TOP-50-part-2","linkStr":"SSC-SUB-25-REASONING-WORD-FORMATION-TOP-50&section=PART-2","title":"SSC 2025 WORD FORMATION TOP 50 PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
         ]
       }
+    },
+    "2026": {
+      "Math": {},
+      "Reasoning": {
+        "Blood Relation": [
+          {"id":"SSC-SUB-26-REASONING-BLOOD-RELATION-part-1","linkStr":"SSC-SUB-26-REASONING-BLOOD-RELATION-TOP-50&section=PART-1","title":"SSC 2026 BLOOD RELATION PART-1","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-BLOOD-RELATION-part-2","linkStr":"SSC-SUB-26-REASONING-BLOOD-RELATION-TOP-50&section=PART-2","title":"SSC 2026 BLOOD RELATION PART-2","type":"free","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Calendar": [
+          {"id":"SSC-SUB-26-REASONING-CALENDAR-part-1","linkStr":"SSC-SUB-26-REASONING-CALENDAR-TOP-75&section=PART-1","title":"SSC 2026 CALENDAR PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-CALENDAR-part-2","linkStr":"SSC-SUB-26-REASONING-CALENDAR-TOP-75&section=PART-2","title":"SSC 2026 CALENDAR PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-CALENDAR-part-3","linkStr":"SSC-SUB-26-REASONING-CALENDAR-TOP-75&section=PART-3","title":"SSC 2026 CALENDAR PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Coding Decoding": [
+          {"id":"SSC-SUB-26-REASONING-CODING-DECODING-part-1","linkStr":"SSC-SUB-26-REASONING-CODING-DECODING-TOP-75&section=PART-1","title":"SSC 2026 CODING DECODING PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-CODING-DECODING-part-2","linkStr":"SSC-SUB-26-REASONING-CODING-DECODING-TOP-75&section=PART-2","title":"SSC 2026 CODING DECODING PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-CODING-DECODING-part-3","linkStr":"SSC-SUB-26-REASONING-CODING-DECODING-TOP-75&section=PART-3","title":"SSC 2026 CODING DECODING PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Decision Making": [
+          {"id":"SSC-SUB-26-REASONING-DECISION-MAKING-part-1","linkStr":"SSC-SUB-26-REASONING-DECISION-MAKING-TOP-75&section=PART-1","title":"SSC 2026 DECISION MAKING PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-DECISION-MAKING-part-2","linkStr":"SSC-SUB-26-REASONING-DECISION-MAKING-TOP-75&section=PART-2","title":"SSC 2026 DECISION MAKING PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-DECISION-MAKING-part-3","linkStr":"SSC-SUB-26-REASONING-DECISION-MAKING-TOP-75&section=PART-3","title":"SSC 2026 DECISION MAKING PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Letter Series": [
+          {"id":"SSC-SUB-26-REASONING-LETTER-SERIES-part-1","linkStr":"SSC-SUB-26-REASONING-LETTER-SERIES-TOP-75&section=PART-1","title":"SSC 2026 LETTER SERIES PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-LETTER-SERIES-part-2","linkStr":"SSC-SUB-26-REASONING-LETTER-SERIES-TOP-75&section=PART-2","title":"SSC 2026 LETTER SERIES PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-LETTER-SERIES-part-3","linkStr":"SSC-SUB-26-REASONING-LETTER-SERIES-TOP-75&section=PART-3","title":"SSC 2026 LETTER SERIES PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Letter/Alphabetical Analogy": [
+          {"id":"SSC-SUB-26-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-1","linkStr":"SSC-SUB-26-REASONING-LETTER-ALPHABETICAL-ANALOGY-TOP-50&section=PART-1","title":"SSC 2026 LETTER/ALPHABETICAL ANALOGY PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-LETTER-ALPHABETICAL-ANALOGY-part-2","linkStr":"SSC-SUB-26-REASONING-LETTER-ALPHABETICAL-ANALOGY-TOP-50&section=PART-2","title":"SSC 2026 LETTER/ALPHABETICAL ANALOGY PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Mathematical Operations": [
+          {"id":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS-part-1","linkStr":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS-TOP-75&section=PART-1","title":"SSC 2026 MATHEMATICAL OPERATIONS PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS-part-2","linkStr":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS-TOP-75&section=PART-2","title":"SSC 2026 MATHEMATICAL OPERATIONS PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS-part-3","linkStr":"SSC-SUB-26-REASONING-MATHEMATICAL-OPERATIONS-TOP-75&section=PART-3","title":"SSC 2026 MATHEMATICAL OPERATIONS PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Number Analogy": [
+          {"id":"SSC-SUB-26-REASONING-NUMBER-ANALOGY-part-1","linkStr":"SSC-SUB-26-REASONING-NUMBER-ANALOGY-TOP-50&section=PART-1","title":"SSC 2026 NUMBER ANALOGY PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-NUMBER-ANALOGY-part-2","linkStr":"SSC-SUB-26-REASONING-NUMBER-ANALOGY-TOP-50&section=PART-2","title":"SSC 2026 NUMBER ANALOGY PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Number Series": [
+          {"id":"SSC-SUB-26-REASONING-NUMBER-SERIES-part-1","linkStr":"SSC-SUB-26-REASONING-NUMBER-SERIES-TOP-80&section=PART-1","title":"SSC 2026 NUMBER SERIES PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-NUMBER-SERIES-part-2","linkStr":"SSC-SUB-26-REASONING-NUMBER-SERIES-TOP-80&section=PART-2","title":"SSC 2026 NUMBER SERIES PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-NUMBER-SERIES-part-3","linkStr":"SSC-SUB-26-REASONING-NUMBER-SERIES-TOP-80&section=PART-3","title":"SSC 2026 NUMBER SERIES PART-3","type":"paid","releaseDate":"","qs":30,"time":"30 Min","marks":60}
+        ],
+        "Odd One Out": [
+          {"id":"SSC-SUB-26-REASONING-ODD-ONE-OUT-part-1","linkStr":"SSC-SUB-26-REASONING-ODD-ONE-OUT-TOP-75&section=PART-1","title":"SSC 2026 ODD ONE OUT PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-ODD-ONE-OUT-part-2","linkStr":"SSC-SUB-26-REASONING-ODD-ONE-OUT-TOP-75&section=PART-2","title":"SSC 2026 ODD ONE OUT PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-ODD-ONE-OUT-part-3","linkStr":"SSC-SUB-26-REASONING-ODD-ONE-OUT-TOP-75&section=PART-3","title":"SSC 2026 ODD ONE OUT PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Order & Ranking": [
+          {"id":"SSC-SUB-26-REASONING-ORDER-AND-RANKING-part-1","linkStr":"SSC-SUB-26-REASONING-ORDER-AND-RANKING-TOP-75&section=PART-1","title":"SSC 2026 ORDER & RANKING PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-ORDER-AND-RANKING-part-2","linkStr":"SSC-SUB-26-REASONING-ORDER-AND-RANKING-TOP-75&section=PART-2","title":"SSC 2026 ORDER & RANKING PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-ORDER-AND-RANKING-part-3","linkStr":"SSC-SUB-26-REASONING-ORDER-AND-RANKING-TOP-75&section=PART-3","title":"SSC 2026 ORDER & RANKING PART-3","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Seating Arrangement": [
+          {"id":"SSC-SUB-26-REASONING-SEATING-ARRANGEMENT-part-1","linkStr":"SSC-SUB-26-REASONING-SEATING-ARRANGEMENT-TOP-50&section=PART-1","title":"SSC 2026 SEATING ARRANGEMENT PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-SEATING-ARRANGEMENT-part-2","linkStr":"SSC-SUB-26-REASONING-SEATING-ARRANGEMENT-TOP-50&section=PART-2","title":"SSC 2026 SEATING ARRANGEMENT PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Statement & Conclusion": [
+          {"id":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-part-1","linkStr":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-TOP-65&section=PART-1","title":"SSC 2026 STATEMENT & CONCLUSION PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-part-2","linkStr":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-TOP-65&section=PART-2","title":"SSC 2026 STATEMENT & CONCLUSION PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-part-3","linkStr":"SSC-SUB-26-REASONING-STATEMENT-AND-CONCLUSION-TOP-65&section=PART-3","title":"SSC 2026 STATEMENT & CONCLUSION PART-3","type":"paid","releaseDate":"","qs":15,"time":"15 Min","marks":30}
+        ],
+        "Syllogism": [
+          {"id":"SSC-SUB-26-REASONING-SYLLOGISM-part-1","linkStr":"SSC-SUB-26-REASONING-SYLLOGISM-TOP-50&section=PART-1","title":"SSC 2026 SYLLOGISM PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-SYLLOGISM-part-2","linkStr":"SSC-SUB-26-REASONING-SYLLOGISM-TOP-50&section=PART-2","title":"SSC 2026 SYLLOGISM PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Word Analogy": [
+          {"id":"SSC-SUB-26-REASONING-WORD-ANALOGY-part-1","linkStr":"SSC-SUB-26-REASONING-WORD-ANALOGY-TOP-50&section=PART-1","title":"SSC 2026 WORD ANALOGY PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-WORD-ANALOGY-part-2","linkStr":"SSC-SUB-26-REASONING-WORD-ANALOGY-TOP-50&section=PART-2","title":"SSC 2026 WORD ANALOGY PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ],
+        "Word Formation": [
+          {"id":"SSC-SUB-26-REASONING-WORD-FORMATION-part-1","linkStr":"SSC-SUB-26-REASONING-WORD-FORMATION-TOP-50&section=PART-1","title":"SSC 2026 WORD FORMATION PART-1","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50},
+          {"id":"SSC-SUB-26-REASONING-WORD-FORMATION-part-2","linkStr":"SSC-SUB-26-REASONING-WORD-FORMATION-TOP-50&section=PART-2","title":"SSC 2026 WORD FORMATION PART-2","type":"paid","releaseDate":"","qs":25,"time":"25 Min","marks":50}
+        ]
+      }
     }
   }
 }
