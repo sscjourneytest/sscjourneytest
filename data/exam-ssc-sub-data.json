@@ -1,0 +1,76 @@
+{
+  "examCode": "exam-ssc-sub",
+  "title": "Chapter Wise PYQs Exam Wise",
+  "config": {
+    "default": {
+      "full_link": "test.html",
+      "subject_link": "test.html"
+    }
+  },
+  "years": [
+    "2026",
+    "2025"
+  ],
+  "exams": [
+    {
+      "id": "cgl",
+      "title": "SSC CGL",
+      "subtitle": "Combined Graduate Level",
+      "icon": "grad-cap",
+      "logo": "",
+      "badge": ""
+    },
+    {
+      "id": "chsl",
+      "title": "SSC CHSL",
+      "subtitle": "Combined Higher Secondary Level",
+      "icon": "notebook",
+      "logo": "",
+      "badge": ""
+    },
+    {
+      "id": "mts",
+      "title": "SSC MTS",
+      "subtitle": "Multi Tasking Staff",
+      "icon": "briefcase",
+      "logo": "",
+      "badge": ""
+    },
+    {
+      "id": "cpo",
+      "title": "SSC CPO",
+      "subtitle": "Central Police Organization",
+      "icon": "shield-check",
+      "logo": "",
+      "badge": ""
+    },
+    {
+      "id": "steno",
+      "title": "SSC STENO",
+      "subtitle": "Stenographer Grade C & D",
+      "icon": "keyboard",
+      "logo": "",
+      "badge": ""
+    },
+    {
+      "id": "selection-post",
+      "title": "SSC PHASE",
+      "subtitle": "Selection Posts Phase",
+      "icon": "id-badge",
+      "logo": "",
+      "badge": ""
+    },
+    {
+      "id": "gd",
+      "title": "SSC GD",
+      "subtitle": "GD Constable",
+      "icon": "shield-star",
+      "logo": "",
+      "badge": ""
+    }
+  ],
+  "files": {
+    "2026": {},
+    "2025": {}
+  }
+}
